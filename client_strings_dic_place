@@ -1023,77 +1023,77 @@
   <string>
     <id>1060509</id>
     <name>STR_DIC_W_LF3_SZ_C5</name>
-    <body>Research Centre Overwatch;An observation post watching over the [%dic:STR_DIC_W_LF3_SZ_003].</body>
+    <body>' ثاحبالا ةبقارم زكرم;رادم ىلع ةبقارم ةظحالم  [%dic:STR_DIC_W_LF3_SZ_003].</body>
   </string>
   <string>
     <id>1060510</id>
     <name>STR_DIC_W_LF3_SZ_002</name>
-    <body>Senea's Campsite;A campsite in the centre of the [%dic:STR_DIC_W_LF3_SZ_C1]. Ecologist Senea and her researchers are here to study the region.</body>
+    <body>Senea's Campsite;طسو يف ميخت عقوم [%dic:STR_DIC_W_LF3_SZ_C1].  ةقطنملا ةساردل انه اهثاحباو انيس ةملاعلا</body>
   </string>
   <string>
     <id>1060511</id>
     <name>STR_DIC_W_LF3_SZ_003</name>
-    <body>Lepharist Research Center;A Lepharist research centre in the north of the [%dic:STR_DIC_W_LF3_SZ_C1]. It is heavily guarded.</body>
+    <body>زكرم ثاحيا ة; نم لامشلا يف ةيتسريفيللا يف ثاحبا زكرم [%dic:STR_DIC_W_LF3_SZ_C1]. It is heavily guarded.</body>
   </string>
   <string>
     <id>1060512</id>
     <name>STR_DIC_W_LF3_SZ_D1</name>
-    <body>Heiron Observatory;An Aetheric Field observatory on the eastern edge of the [%dic:STR_DIC_W_LF3_SZ_C1].</body>
+    <body>;نم ةيقرشلا ةفاحلا ىلع لقح [%dic:STR_DIC_W_LF3_SZ_C1].</body>
   </string>
   <string>
     <id>1060513</id>
     <name>STR_DIC_W_LF3_SZ_D2</name>
-    <body>Black Tear Swamp;A swamp southwest of the [%dic:STR_DIC_W_LF3_SZ_D4]. It's a fascinatingly diverse ecosystem.</body>
+    <body>ءادوسلا عومدلا عقنتسم; برغ بونج يف عقنتسم [%dic:STR_DIC_W_LF3_SZ_D4]. عونتم يئيب ماظن هنا.</body>
   </string>
   <string>
     <id>1060514</id>
     <name>STR_DIC_W_LF3_SZ_004</name>
-    <body>Kishar Observation Post;An observation post you can find by heading south from the [%dic:STR_DIC_W_LF3_SZ_D2]. A few Guardians have been dispatched to watch over the Kishar Krall.</body>
+    <body>راشيك ةبقارم زكرم; نم بونجلاب هاجتالاب هيلع روثعلا كنكمي زكرم[%dic:STR_DIC_W_LF3_SZ_D2].عدد قليل من الحراس تم ارسالتهم لمراقبة كيشار كرال.</body>
   </string>
   <string>
     <id>1060515</id>
     <name>STR_DIC_W_LF3_SZ_D3</name>
-    <body>Decayed Grove;A grove east of the [%dic:STR_DIC_W_LF3_SZ_D2], swarming with Agrints and Rotrons.</body>
+    <body>دسافلا ناستبلا;قرش يف عقي ناتسب[%dic:STR_DIC_W_LF3_SZ_D2], زنورتورلاو زتنيرقالا راجشاب محدزم.</body>
   </string>
   <string>
     <id>1060516</id>
     <name>STR_DIC_W_LF3_SZ_D4</name>
-    <body>Gloomy Mire;A swamp to the north of the [%dic:STR_DIC_W_LF3_SZ_D3]. It is occupied by Trolls.</body>
+    <body>بيئكلا عقنتسملا; لامش يف عقي عقنتسم [%dic:STR_DIC_W_LF3_SZ_D3]. ناليغلا لبق نم لتحا.</body>
   </string>
   <string>
     <id>1060517</id>
     <name>STR_DIC_W_LF3_SZ_D5</name>
-    <body>Orton Farm;A den of undead to the northeast of the [%dic:STR_DIC_W_LF3_SZ_D3].</body>
+    <body>نوتروا ةعرزم; نم يقرشلا لامشلا يف شوحولا نم ركو [%dic:STR_DIC_W_LF3_SZ_D3].</body>
   </string>
   <string>
     <id>1060518</id>
     <name>STR_DIC_W_LF3_SZ_D6</name>
-    <body>Grey Fog Marshes;A hillock wrapped in mist to the north of the [%dic:STR_DIC_W_LF3_SZ_D4]. Various swamp creatures ambush travelers here.</body>
+    <body>يدامرلا بابضلا تاعقنتسم;نم لامشلا يف بابضلاب ىطغم ناكم [%dic:STR_DIC_W_LF3_SZ_D4]. انه نيرفاسملل نيمك بصنت ةفلتخم ةيعقنتسم شوحو.</body>
   </string>
   <string>
     <id>1060519</id>
     <name>STR_DIC_W_LF3_SZ_005</name>
-    <body>Berone's Ruined House;A deserted house near the [%dic:STR_DIC_W_LF3_SZ_D4]. Rumour has it that a female ghost appears near the house at night.</body>
+    <body>رمدملا نوريبلا لزنم;نم برقلاب روجهم لزنم [%dic:STR_DIC_W_LF3_SZ_D4]. ًاليل لزنملا نم برقلاب رهظي ىثنأ حبش نإ تاعئاشلا لوقت.</body>
   </string>
   <string>
     <id>1060520</id>
     <name>STR_DIC_W_LF3_SZ_D7</name>
-    <body>Deathsong Forest;Once a forest filled with the vitality of the Elim, now corrupted and infested with strange creatures.</body>
+    <body>نارزيخلا ةباغ; هبيرغ شوحوب ةئلتممو ةفلات نالا اما ' ميلا ةيويحب ةئلتمم ةباغ تناك .</body>
   </string>
   <string>
     <id>1060521</id>
     <name>STR_DIC_W_LF3_SZ_D8</name>
-    <body>Medeus Manor West;A manor infested by undead, to the east of [%dic:STR_DIC_W_LF3_SZ_DTW]. Apparently it was once owned by someone named Medeus.</body>
+    <body>يبرغلا رونام سوديم; لامش ىلإ ' شوحوب ئلتمم  رونام [%dic:STR_DIC_W_LF3_SZ_DTW]. سوديم ىعدي صخش لبق نم ةكلتمم تناك ودبيام ىلع.</body>
   </string>
   <string>
     <id>1060522</id>
     <name>STR_DIC_W_LF3_SZ_D9</name>
-    <body>Medeus Manor East;It seems to be east of [%dic:STR_DIC_W_LF3_SZ_D8]. It is a dangerous place, swarming with various undead workers.</body>
+    <body>يقرشلا رونام سوديم;  قرش هنأ ودبي [%dic:STR_DIC_W_LF3_SZ_D8]. لامعلا شوحولا نم ديدعلاب ئلتمم ' ريطخ ناكم هنأ.</body>
   </string>
   <string>
     <id>1060523</id>
     <name>STR_DIC_W_LF3_SZ_006</name>
-    <body>Manor Cemetery;A cemetery to the north of [%dic:STR_DIC_W_LF3_SZ_D9]. Small children sneak in here sometimes on dares, but they never return.</body>
+    <body>رونام ةربقم; لامش يف عقت ةربقم [%dic:STR_DIC_W_LF3_SZ_D9].ادبأ ودوعيال نكلو ةأرجب انايحا انه راغصلا لافطالا للستيbody>
   </string>
   <string>
     <id>1060524</id>

@@ -53,7 +53,7 @@
   <string>
     <id>1060010</id>
     <name>STR_DIC_FLA01_1</name>
-    <body>Kales's Farm;A small farm in the [%dic:STR_DIC_FLA01]. Kales is growing some crops there.</body>
+    <body>سيلاك ةعرزم;لا يف ةريغص ةعرزم [%dic:STR_DIC_FLA01]. انه ليصاحملا ضعب ةعارزب موقي سيلاك.</body>
   </string>
   <string>
     <id>1060011</id>

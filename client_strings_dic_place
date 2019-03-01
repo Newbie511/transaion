@@ -218,7 +218,7 @@
   <string>
     <id>1060101</id>
     <name>STR_DIC_FLA28</name>
-    <body>رونلا جرب;ةنيدم يف سدقملا ليروا جرب [%dic:STR_DIC_FLA27].</body>
+    <body>Temple of Light;The holy temple of Ariel in the city of [%dic:STR_DIC_FLA27].</body>
   </string>
   <string>
     <id>1060102</id>
@@ -698,8 +698,8 @@
   <string>
     <id>1060302</id>
     <name>STR_DIC_W_DC1_2</name>
-    <body>Market Street;A street lined with stores selling various goods.</body>
-  </string>
+    <body>Market Street;A street lined with stores selling various goods.</body> تكوته اه اه
+  </string 
   <string>
     <id>1060303</id>
     <name>STR_DIC_W_DC1_3</name>
@@ -998,27 +998,27 @@
   <string>
     <id>1060504</id>
     <name>STR_DIC_W_LF3_SZ_C1</name>
-    <body>Poya Jungle;A dense jungle filled with ferocious creatures, just past [%dic:STR_DIC_W_LF3_SZ_C2].</body>
+    <body>ايوب ةباغ;نم برقلاب ' ةشحوتملا شوحولاب ةئلتمم ةفيثك ةباغ [%dic:STR_DIC_W_LF3_SZ_C2].</body>
   </string>
   <string>
     <id>1060505</id>
     <name>STR_DIC_W_LF3_SZ_018</name>
-    <body>Klawtan's Wallow;An area swarming with Klaws, located to the west of the [%dic:STR_DIC_W_LF3_SZ_C1].</body>
+    <body>نتوالك عقنتسم;An area swarming with Klaws, located to the west of the [%dic:STR_DIC_W_LF3_SZ_C1].</body>
   </string>
   <string>
     <id>1060506</id>
     <name>STR_DIC_W_LF3_SZ_C2</name>
-    <body>Heiron Pass;The passage between [%dic:STR_DIC_W_LF3_SZ_B] with the [%dic:STR_DIC_W_LF3_SZ_C1]. It is not an easy journey as the road is heavily populated by Ettins.</body>
+    <body>نيوريه ربعم;نيب رمملا [%dic:STR_DIC_W_LF3_SZ_B] عم [%dic:STR_DIC_W_LF3_SZ_C1]. زنيتالا شوحو نم ريبك لكشب محدزم قيرطلا نأ ثيح ةلهس ةلحر تسيل اهنإ.</body>
   </string>
   <string>
     <id>1060507</id>
     <name>STR_DIC_W_LF3_SZ_C3</name>
-    <body>Gojira Nest;Gojira's nest, in the northeast of the [%dic:STR_DIC_W_LF3_SZ_C1]. Various Frillnecks guard the way to the nest.</body>
+    <body>اريجوق شع;اريجوق شع, نم يقرشلا لامشلا يف [%dic:STR_DIC_W_LF3_SZ_C1]. شعلا ىلإ قيرطلا سرحي سكينليرف سويراف.</body>
   </string>
   <string>
     <id>1060508</id>
     <name>STR_DIC_W_LF3_SZ_C4</name>
-    <body>Tigric Village;A Tigric village in the north of the [%dic:STR_DIC_W_LF3_SZ_C1]. Their leader, Aeution Burningmane, is trying to expand his influence.</body>
+    <body>رومنلا ةيرق;لامش يف رومنلا ةيرق  [%dic:STR_DIC_W_LF3_SZ_C1]. Their leader, نروب نتويا, هذوفن عيسوت لواحي.</body>
   </string>
   <string>
     <id>1060509</id>
@@ -2998,7 +2998,7 @@
   <string>
     <id>1061094</id>
     <name>STR_DIC_W_IDCatacombs_SZ_D1</name>
-    <body>ﺮﻴﺒﻛ ﺢﺑﺬﻣ ﺪﺟﻮﻳ ﺚﻴﺣ ﻰﺗﻮﻤﻟﺍ ﺔﻘﻳﺪﺣ ﻦﻣ ﺔﻴﻗﺮﺸﻟﺍ ﺔﻴﺑﻮﻨﺠﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ؛ ﺢﺑﺬﻤﻟﺍ ﺓﺭﺎﻐﻣ.</body>
+    <body>Grotto of the Altar;The southeastern area of the Garden of the Dead where there is a large altar.</body>
   </string>
   <string>
     <id>1061095</id>

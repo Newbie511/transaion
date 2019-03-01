@@ -1998,152 +1998,152 @@
   <string>
     <id>1060806</id>
     <name>STR_DIC_W_STR_DF3_SZ_C5</name>
-    <body>Malek Mine;A Lepharist-controlled mine to the south of [%dic:STR_DIC_W_STR_DF3_SZ_A].</body>
+    <body>ﻚﻟﺎﻣ ﻢﺠﻨﻣ;ﺏﻮﻨﺠﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﻢﺠﻨﻣ-ﺖﺳﺮﻓﻻ [%dic:STR_DIC_W_STR_DF3_SZ_A].</body>
   </string>
   <string>
     <id>1060807</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6</name>
-    <body>Malek Pass;A passage leading into the [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
+    <body>ﻰﻟﺇ ﻱﺩﺆﻳ ﺮﻤﻣ؛ﻚﻟﺎﻣ ﺮﻤﻣ [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
   </string>
   <string>
     <id>1060808</id>
     <name>STR_DIC_W_STR_DF3_SZ_C7</name>
-    <body>Mist Valley;A valley that links [%dic:STR_DIC_W_STR_DF3_SZ_C6] and [%dic:STR_DIC_W_STR_DF3_SZ_D1].</body>
+    <body>ﻂﺑﺮﻳ ﻱﺩﺍﻭ؛ﺏﺎﺒﻀﻟﺍ ﻱﺩﺍﻭ [%dic:STR_DIC_W_STR_DF3_SZ_C6] و [%dic:STR_DIC_W_STR_DF3_SZ_D1].</body>
   </string>
   <string>
     <id>1060809</id>
     <name>STR_DIC_W_STR_DF3_SZ_D1</name>
-    <body>Kurngalfberg;An ancient city in the southwest of Beluslan. It wa completely frozen by the Dragon Lord Ereshkigal during the Cataclysm.</body>
+    <body>ﻥﻼﺳﻮﻠﻴﺑ ﺏﺮﻏ ﺏﻮﻨﺟ ﻲﻓ ﺔﻤﻳﺪﻗ ﺔﻨﻳﺪﻣ؛ﺝﺮﺒﻔﻠﺠﻧﺭﻮﻛ. ﺔﺛﺭﺎﻜﻟﺍ ﻝﻼﺧ ﻝﺎﺠﻴﻜﺷﺮﻳﺍ ﺩﺭﻮﻠﻟﺍ ﻦﻴﻨﺘﻟﺍ ﻞﺒﻗ ﻦﻣ ﺎﻣﺎﻤﺗ ﺕﺪﻤﺠﺗ</body>
   </string>
   <string>
     <id>1060810</id>
     <name>STR_DIC_W_STR_DF3_SZ_D2</name>
-    <body>Hunibor Ice Gate;A gate that links the [%dic:STR_DIC_W_STR_DF3_SZ_D3] and [%dic:STR_DIC_W_STR_DF3_SZ_D1]. It is completely covered with ice.</body>
+    <body>ﻦﻴﺑ ﻂﺑﺮﺗ ﺔﺑﺍﻮﺑ؛ﺔﻳﺪﻴﻠﺠﻟﺍ ﺮﺒﻴﻧﻮﻫ ﺔﺑﺍﻮﺑ [%dic:STR_DIC_W_STR_DF3_SZ_D3] و [%dic:STR_DIC_W_STR_DF3_SZ_D1]. ﺪﻴﻠﺠﻟﺎﺑ ﻞﻣﺎﻜﻟﺎﺑ ﺓﺎﻄﻐﻣ.</body>
   </string>
   <string>
     <id>1060811</id>
     <name>STR_DIC_W_STR_DF3_SZ_D3</name>
-    <body>Mamut Graveyard;Located to the south of the [%dic:STR_DIC_W_STR_DF3_SZ_D2]. Mamuts come here to die.</body>
+    <body> ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺍ ﻊﻘﺗ؛ﺕﻮﻣﺎﻤﻟﺍ ﺓﺮﺒﻘﻣ [%dic:STR_DIC_W_STR_DF3_SZ_D2]. ﺕﻮﻤﻠﻟ ﺎﻨﻫ ﻲﺗﺄﺗ ﺕﻮﻣﺎﻤﻟﺍ.</body>
   </string>
   <string>
     <id>1060812</id>
     <name>STR_DIC_W_STR_DF3_SZ_D4</name>
-    <body>Frost Spirit Valley;A valley to the east of the [%dic:STR_DIC_W_STR_DF3_SZ_D3]. It is filled with spirits.</body>
+    <body>ﻦﻣ ﻕﺮﺸﻟﺍ ﻰﻟﺇ ﻱﺩﺍﻭ؛ﺡﻭﺮﻟﺍ ﻊﻴﻘﺻ ﻱﺩﺍﻭ [%dic:STR_DIC_W_STR_DF3_SZ_D3].ﺡﺍﻭﺭﻻﺎﺑ ﺊﻴﻠﻣ ﻪﻧﺍ.</body>
   </string>
   <string>
     <id>1060813</id>
     <name>STR_DIC_W_STR_DF3_SZ_D5</name>
-    <body>Beluslan's Roof;The region between [%dic:STR_DIC_W_STR_DF3_SZ_D4] and the Red Mane Cavern. It is said to be the tallest point in Asmodae.</body>
+    <body>ﻦﻴﺑ ﺔﻘﻄﻨﻤﻟﺍ؛ﻥﻼﺳﻮﻠﻴﺑ ﺽﺭﺍ [%dic:STR_DIC_W_STR_DF3_SZ_D4] ﻲﻧﺎﻣ ﺮﻤﺣﻷﺍ ﻒﻬﻜﻟﺍﻭ. ﻦﻳﺩﻮﻣﺯﻻﺍ ﻲﻓ ﻥﺎﻜﻣ ﻝﻮﻃﺃ ﻪﻧﺃ ﻝﺎﻘﻳ.</body>
   </string>
   <string>
     <id>1060814</id>
     <name>STR_DIC_W_STR_DF3_SZ_E1</name>
-    <body>Besfer Refugee Camp;A temporary settlement in [%dic:STR_DIC_W_STR_DF3_SZ_E2]. The refugees here escaped the undead contamination of the nearby villages.</body>
+    <body> ﻲﻓ ﻪﺘﻗﺆﻣ ﺔﻨﻃﻮﺘﺴﻣ؛ﻦﻴﺌﺟﻼﻟ ﺮﻔﺴﻴﺑ ﻢﻴﺨﻣ [%dic:STR_DIC_W_STR_DF3_SZ_E2]. ﺓﺭﻭﺎﺠﻤﻟﺍ ﻯﺮﻘﻟﺍ ﺙﻮﻠﺗ ﻦﻣ ﺎﻨﻫ ﻥﻮﺌﺟﻼﻟﺍ ﺎﺠﻧ.</body>
   </string>
   <string>
     <id>1060815</id>
     <name>STR_DIC_W_STR_DF3_SZ_E2</name>
-    <body>The Whispering Forest;A forest in the northeast of Beluslan, often covered in thick fogs. Stories say that if you stay there too long, you begin to hear the whisperings of ghosts.</body>
+    <body>ﺡﺎﺒﺷﻷﺍ ﺕﺍﻮﺻﺃ ﻉﺎﻤﺳ ﻲﻓ ﺃﺪﺒﺘﺴﻓ ، ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻙﺎﻨﻫ ﺖﻴﻘﺑ ﺍﺫﺇ ﻪﻧﺄﺑ ﺮﻴﻃﺎﺳﻷﺍ ﻝﻮﻘﺗ . ﻒﻴﺜﻜﻟﺍ ﺏﺎﺒﻀﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﻥﻮﻜﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ,ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﺔﺑﺎﻏ؛ﺲﻤﻬﻟﺍ ﺔﺑﺎﻏ.</body>
   </string>
   <string>
     <id>1060816</id>
     <name>STR_DIC_W_STR_DF3_SZ_E3</name>
-    <body>Anair Ice Lake;A frozen lake to the west of [%dic:STR_DIC_W_STR_DF3_SZ_E4].</body>
+    <body> ﻦﻣ ﺏﺮﻐﻟﺍ ﻰﻟﺇ ﺓﺪﻤﺠﺘﻣ ﺓﺮﻴﺤﺑ؛ﺔﻳﺪﻴﻠﺠﻟﺍ ﺮﻳﺎﻧﺁ ﺓﺮﻴﺤﺑ [%dic:STR_DIC_W_STR_DF3_SZ_E4].</body>
   </string>
   <string>
     <id>1060817</id>
     <name>STR_DIC_W_STR_DF3_SZ_E4</name>
-    <body>Anair Harbour;An ancient harbour in the northeast of Beluslan, once the busiest port in ancient Atreia.</body>
+    <body> ﺔﻤﻳﺪﻘﻟﺍ ﺎﻳﺮﻴﺗﺃ ﺔﻘﻄﻨﻣ ﻲﻓ ﺎﻣﺎﺣﺩﺯﺍ ﺊﻧﺍﻮﻤﻟﺍ ﺮﺜﻛﺃ ﻡﺎﻳﻷﺍ ﻦﻣ ﻡﻮﻳ ﻲﻓ ﻥﺎﻛ ﻱﺬﻟﺍ ، ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﻢﻳﺪﻗ ﺀﺎﻨﻴﻣ؛ﻲﺋﺍﻮﻬﻟﺍ ﺊﺠﻠﻤﻟﺍ.</body>
   </string>
   <string>
     <id>1060818</id>
     <name>STR_DIC_W_STR_DF3_SZ_E5</name>
-    <body>Alukina's Palace;A sea in the eastern end of [%dic:STR_DIC_W_STR_DF3_SZ_E2]. The magic of the Seirens allows Humans to breathe water there.</body>
+    <body>ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻑﺮﻄﻟﺍ ﻲﻓ ﺮﺤﺑ؛ﺎﻨﻴﻛﻮﻟﺍ ﺮﺼﻗ [%dic:STR_DIC_W_STR_DF3_SZ_E2]. ﻙﺎﻨﻫ ﻩﺎﻴﻤﻟﺍ ﺖﺤﺗ ﺲﻔﻨﺘﻟﺎﺑ ﺮﺸﺒﻠﻟ ﺢﻤﺴﻳ ﺭﺪﻨﻤﺴﻟﺍ ﺮﺤﺳ.</body>
   </string>
   <string>
     <id>1060819</id>
     <name>STR_DIC_W_STR_DF3_SZ_F</name>
-    <body>Red Mane Cavern;The home of the Red Mane Mau. Since they allied with the Asmodians, detachments of Archons have been stationed here.</body>
+    <body>ﺎﻨﻫ ﺰﻧﻮﺸﺗﺭﻻﺍ ﻒﻠﺣ ﺰﻛﺮﻤﺗ ﺪﻗﻭ, ﻦﻳﺩﻮﻣﺯﻻﺍ ﻊﻣ ﻢﻬﻔﻟﺎﺤﺗ ﺬﻨﻣ ﺮﻤﺣﻻﺍ ﻭﺎﻤﻟﺍ ﻝﺰﻨﻣ؛ﺮﻤﺣﻻﺍ ﻲﻧﺎﻣ ﻒﻬﻛ.</body>
   </string>
   <string>
     <id>1060820</id>
     <name>STR_DIC_W_STR_DF3_SZ_G1</name>
-    <body>Fang Troll Encampment;A Troll habitat east of [%dic:STR_DIC_W_STR_DF3_SZ_F].</body>
+    <body>ﻕﺮﺷ ﺓﺮﺑﺎﺒﺠﻟﺍ ﻦﻃﻮﻣ؛ﺭﺎﺒﺠﻟﺍ ﺏﺎﻧ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_W_STR_DF3_SZ_F].</body>
   </string>
   <string>
     <id>1060821</id>
     <name>STR_DIC_W_STR_DF3_SZ_G2</name>
-    <body>Hoarfrost Fortress;A Mau fortress to the east of [%dic:STR_DIC_W_STR_DF3_SZ_F]. It was once the fortress of the Hoarfrost Mau but fell to the Balaur.</body>
+    <body>ﻦﻣ ﻕﺮﺸﻟﺍ ﻰﻟﺇ ﻭﺎﻤﻟﺍ ﻦﺼﺣ؛ﻊﻴﻘﺼﻟﺍ ﻦﺼﺣ [%dic:STR_DIC_W_STR_DF3_SZ_F]. ﺭﻮﻟﺎﺒﻟﺍ ﻦﻣ ﻂﻘﺳ ﻪﻨﻜﻟ ﻭﺎﻤﻟﺍ ﻊﻴﻘﺻ ﻦﺼﺣ ﻖﺑﺎﺴﻟﺍ ﻲﻓ ﻥﺎﻛ.</body>
   </string>
   <string>
     <id>1060822</id>
     <name>STR_DIC_W_STR_DF3_SZ_G3</name>
-    <body>Chaos Brambles;A dark forest in the south of [%dic:STR_DIC_W_STR_DF3_SZ_G2].</body>
+    <body>ﺏﻮﻨﺠﻟﺍ ﻲﻓ ﺔﻤﻠﻈﻣ ﺔﺑﺎﻏ;ﻰﺿﻮﻔﻟﺍ ﻖﻴﻠﻋ [%dic:STR_DIC_W_STR_DF3_SZ_G2].</body>
   </string>
   <string>
     <id>1060823</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4</name>
-    <body>Alquimia Stronghold;The main base of Lepharist Revolutionaries in the southeast of Beluslan. It has a research centre and a training camp.</body>
+    <body>ﻥﻼﺳﻮﻠﻴﺑ ﻕﺮﺷ ﺏﻮﻨﺟ ﻲﻓ ﺖﺴﻳﺮﻴﻓﻻ ﺭﺍﻮﺜﻟ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺓﺪﻋﺎﻘﻟﺍ;ﺎﻴﻤﻳﻮﻜﻟﺍ ﺔﻌﻠﻗ. ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣﻭ ﺙﺎﺤﺑﺃ ﺰﻛﺮﻣ ﺎﻬﻳﺪﻟ.</body>
   </string>
   <string>
     <id>1060824</id>
     <name>STR_DIC_W_STR_DF3_SZ_G5</name>
-    <body>Hoarfrost Outpost;The northern region of [%dic:STR_DIC_W_STR_DF3_SZ_G2]. It was once the village of the Hoarfrost Mau but fell to the Balaur.</body>
+    <body>ﻦﻣ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﻊﻴﻘﺼﻟﺍ ﺮﻔﺨﻣ [%dic:STR_DIC_W_STR_DF3_SZ_G2]. ﺭﻮﻟﺎﺒﻟﺍ ﺪﻳ ﻰﻠﻋ ﺖﻄﻘﺳ ﺎﻬﻨﻜﻟﻭ ، ﻡﻮﻳ ﺕﺍﺫ ﻭﺎﻤﻟﺍ ﻊﻴﻘﺻ ﺔﻳﺮﻗ ﺖﻧﺎﻛ.</body>
   </string>
   <string>
     <id>1060825</id>
     <name>STR_DIC_W_STR_DF3_SZ_G6</name>
-    <body>Bakarma Barracks;A Balaur garrison you can find in the deep north after passing [%dic:STR_DIC_W_STR_DF3_SZ_G5]. It is swarmed with Drakes, Draconutes, and Nagas.</body>
+    <body>ﻙﺭﻭﺮﻣ ﺪﻌﺑ ﻖﻴﻤﻌﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﺎﻫﺪﺠﺗ ﻥﺃ ﻦﻜﻤﻳ ﺭﻮﻟﺎﺒﻟﺍ ﺔﻴﻣﺎﺣ;ﺎﻣﺭﺎﻛﺎﺑ ﺔﻨﻜﺛ [%dic:STR_DIC_W_STR_DF3_SZ_G5]. ﻲﺘﻧﻮﻛﺍﺭﺪﻟﺍﻭ ﺲﺟﺎﻨﻟﺍﻭ ﺲﻛﺍﺭﺪﻠﻟ ﺔﻘﻄﻨﻣ ﺖﻧﺎﻛ ﺪﻗﻭ.</body>
   </string>
   <string>
     <id>1060826</id>
     <name>STR_DIC_W_STR_DF3_SZ_H</name>
-    <body>Draupnir Cave;A Balaur base at the eastern end of Beluslan. A large number of Balaur have infiltrated the cave, including Draconutes and Nagas.</body>
+    <body>ﺲﺟﺎﻧﻭ ﺲﺘﻧﻭﺎﻛﺍﺭﺩ ﻦﻣ ﻪﻴﻓ ﺎﻤﺑ , ﻒﻬﻜﻠﻟ ﺭﻮﻟﺎﺒﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺩﺪﻋ ﻞﻠﺴﺗ ﺪﻗﻭ . ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻑﺮﻄﻟﺍ ﻲﻓ ﺭﻮﻟﺎﺒﻟﺍ ﺓﺪﻋﺎﻗ;ﺮﻴﻧﻮﺑﺍﺭﺩ ﻒﻬﻛ.</body>
   </string>
   <string>
     <id>1060827</id>
     <name>STR_DIC_W_STR_DF3_SZ_toDF2</name>
-    <body>Road to Morheim;A road from Beluslan to Morheim.</body>
+    <body>ﻢﻬﻳﺭﻮﻣ ﻰﻟﺍ ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻖﻳﺮﻃ;ﻢﻴﻫﺭﻮﻣ ﻰﻟﺍ ﻖﻳﺮﻄﻟﺍ.</body>
   </string>
   <string>
     <id>1060828</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_2</name>
-    <body>Lepharist Port;</body>
+    <body>ﺖﺴﻳﺭﺎﻓﻻ ﺮﺒﻌﻣ;</body>
   </string>
   <string>
     <id>1060829</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4_2</name>
-    <body>Alquimia Castle Gate;A gate that leads into the research centre in [%dic:STR_DIC_W_STR_DF3_SZ_G4]. Only high-ranking or authorized Lepharists can use the gate.</body>
+    <body> ﻲﻓ ﺚﺤﺒﻟﺍ ﺰﻛﺮﻣ ﻰﻟﺍ ﻱﺩﺆﺗ ﻲﺘﻟﺍ;ﺎﻴﻤﻴﻜﻟﺍ ﺔﻌﻠﻗ ﺔﺑﺍﻮﺑ [%dic:STR_DIC_W_STR_DF3_SZ_G4]. ﺔﺑﺍﻮﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻢﻬﻨﻜﻤﻳ ﻢﻬﻟ ﺺﺧﺮﻤﻟﺍ ﻭﺃ ﺔﻴﻟﺎﻌﻟﺍ ﺐﺗﺮﻟﺍ ﻱﻭﺫ ﻂﻘﻓ.</body>
   </string>
   <string>
     <id>1060830</id>
     <name>STR_DIC_W_STR_DF3_SZ_B_2</name>
-    <body>Ghost Village Observation Post;A small campsite on the road from [%dic:STR_DIC_W_STR_DF3_SZ_B] to the Besfer Ghost Village. There stay Daevas who have been dispatched to clean up the Undead.</body>
+    <body>ﻦﻣ ﻖﻳﺮﻄﻟﺍ ﻰﻠﻋ ﺮﻴﻐﺻ ﻢﻴﺨﻣ;ﺡﺎﺒﺷﻻﺍ ﺔﻳﺮﻗ ﺔﺒﻗﺍﺮﻣ ﺰﻛﺮﻣ [%dic:STR_DIC_W_STR_DF3_SZ_B] ﻰﺗﻮﻤﻟﺍ ﺮﻴﻏ ﻒﻴﻈﻨﺘﻟ ﻢﻬﻟﺎﺳﺭﺇ ﻢﺗ ﻦﻳﺬﻟﺍ ﺎﻔﻳﺪﻟﺍ ﻰﻘﺒﻳ ﻙﺎﻨﻫ .ﺮﻔﺴﻴﺑ ﺡﺎﺒﺷﻻﺍ ﺔﻳﺮﻗ ﻰﻟﺇ.</body>
   </string>
   <string>
     <id>1060831</id>
     <name>STR_DIC_W_STR_DF3_SZ_C3_2</name>
-    <body>Kidorun's Campsite;A temporary tent in the east of [%dic:STR_DIC_W_STR_DF3_SZ_C4]. There stay Shugo members of the Kidorun Grave Robber Band.</body>
+    <body>ﻕﺮﺸﻟﺍ ﻲﻓ ﺔﺘﻗﺆﻣ ﺔﻤﻴﺧ;ﻥﺭﻭﺪﻴﻜﻟﺍ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_W_STR_DF3_SZ_C4]. ﻥﺭﻭﺪﻴﻜﻟﺍ ﻦﻣ ﺭﻮﺒﻘﻟﺍ ﻲﻗﺭﺎﺳ ﺔﺑﺎﺼﻋ ﻦﻣ ﻮﺟﻮﺷ ﺀﺎﻀﻋﺃ ﻙﺎﻨﻫ ﻰﻘﺒﻳ.</body>
   </string>
   <string>
     <id>1060832</id>
     <name>STR_DIC_W_STR_DF3_SZ_C3_3</name>
-    <body>The Lone Cottage;An isolated house in the corner of [%dic:STR_DIC_W_STR_DF3_SZ_C3]. Many awful rumours about the house have been spreading.</body>
+    <body>ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﻝﺰﻌﻨﻣ ﻝﺰﻨﻣ;ﻲﻔﻳﺮﻟﺍ ﻥﻮﻟ ﻝﺰﻨﻣ [%dic:STR_DIC_W_STR_DF3_SZ_C3]. ﻝﺰﻨﻤﻟﺍ ﻝﻮﺣ ﺓﺮﺸﺘﻨﻤﻟﺍ ﺔﻋﻭﺮﻤﻟﺍ ﺕﺎﻌﺋﺎﺸﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻙﺎﻨﻫ.</body>
   </string>
   <string>
     <id>1060833</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_3</name>
-    <body>Mine Port;A secret port in [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
+    <body> ﻲﻓ ﺔﻳﺮﺳ ﺔﺑﺍﻮﺑ;ﻢﺠﻨﻤﻟﺍ ﺔﺑﺍﻮﺑ [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
   </string>
   <string>
     <id>1060834</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_5</name>
-    <body>Malek Diggings;A site where a new building is being constructed inside [%dic:STR_DIC_W_STR_DF3_SZ_C5]. Spy Stua has infiltrated the site, disguised as a Lepharist.</body>
+    <body>ﻞﺧﺍﺪﻟﺎﺑ ﺪﻳﺪﺟ ﻰﻨﺒﻣ ﺀﺎﻨﺑ ﻪﻴﻓ ﻢﺘﻳ ﻊﻗﻮﻣ;ﻚﻟﺎﻣ ﺕﺎﻳﺮﻔﺣ [%dic:STR_DIC_W_STR_DF3_SZ_C5]. ﺖﺴﻳﺮﻓﻻ ﻦﻃﺍﻮﻣ ﺔﺌﻴﻫ ﻲﻓ ﺍﺮﻜﻨﺘﻣ ، ﻊﻗﻮﻤﻟﺍ ﻰﻟﺇ ﺍﻮﺘﺳ ﺱﻮﺳﺎﺟ ﻞﻠﺴﺗ.</body>
   </string>
   <string>
     <id>1060835</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_6</name>
-    <body>Malek Mine Workshop;A stope at the end of a spiral road from [%dic:STR_DIC_W_STR_DF3_SZ_C6].</body>
+    <body>ﻦﻣ ﻲﻧﻭﺰﻠﺣ ﻖﻳﺮﻃ ﺔﻳﺎﻬﻧ ﻲﻓ ﻒﻗﻮﺘﺗ;ﻚﻟﺎﻣ ﺔﺷﺭﻭ [%dic:STR_DIC_W_STR_DF3_SZ_C6].</body>
   </string>
   <string>
     <id>1060836</id>

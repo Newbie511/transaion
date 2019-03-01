@@ -178,7 +178,7 @@
   <string>
     <id>1060035</id>
     <name>STR_DIC_FLA16_1</name>
-    <body>يزمرقلا نينتلا لاثمت;An ancient altar that lies under the waterfall in the [%dic:STR_DIC_FLA16]. In ancient times, the Krall paid homage to the Dragon Lord Meslamtaeda here.</body>
+    <body>Altar of the Crimson Dragon;An ancient altar that lies under the waterfall in the [%dic:STR_DIC_FLA16]. In ancient times, the Krall paid homage to the Dragon Lord Meslamtaeda here.</body>
   </string>
   <string>
     <id>1060036</id>
@@ -2998,7 +2998,7 @@
   <string>
     <id>1061094</id>
     <name>STR_DIC_W_IDCatacombs_SZ_D1</name>
-    <body>Grotto of the Altar;The southeastern area of the Garden of the Dead where there is a large altar.</body>
+    <body>ﺮﻴﺒﻛ ﺢﺑﺬﻣ ﺪﺟﻮﻳ ﺚﻴﺣ ﻰﺗﻮﻤﻟﺍ ﺔﻘﻳﺪﺣ ﻦﻣ ﺔﻴﻗﺮﺸﻟﺍ ﺔﻴﺑﻮﻨﺠﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ؛ ﺢﺑﺬﻤﻟﺍ ﺓﺭﺎﻐﻣ.</body>
   </string>
   <string>
     <id>1061095</id>

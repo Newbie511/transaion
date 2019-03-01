@@ -1023,77 +1023,77 @@
   <string>
     <id>1060509</id>
     <name>STR_DIC_W_LF3_SZ_C5</name>
-    <body>' ثاحبالا ةبقارم زكرم;رادم ىلع ةبقارم ةظحالم  [%dic:STR_DIC_W_LF3_SZ_003].</body>
+    <body>Research Centre Overwatch;An observation post watching over the [%dic:STR_DIC_W_LF3_SZ_003].</body>
   </string>
   <string>
     <id>1060510</id>
     <name>STR_DIC_W_LF3_SZ_002</name>
-    <body>Senea's Campsite;طسو يف ميخت عقوم [%dic:STR_DIC_W_LF3_SZ_C1].  ةقطنملا ةساردل انه اهثاحباو انيس ةملاعلا</body>
+    <body>Senea's Campsite;A campsite in the centre of the [%dic:STR_DIC_W_LF3_SZ_C1]. Ecologist Senea and her researchers are here to study the region.</body>
   </string>
   <string>
     <id>1060511</id>
     <name>STR_DIC_W_LF3_SZ_003</name>
-    <body>زكرم ثاحيا ة; نم لامشلا يف ةيتسريفيللا يف ثاحبا زكرم [%dic:STR_DIC_W_LF3_SZ_C1]. It is heavily guarded.</body>
+    <body>Lepharist Research Center;A Lepharist research centre in the north of the [%dic:STR_DIC_W_LF3_SZ_C1]. It is heavily guarded.</body>
   </string>
   <string>
     <id>1060512</id>
     <name>STR_DIC_W_LF3_SZ_D1</name>
-    <body>;نم ةيقرشلا ةفاحلا ىلع لقح [%dic:STR_DIC_W_LF3_SZ_C1].</body>
+    <body>Heiron Observatory;An Aetheric Field observatory on the eastern edge of the [%dic:STR_DIC_W_LF3_SZ_C1].</body>
   </string>
   <string>
     <id>1060513</id>
     <name>STR_DIC_W_LF3_SZ_D2</name>
-    <body>ءادوسلا عومدلا عقنتسم; برغ بونج يف عقنتسم [%dic:STR_DIC_W_LF3_SZ_D4]. عونتم يئيب ماظن هنا.</body>
+    <body>Black Tear Swamp;A swamp southwest of the [%dic:STR_DIC_W_LF3_SZ_D4]. It's a fascinatingly diverse ecosystem.</body>
   </string>
   <string>
     <id>1060514</id>
     <name>STR_DIC_W_LF3_SZ_004</name>
-    <body>راشيك ةبقارم زكرم; نم بونجلاب هاجتالاب هيلع روثعلا كنكمي زكرم[%dic:STR_DIC_W_LF3_SZ_D2].عدد قليل من الحراس تم ارسالتهم لمراقبة كيشار كرال.</body>
+    <body>Kishar Observation Post;An observation post you can find by heading south from the [%dic:STR_DIC_W_LF3_SZ_D2]. A few Guardians have been dispatched to watch over the Kishar Krall.</body>
   </string>
   <string>
     <id>1060515</id>
     <name>STR_DIC_W_LF3_SZ_D3</name>
-    <body>دسافلا ناستبلا;قرش يف عقي ناتسب[%dic:STR_DIC_W_LF3_SZ_D2], زنورتورلاو زتنيرقالا راجشاب محدزم.</body>
+    <body>Decayed Grove;A grove east of the [%dic:STR_DIC_W_LF3_SZ_D2], swarming with Agrints and Rotrons.</body>
   </string>
   <string>
     <id>1060516</id>
     <name>STR_DIC_W_LF3_SZ_D4</name>
-    <body>بيئكلا عقنتسملا; لامش يف عقي عقنتسم [%dic:STR_DIC_W_LF3_SZ_D3]. ناليغلا لبق نم لتحا.</body>
+    <body>Gloomy Mire;A swamp to the north of the [%dic:STR_DIC_W_LF3_SZ_D3]. It is occupied by Trolls.</body>
   </string>
   <string>
     <id>1060517</id>
     <name>STR_DIC_W_LF3_SZ_D5</name>
-    <body>نوتروا ةعرزم; نم يقرشلا لامشلا يف شوحولا نم ركو [%dic:STR_DIC_W_LF3_SZ_D3].</body>
+    <body>Orton Farm;A den of undead to the northeast of the [%dic:STR_DIC_W_LF3_SZ_D3].</body>
   </string>
   <string>
     <id>1060518</id>
     <name>STR_DIC_W_LF3_SZ_D6</name>
-    <body>يدامرلا بابضلا تاعقنتسم;نم لامشلا يف بابضلاب ىطغم ناكم [%dic:STR_DIC_W_LF3_SZ_D4]. انه نيرفاسملل نيمك بصنت ةفلتخم ةيعقنتسم شوحو.</body>
+    <body>Grey Fog Marshes;A hillock wrapped in mist to the north of the [%dic:STR_DIC_W_LF3_SZ_D4]. Various swamp creatures ambush travelers here.</body>
   </string>
   <string>
     <id>1060519</id>
     <name>STR_DIC_W_LF3_SZ_005</name>
-    <body>رمدملا نوريبلا لزنم;نم برقلاب روجهم لزنم [%dic:STR_DIC_W_LF3_SZ_D4]. ًاليل لزنملا نم برقلاب رهظي ىثنأ حبش نإ تاعئاشلا لوقت.</body>
+    <body>Berone's Ruined House;A deserted house near the [%dic:STR_DIC_W_LF3_SZ_D4]. Rumour has it that a female ghost appears near the house at night.</body>
   </string>
   <string>
     <id>1060520</id>
     <name>STR_DIC_W_LF3_SZ_D7</name>
-    <body>نارزيخلا ةباغ; هبيرغ شوحوب ةئلتممو ةفلات نالا اما ' ميلا ةيويحب ةئلتمم ةباغ تناك .</body>
+    <body>Deathsong Forest;Once a forest filled with the vitality of the Elim, now corrupted and infested with strange creatures.</body>
   </string>
   <string>
     <id>1060521</id>
     <name>STR_DIC_W_LF3_SZ_D8</name>
-    <body>يبرغلا رونام سوديم; لامش ىلإ ' شوحوب ئلتمم  رونام [%dic:STR_DIC_W_LF3_SZ_DTW]. سوديم ىعدي صخش لبق نم ةكلتمم تناك ودبيام ىلع.</body>
+    <body>Medeus Manor West;A manor infested by undead, to the east of [%dic:STR_DIC_W_LF3_SZ_DTW]. Apparently it was once owned by someone named Medeus.</body>
   </string>
   <string>
     <id>1060522</id>
     <name>STR_DIC_W_LF3_SZ_D9</name>
-    <body>يقرشلا رونام سوديم;  قرش هنأ ودبي [%dic:STR_DIC_W_LF3_SZ_D8]. لامعلا شوحولا نم ديدعلاب ئلتمم ' ريطخ ناكم هنأ.</body>
+    <body>Medeus Manor East;It seems to be east of [%dic:STR_DIC_W_LF3_SZ_D8]. It is a dangerous place, swarming with various undead workers.</body>
   </string>
   <string>
     <id>1060523</id>
     <name>STR_DIC_W_LF3_SZ_006</name>
-    <body>رونام ةربقم; لامش يف عقت ةربقم [%dic:STR_DIC_W_LF3_SZ_D9].ادبأ ودوعيال نكلو ةأرجب انايحا انه راغصلا لافطالا للستيbody>
+    <body>Manor Cemetery;A cemetery to the north of [%dic:STR_DIC_W_LF3_SZ_D9]. Small children sneak in here sometimes on dares, but they never return.</body>
   </string>
   <string>
     <id>1060524</id>
@@ -1998,152 +1998,152 @@
   <string>
     <id>1060806</id>
     <name>STR_DIC_W_STR_DF3_SZ_C5</name>
-    <body>ﻚﻟﺎﻣ ﻢﺠﻨﻣ;ﺏﻮﻨﺠﻟﺍ ﻲﻓ ﻢﻜﺤﺘﻟﺍ ﻢﺠﻨﻣ-ﺖﺳﺮﻓﻻ [%dic:STR_DIC_W_STR_DF3_SZ_A].</body>
+    <body>Malek Mine;A Lepharist-controlled mine to the south of [%dic:STR_DIC_W_STR_DF3_SZ_A].</body>
   </string>
   <string>
     <id>1060807</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6</name>
-    <body>ﻰﻟﺇ ﻱﺩﺆﻳ ﺮﻤﻣ؛ﻚﻟﺎﻣ ﺮﻤﻣ [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
+    <body>Malek Pass;A passage leading into the [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
   </string>
   <string>
     <id>1060808</id>
     <name>STR_DIC_W_STR_DF3_SZ_C7</name>
-    <body>ﻂﺑﺮﻳ ﻱﺩﺍﻭ؛ﺏﺎﺒﻀﻟﺍ ﻱﺩﺍﻭ [%dic:STR_DIC_W_STR_DF3_SZ_C6] و [%dic:STR_DIC_W_STR_DF3_SZ_D1].</body>
+    <body>Mist Valley;A valley that links [%dic:STR_DIC_W_STR_DF3_SZ_C6] and [%dic:STR_DIC_W_STR_DF3_SZ_D1].</body>
   </string>
   <string>
     <id>1060809</id>
     <name>STR_DIC_W_STR_DF3_SZ_D1</name>
-    <body>ﻥﻼﺳﻮﻠﻴﺑ ﺏﺮﻏ ﺏﻮﻨﺟ ﻲﻓ ﺔﻤﻳﺪﻗ ﺔﻨﻳﺪﻣ؛ﺝﺮﺒﻔﻠﺠﻧﺭﻮﻛ. ﺔﺛﺭﺎﻜﻟﺍ ﻝﻼﺧ ﻝﺎﺠﻴﻜﺷﺮﻳﺍ ﺩﺭﻮﻠﻟﺍ ﻦﻴﻨﺘﻟﺍ ﻞﺒﻗ ﻦﻣ ﺎﻣﺎﻤﺗ ﺕﺪﻤﺠﺗ</body>
+    <body>Kurngalfberg;An ancient city in the southwest of Beluslan. It wa completely frozen by the Dragon Lord Ereshkigal during the Cataclysm.</body>
   </string>
   <string>
     <id>1060810</id>
     <name>STR_DIC_W_STR_DF3_SZ_D2</name>
-    <body>ﻦﻴﺑ ﻂﺑﺮﺗ ﺔﺑﺍﻮﺑ؛ﺔﻳﺪﻴﻠﺠﻟﺍ ﺮﺒﻴﻧﻮﻫ ﺔﺑﺍﻮﺑ [%dic:STR_DIC_W_STR_DF3_SZ_D3] و [%dic:STR_DIC_W_STR_DF3_SZ_D1]. ﺪﻴﻠﺠﻟﺎﺑ ﻞﻣﺎﻜﻟﺎﺑ ﺓﺎﻄﻐﻣ.</body>
+    <body>Hunibor Ice Gate;A gate that links the [%dic:STR_DIC_W_STR_DF3_SZ_D3] and [%dic:STR_DIC_W_STR_DF3_SZ_D1]. It is completely covered with ice.</body>
   </string>
   <string>
     <id>1060811</id>
     <name>STR_DIC_W_STR_DF3_SZ_D3</name>
-    <body> ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺍ ﻊﻘﺗ؛ﺕﻮﻣﺎﻤﻟﺍ ﺓﺮﺒﻘﻣ [%dic:STR_DIC_W_STR_DF3_SZ_D2]. ﺕﻮﻤﻠﻟ ﺎﻨﻫ ﻲﺗﺄﺗ ﺕﻮﻣﺎﻤﻟﺍ.</body>
+    <body>Mamut Graveyard;Located to the south of the [%dic:STR_DIC_W_STR_DF3_SZ_D2]. Mamuts come here to die.</body>
   </string>
   <string>
     <id>1060812</id>
     <name>STR_DIC_W_STR_DF3_SZ_D4</name>
-    <body>ﻦﻣ ﻕﺮﺸﻟﺍ ﻰﻟﺇ ﻱﺩﺍﻭ؛ﺡﻭﺮﻟﺍ ﻊﻴﻘﺻ ﻱﺩﺍﻭ [%dic:STR_DIC_W_STR_DF3_SZ_D3].ﺡﺍﻭﺭﻻﺎﺑ ﺊﻴﻠﻣ ﻪﻧﺍ.</body>
+    <body>Frost Spirit Valley;A valley to the east of the [%dic:STR_DIC_W_STR_DF3_SZ_D3]. It is filled with spirits.</body>
   </string>
   <string>
     <id>1060813</id>
     <name>STR_DIC_W_STR_DF3_SZ_D5</name>
-    <body>ﻦﻴﺑ ﺔﻘﻄﻨﻤﻟﺍ؛ﻥﻼﺳﻮﻠﻴﺑ ﺽﺭﺍ [%dic:STR_DIC_W_STR_DF3_SZ_D4] ﻲﻧﺎﻣ ﺮﻤﺣﻷﺍ ﻒﻬﻜﻟﺍﻭ. ﻦﻳﺩﻮﻣﺯﻻﺍ ﻲﻓ ﻥﺎﻜﻣ ﻝﻮﻃﺃ ﻪﻧﺃ ﻝﺎﻘﻳ.</body>
+    <body>Beluslan's Roof;The region between [%dic:STR_DIC_W_STR_DF3_SZ_D4] and the Red Mane Cavern. It is said to be the tallest point in Asmodae.</body>
   </string>
   <string>
     <id>1060814</id>
     <name>STR_DIC_W_STR_DF3_SZ_E1</name>
-    <body> ﻲﻓ ﻪﺘﻗﺆﻣ ﺔﻨﻃﻮﺘﺴﻣ؛ﻦﻴﺌﺟﻼﻟ ﺮﻔﺴﻴﺑ ﻢﻴﺨﻣ [%dic:STR_DIC_W_STR_DF3_SZ_E2]. ﺓﺭﻭﺎﺠﻤﻟﺍ ﻯﺮﻘﻟﺍ ﺙﻮﻠﺗ ﻦﻣ ﺎﻨﻫ ﻥﻮﺌﺟﻼﻟﺍ ﺎﺠﻧ.</body>
+    <body>Besfer Refugee Camp;A temporary settlement in [%dic:STR_DIC_W_STR_DF3_SZ_E2]. The refugees here escaped the undead contamination of the nearby villages.</body>
   </string>
   <string>
     <id>1060815</id>
     <name>STR_DIC_W_STR_DF3_SZ_E2</name>
-    <body>ﺡﺎﺒﺷﻷﺍ ﺕﺍﻮﺻﺃ ﻉﺎﻤﺳ ﻲﻓ ﺃﺪﺒﺘﺴﻓ ، ﺔﻠﻳﻮﻃ ﺓﺮﺘﻔﻟ ﻙﺎﻨﻫ ﺖﻴﻘﺑ ﺍﺫﺇ ﻪﻧﺄﺑ ﺮﻴﻃﺎﺳﻷﺍ ﻝﻮﻘﺗ . ﻒﻴﺜﻜﻟﺍ ﺏﺎﺒﻀﻟﺍ ﻲﻓ ﺔﻴﻔﺨﻣ ﻥﻮﻜﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ,ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﺔﺑﺎﻏ؛ﺲﻤﻬﻟﺍ ﺔﺑﺎﻏ.</body>
+    <body>The Whispering Forest;A forest in the northeast of Beluslan, often covered in thick fogs. Stories say that if you stay there too long, you begin to hear the whisperings of ghosts.</body>
   </string>
   <string>
     <id>1060816</id>
     <name>STR_DIC_W_STR_DF3_SZ_E3</name>
-    <body> ﻦﻣ ﺏﺮﻐﻟﺍ ﻰﻟﺇ ﺓﺪﻤﺠﺘﻣ ﺓﺮﻴﺤﺑ؛ﺔﻳﺪﻴﻠﺠﻟﺍ ﺮﻳﺎﻧﺁ ﺓﺮﻴﺤﺑ [%dic:STR_DIC_W_STR_DF3_SZ_E4].</body>
+    <body>Anair Ice Lake;A frozen lake to the west of [%dic:STR_DIC_W_STR_DF3_SZ_E4].</body>
   </string>
   <string>
     <id>1060817</id>
     <name>STR_DIC_W_STR_DF3_SZ_E4</name>
-    <body> ﺔﻤﻳﺪﻘﻟﺍ ﺎﻳﺮﻴﺗﺃ ﺔﻘﻄﻨﻣ ﻲﻓ ﺎﻣﺎﺣﺩﺯﺍ ﺊﻧﺍﻮﻤﻟﺍ ﺮﺜﻛﺃ ﻡﺎﻳﻷﺍ ﻦﻣ ﻡﻮﻳ ﻲﻓ ﻥﺎﻛ ﻱﺬﻟﺍ ، ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﻢﻳﺪﻗ ﺀﺎﻨﻴﻣ؛ﻲﺋﺍﻮﻬﻟﺍ ﺊﺠﻠﻤﻟﺍ.</body>
+    <body>Anair Harbour;An ancient harbour in the northeast of Beluslan, once the busiest port in ancient Atreia.</body>
   </string>
   <string>
     <id>1060818</id>
     <name>STR_DIC_W_STR_DF3_SZ_E5</name>
-    <body>ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻑﺮﻄﻟﺍ ﻲﻓ ﺮﺤﺑ؛ﺎﻨﻴﻛﻮﻟﺍ ﺮﺼﻗ [%dic:STR_DIC_W_STR_DF3_SZ_E2]. ﻙﺎﻨﻫ ﻩﺎﻴﻤﻟﺍ ﺖﺤﺗ ﺲﻔﻨﺘﻟﺎﺑ ﺮﺸﺒﻠﻟ ﺢﻤﺴﻳ ﺭﺪﻨﻤﺴﻟﺍ ﺮﺤﺳ.</body>
+    <body>Alukina's Palace;A sea in the eastern end of [%dic:STR_DIC_W_STR_DF3_SZ_E2]. The magic of the Seirens allows Humans to breathe water there.</body>
   </string>
   <string>
     <id>1060819</id>
     <name>STR_DIC_W_STR_DF3_SZ_F</name>
-    <body>ﺎﻨﻫ ﺰﻧﻮﺸﺗﺭﻻﺍ ﻒﻠﺣ ﺰﻛﺮﻤﺗ ﺪﻗﻭ, ﻦﻳﺩﻮﻣﺯﻻﺍ ﻊﻣ ﻢﻬﻔﻟﺎﺤﺗ ﺬﻨﻣ ﺮﻤﺣﻻﺍ ﻭﺎﻤﻟﺍ ﻝﺰﻨﻣ؛ﺮﻤﺣﻻﺍ ﻲﻧﺎﻣ ﻒﻬﻛ.</body>
+    <body>Red Mane Cavern;The home of the Red Mane Mau. Since they allied with the Asmodians, detachments of Archons have been stationed here.</body>
   </string>
   <string>
     <id>1060820</id>
     <name>STR_DIC_W_STR_DF3_SZ_G1</name>
-    <body>ﻕﺮﺷ ﺓﺮﺑﺎﺒﺠﻟﺍ ﻦﻃﻮﻣ؛ﺭﺎﺒﺠﻟﺍ ﺏﺎﻧ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_W_STR_DF3_SZ_F].</body>
+    <body>Fang Troll Encampment;A Troll habitat east of [%dic:STR_DIC_W_STR_DF3_SZ_F].</body>
   </string>
   <string>
     <id>1060821</id>
     <name>STR_DIC_W_STR_DF3_SZ_G2</name>
-    <body>ﻦﻣ ﻕﺮﺸﻟﺍ ﻰﻟﺇ ﻭﺎﻤﻟﺍ ﻦﺼﺣ؛ﻊﻴﻘﺼﻟﺍ ﻦﺼﺣ [%dic:STR_DIC_W_STR_DF3_SZ_F]. ﺭﻮﻟﺎﺒﻟﺍ ﻦﻣ ﻂﻘﺳ ﻪﻨﻜﻟ ﻭﺎﻤﻟﺍ ﻊﻴﻘﺻ ﻦﺼﺣ ﻖﺑﺎﺴﻟﺍ ﻲﻓ ﻥﺎﻛ.</body>
+    <body>Hoarfrost Fortress;A Mau fortress to the east of [%dic:STR_DIC_W_STR_DF3_SZ_F]. It was once the fortress of the Hoarfrost Mau but fell to the Balaur.</body>
   </string>
   <string>
     <id>1060822</id>
     <name>STR_DIC_W_STR_DF3_SZ_G3</name>
-    <body>ﺏﻮﻨﺠﻟﺍ ﻲﻓ ﺔﻤﻠﻈﻣ ﺔﺑﺎﻏ;ﻰﺿﻮﻔﻟﺍ ﻖﻴﻠﻋ [%dic:STR_DIC_W_STR_DF3_SZ_G2].</body>
+    <body>Chaos Brambles;A dark forest in the south of [%dic:STR_DIC_W_STR_DF3_SZ_G2].</body>
   </string>
   <string>
     <id>1060823</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4</name>
-    <body>ﻥﻼﺳﻮﻠﻴﺑ ﻕﺮﺷ ﺏﻮﻨﺟ ﻲﻓ ﺖﺴﻳﺮﻴﻓﻻ ﺭﺍﻮﺜﻟ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺓﺪﻋﺎﻘﻟﺍ;ﺎﻴﻤﻳﻮﻜﻟﺍ ﺔﻌﻠﻗ. ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣﻭ ﺙﺎﺤﺑﺃ ﺰﻛﺮﻣ ﺎﻬﻳﺪﻟ.</body>
+    <body>Alquimia Stronghold;The main base of Lepharist Revolutionaries in the southeast of Beluslan. It has a research centre and a training camp.</body>
   </string>
   <string>
     <id>1060824</id>
     <name>STR_DIC_W_STR_DF3_SZ_G5</name>
-    <body>ﻦﻣ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﻊﻴﻘﺼﻟﺍ ﺮﻔﺨﻣ [%dic:STR_DIC_W_STR_DF3_SZ_G2]. ﺭﻮﻟﺎﺒﻟﺍ ﺪﻳ ﻰﻠﻋ ﺖﻄﻘﺳ ﺎﻬﻨﻜﻟﻭ ، ﻡﻮﻳ ﺕﺍﺫ ﻭﺎﻤﻟﺍ ﻊﻴﻘﺻ ﺔﻳﺮﻗ ﺖﻧﺎﻛ.</body>
+    <body>Hoarfrost Outpost;The northern region of [%dic:STR_DIC_W_STR_DF3_SZ_G2]. It was once the village of the Hoarfrost Mau but fell to the Balaur.</body>
   </string>
   <string>
     <id>1060825</id>
     <name>STR_DIC_W_STR_DF3_SZ_G6</name>
-    <body>ﻙﺭﻭﺮﻣ ﺪﻌﺑ ﻖﻴﻤﻌﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﺎﻫﺪﺠﺗ ﻥﺃ ﻦﻜﻤﻳ ﺭﻮﻟﺎﺒﻟﺍ ﺔﻴﻣﺎﺣ;ﺎﻣﺭﺎﻛﺎﺑ ﺔﻨﻜﺛ [%dic:STR_DIC_W_STR_DF3_SZ_G5]. ﻲﺘﻧﻮﻛﺍﺭﺪﻟﺍﻭ ﺲﺟﺎﻨﻟﺍﻭ ﺲﻛﺍﺭﺪﻠﻟ ﺔﻘﻄﻨﻣ ﺖﻧﺎﻛ ﺪﻗﻭ.</body>
+    <body>Bakarma Barracks;A Balaur garrison you can find in the deep north after passing [%dic:STR_DIC_W_STR_DF3_SZ_G5]. It is swarmed with Drakes, Draconutes, and Nagas.</body>
   </string>
   <string>
     <id>1060826</id>
     <name>STR_DIC_W_STR_DF3_SZ_H</name>
-    <body>ﺲﺟﺎﻧﻭ ﺲﺘﻧﻭﺎﻛﺍﺭﺩ ﻦﻣ ﻪﻴﻓ ﺎﻤﺑ , ﻒﻬﻜﻠﻟ ﺭﻮﻟﺎﺒﻟﺍ ﻦﻣ ﺮﻴﺒﻛ ﺩﺪﻋ ﻞﻠﺴﺗ ﺪﻗﻭ . ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻑﺮﻄﻟﺍ ﻲﻓ ﺭﻮﻟﺎﺒﻟﺍ ﺓﺪﻋﺎﻗ;ﺮﻴﻧﻮﺑﺍﺭﺩ ﻒﻬﻛ.</body>
+    <body>Draupnir Cave;A Balaur base at the eastern end of Beluslan. A large number of Balaur have infiltrated the cave, including Draconutes and Nagas.</body>
   </string>
   <string>
     <id>1060827</id>
     <name>STR_DIC_W_STR_DF3_SZ_toDF2</name>
-    <body>ﻢﻬﻳﺭﻮﻣ ﻰﻟﺍ ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻖﻳﺮﻃ;ﻢﻴﻫﺭﻮﻣ ﻰﻟﺍ ﻖﻳﺮﻄﻟﺍ.</body>
+    <body>Road to Morheim;A road from Beluslan to Morheim.</body>
   </string>
   <string>
     <id>1060828</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_2</name>
-    <body>ﺖﺴﻳﺭﺎﻓﻻ ﺮﺒﻌﻣ;</body>
+    <body>Lepharist Port;</body>
   </string>
   <string>
     <id>1060829</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4_2</name>
-    <body> ﻲﻓ ﺚﺤﺒﻟﺍ ﺰﻛﺮﻣ ﻰﻟﺍ ﻱﺩﺆﺗ ﻲﺘﻟﺍ;ﺎﻴﻤﻴﻜﻟﺍ ﺔﻌﻠﻗ ﺔﺑﺍﻮﺑ [%dic:STR_DIC_W_STR_DF3_SZ_G4]. ﺔﺑﺍﻮﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻢﻬﻨﻜﻤﻳ ﻢﻬﻟ ﺺﺧﺮﻤﻟﺍ ﻭﺃ ﺔﻴﻟﺎﻌﻟﺍ ﺐﺗﺮﻟﺍ ﻱﻭﺫ ﻂﻘﻓ.</body>
+    <body>Alquimia Castle Gate;A gate that leads into the research centre in [%dic:STR_DIC_W_STR_DF3_SZ_G4]. Only high-ranking or authorized Lepharists can use the gate.</body>
   </string>
   <string>
     <id>1060830</id>
     <name>STR_DIC_W_STR_DF3_SZ_B_2</name>
-    <body>ﻦﻣ ﻖﻳﺮﻄﻟﺍ ﻰﻠﻋ ﺮﻴﻐﺻ ﻢﻴﺨﻣ;ﺡﺎﺒﺷﻻﺍ ﺔﻳﺮﻗ ﺔﺒﻗﺍﺮﻣ ﺰﻛﺮﻣ [%dic:STR_DIC_W_STR_DF3_SZ_B] ﻰﺗﻮﻤﻟﺍ ﺮﻴﻏ ﻒﻴﻈﻨﺘﻟ ﻢﻬﻟﺎﺳﺭﺇ ﻢﺗ ﻦﻳﺬﻟﺍ ﺎﻔﻳﺪﻟﺍ ﻰﻘﺒﻳ ﻙﺎﻨﻫ .ﺮﻔﺴﻴﺑ ﺡﺎﺒﺷﻻﺍ ﺔﻳﺮﻗ ﻰﻟﺇ.</body>
+    <body>Ghost Village Observation Post;A small campsite on the road from [%dic:STR_DIC_W_STR_DF3_SZ_B] to the Besfer Ghost Village. There stay Daevas who have been dispatched to clean up the Undead.</body>
   </string>
   <string>
     <id>1060831</id>
     <name>STR_DIC_W_STR_DF3_SZ_C3_2</name>
-    <body>ﻕﺮﺸﻟﺍ ﻲﻓ ﺔﺘﻗﺆﻣ ﺔﻤﻴﺧ;ﻥﺭﻭﺪﻴﻜﻟﺍ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_W_STR_DF3_SZ_C4]. ﻥﺭﻭﺪﻴﻜﻟﺍ ﻦﻣ ﺭﻮﺒﻘﻟﺍ ﻲﻗﺭﺎﺳ ﺔﺑﺎﺼﻋ ﻦﻣ ﻮﺟﻮﺷ ﺀﺎﻀﻋﺃ ﻙﺎﻨﻫ ﻰﻘﺒﻳ.</body>
+    <body>Kidorun's Campsite;A temporary tent in the east of [%dic:STR_DIC_W_STR_DF3_SZ_C4]. There stay Shugo members of the Kidorun Grave Robber Band.</body>
   </string>
   <string>
     <id>1060832</id>
     <name>STR_DIC_W_STR_DF3_SZ_C3_3</name>
-    <body>ﺔﻳﻭﺍﺰﻟﺍ ﻲﻓ ﻝﺰﻌﻨﻣ ﻝﺰﻨﻣ;ﻲﻔﻳﺮﻟﺍ ﻥﻮﻟ ﻝﺰﻨﻣ [%dic:STR_DIC_W_STR_DF3_SZ_C3]. ﻝﺰﻨﻤﻟﺍ ﻝﻮﺣ ﺓﺮﺸﺘﻨﻤﻟﺍ ﺔﻋﻭﺮﻤﻟﺍ ﺕﺎﻌﺋﺎﺸﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻙﺎﻨﻫ.</body>
+    <body>The Lone Cottage;An isolated house in the corner of [%dic:STR_DIC_W_STR_DF3_SZ_C3]. Many awful rumours about the house have been spreading.</body>
   </string>
   <string>
     <id>1060833</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_3</name>
-    <body> ﻲﻓ ﺔﻳﺮﺳ ﺔﺑﺍﻮﺑ;ﻢﺠﻨﻤﻟﺍ ﺔﺑﺍﻮﺑ [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
+    <body>Mine Port;A secret port in [%dic:STR_DIC_W_STR_DF3_SZ_C5].</body>
   </string>
   <string>
     <id>1060834</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_5</name>
-    <body>ﻞﺧﺍﺪﻟﺎﺑ ﺪﻳﺪﺟ ﻰﻨﺒﻣ ﺀﺎﻨﺑ ﻪﻴﻓ ﻢﺘﻳ ﻊﻗﻮﻣ;ﻚﻟﺎﻣ ﺕﺎﻳﺮﻔﺣ [%dic:STR_DIC_W_STR_DF3_SZ_C5]. ﺖﺴﻳﺮﻓﻻ ﻦﻃﺍﻮﻣ ﺔﺌﻴﻫ ﻲﻓ ﺍﺮﻜﻨﺘﻣ ، ﻊﻗﻮﻤﻟﺍ ﻰﻟﺇ ﺍﻮﺘﺳ ﺱﻮﺳﺎﺟ ﻞﻠﺴﺗ.</body>
+    <body>Malek Diggings;A site where a new building is being constructed inside [%dic:STR_DIC_W_STR_DF3_SZ_C5]. Spy Stua has infiltrated the site, disguised as a Lepharist.</body>
   </string>
   <string>
     <id>1060835</id>
     <name>STR_DIC_W_STR_DF3_SZ_C6_6</name>
-    <body>ﻦﻣ ﻲﻧﻭﺰﻠﺣ ﻖﻳﺮﻃ ﺔﻳﺎﻬﻧ ﻲﻓ ﻒﻗﻮﺘﺗ;ﻚﻟﺎﻣ ﺔﺷﺭﻭ [%dic:STR_DIC_W_STR_DF3_SZ_C6].</body>
+    <body>Malek Mine Workshop;A stope at the end of a spiral road from [%dic:STR_DIC_W_STR_DF3_SZ_C6].</body>
   </string>
   <string>
     <id>1060836</id>
@@ -4003,42 +4003,42 @@
   <string>
     <id>1061304</id>
     <name>STR_DIC_W_LDF4a_SZ_B2_10</name>
-    <body>Jotari Sanctuary Ruins;An ancient, ruined temple that floats above the [%dic:STR_DIC_W_LDF4a_SZ_B2_09].</body>
+    <body>ﻕﻮﻓ ﻮﻔﻄﻳ ﻡﺪﻬﻣ ﻢﻳﺪﻗ ﺪﺒﻌﻣ ؛ ﻭﺭﺎﺗﻮﺟ ﻝﻼﻃﺃ [%dic:STR_DIC_W_LDF4a_SZ_B2_09].</body>
   </string>
   <string>
     <id>1061305</id>
     <name>STR_DIC_W_LDF4a_SZ_C1</name>
-    <body>Destroyed Guardian's Seal;When the [%dic:STR_DIC_E_guardstone_Q41256] here was destroyed, the [%dic:STR_DIC_W_LDF4a_SZ_C1_000] ripped the area into a nightmarish landscape.</body>
+    <body>ﺎﻣﺪﻨﻋ ؛ ﺮﻣﺪﻤﻟﺍ ﺱﺭﺎﺤﻟﺍ ﻢﺘﺧ [%dic:STR_DIC_E_guardstone_Q41256]ﻭ ، ﺕﺮﻣﺩ ﺎﻨﻫ [%dic:STR_DIC_W_LDF4a_SZ_C1_000] .ﻲﺳﻮﺑﺎﻛ ﺪﻬﺸﻣ ﻰﻟﺇ ﺔﻘﻄﻨﻤﻟﺍ ﺖﻗﺰﻣ</body>
   </string>
   <string>
     <id>1061306</id>
     <name>STR_DIC_W_LDF4a_SZ_C1_01</name>
-    <body>Twisted Land Research Expedition;The Twisted Land Research Group uses this camp as its base while investigating the [%dic:STR_DIC_W_LDF4a_SZ_C1_000]. It is in one of the deepest fissures in the Great Fissure.</body>
+    <body>ﻲﻓ ﻖﻴﻘﺤﺘﻟﺍ ﺀﺎﻨﺛﺃ ﺎﻬﻟ ﺓﺪﻋﺎﻘﻛ ﻢﻴﺨﻤﻟﺍ ﺍﺬﻫ ﺔﻳﻮﺘﻠﻤﻟﺍ ﺽﺭﻷﺍ ﺙﺎﺤﺑﺃ ﺔﻋﻮﻤﺠﻣ ﻡﺪﺨﺘﺴﺗ ؛ ﺔﻳﻮﺘﻠﻤﻟﺍ ﺽﺭﻷﺍ ﺚﺤﺑ ﺔﺜﻌﺑ [%dic:STR_DIC_W_LDF4a_SZ_C1_000]..ﻢﻴﻈﻌﻟﺍ ﻖﺸﻟﺍ ﻲﻓ ﺕﺎﻘﻘﺸﺘﻟﺍ ﻖﻤﻋﺃ ﻦﻣ ﺓﺪﺣﺍﻭ ﻲﻓ ﻮﻫ</body>
   </string>
   <string>
     <id>1061307</id>
     <name>STR_DIC_W_LDF4a_SZ_C1_02</name>
-    <body>Twisted Land Outpost;A temporary camp for the team researching the area annihilated by the Destroyed Guardian's Seal.</body>
+    <body>.ﺮﻣﺪﻤﻟﺍ ﺱﺭﺎﺤﻟﺍ ﻢﺘﺧ ﺔﻄﺳﺍﻮﺑ ﺕﺪﻴﺑﺃ ﻲﺘﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﻦﻋ ﺚﺤﺒﻳ ﻱﺬﻟﺍ ﺚﺤﺒﻟﺍ ﻖﻳﺮﻔﻟ ﺖﻗﺆﻣ ﻢﻴﺨﻣ ؛ ﺔﻳﻮﺘﻠﻤﻟﺍ ﺽﺭﻷﺍ ﺔﻄﺤﻣ</body>
   </string>
   <string>
     <id>1061310</id>
     <name>STR_DIC_W_LDF4a_SZ_C1_05</name>
-    <body>Ellesra Cave;A huge cave brimming with Energy of Greater Aether. Its entrance is hidden in the west of [%dic:STR_DIC_W_LDF4a_SZ_C1].</body>
+    <body>ﺏﺮﻐﻟﺍ ﻲﻓ ﻲﻔﺨﻣ ﺎﻬﻠﺧﺪﻣ .ﻢﻴﻈﻌﻟﺍ ﺮﺜﻳﺇ ﻦﻣ ﺔﻗﺎﻄﻟﺎﺑ ﺀﻲﻠﻣ ﻢﺨﺿ ﻒﻬﻛ ؛ ﺍﺮﺴﻴﻟﺇ ﻒﻬﻛ [%dic:STR_DIC_W_LDF4a_SZ_C1].</body>
   </string>
   <string>
     <id>1061311</id>
     <name>STR_DIC_W_LDF4a_SZ_C2</name>
-    <body>Satrakand;The ruins of a fortress where remnants of the Satra Legion are encamped.</body>
+    <body>.ﺍﺮﺗﺎﺳ ﻖﻠﻴﻓ ﻦﻣ ﺎﻳﺎﻘﺑ ﺎﻬﻴﻓ ﺖﻟﺰﻧ ﺚﻴﺣ ﺔﻌﻠﻗ ﻝﻼﻃﺃ ؛ﺪﻧﺎﻛﺍﺮﺗﺎﺳ</body>
   </string>
   <string>
     <id>1061312</id>
     <name>STR_DIC_W_LDF4a_SZ_C2_01</name>
-    <body>Southeast Guardian's Seal;The [%dic:STR_DIC_E_guardstone_Q41256] hre prevents Tiamat's power from destroying the area north of [%dic:STR_DIC_W_LDF4a_SZ_C2].</body>
+    <body>ﻝﺍ , ﻲﻗﺮﺸﻟﺍ ﻲﺑﻮﻨﺠﻟﺍ ﺱﺭﺎﺤﻟﺍ ﻢﺘﺧ[%dic:STR_DIC_E_guardstone_Q41256] ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﺔﻘﻄﻨﻣ ﺮﻴﻣﺪﺗ ﻦﻣ ﺕﺎﻣﺎﻴﺗ ﺔﻄﻠﺳ ﻊﻨﻤﻳ ﺮﻴﻫ [%dic:STR_DIC_W_LDF4a_SZ_C2].</body>
   </string>
   <string>
     <id>1061317</id>
     <name>STR_DIC_W_LDF4a_SZ_D</name>
-    <body>Sabat's End;A valley that contains the only transport lines from Kamar into Tiamaranta, making it strategically vital. The remains of its namesake are fossilized into the western cliffs of the End.</body>
+    <body>.ﺔﻳﺎﻬﻨﻟﺍ ﻲﻓ ﺔﻴﺑﺮﻐﻟﺍ ﺕﺍﺭﺪﺤﻨﻤﻟﺍ ﻲﻓ ﻪﺴﻔﻧ ﻢﺳﻻﺍ ﻞﻤﺤﺗ ﻦﻣ ﺎﻳﺎﻘﺑ ﺮﻴﻔﺤﺗ ﻢﺘﻳ .ﺔﻴﺠﻴﺗﺍﺮﺘﺳﻹﺍ ﺔﻴﺣﺎﻨﻟﺍ ﻦﻣ ﺔﻳﻮﻴﺣ ﺎﻬﻠﻌﺠﻳ ﺎﻤﻣ ، ﺎﺘﻧﺍﺭﺎﻣﺎﻴﺗ ﻰﻟﺇ ﺭﺎﻣﺎﻛ ﻦﻣ ﺓﺪﻴﺣﻮﻟﺍ ﻞﻘﻨﻟﺍ ﻁﻮﻄﺧ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻱﺩﺍﻭ ؛ ﺕﺎﺒﺳ ﺔﻳﺎﻬﻧ</body>
   </string>
   <string>
     <id>1061318</id>
@@ -4053,67 +4053,67 @@
   <string>
     <id>1061320</id>
     <name>STR_DIC_W_LDF4a_SZ_D_03</name>
-    <body>Sabat's End Cemetary;Tiamat's power has disturbed the spirits resting in this formerly-peaceful Reian cemetary.</body>
+    <body>.ًﺎﻘﺑﺎﺳ ﻡﻼﺴﻟﺎﺑ ﻊﺘﻤﺘﺗ ﺖﻧﺎﻛ ﻲﺘﻟﺍ ﻥﺎﻳﺭ ﺓﺮﺒﻘﻣ ﻲﻓ ﺡﺎﺗﺮﺗ ﻲﺘﻟﺍ ﺡﺍﻭﺭﻷﺍ ﺕﺎﻣﺎﻴﺗ ﺔﻄﻠﺳ ﺖﺠﻋﺯﺃ ؛ ﺕﺎﺒﺳ ﺔﻳﺎﻬﻧ ﺓﺮﺒﻘﻣ</body>
   </string>
   <string>
     <id>1061321</id>
     <name>STR_DIC_W_LDF4a_SZ_D_04</name>
-    <body>Rancora North Gate;The north end of the heavily-fortified Sarpan entrance to Tiamaranta.</body>
+    <body>.ﺎﺘﻧﺍﺭﺎﻣﺎﻴﺗ ﻰﻟﺇ ﻦﺼﺤﻤﻟﺍ ﻥﺎﺑﺭﺎﺳ ﻞﺧﺪﻣ ﻦﻣ ﻲﻟﺎﻤﺸﻟﺍ ﻑﺮﻄﻟﺍ ؛ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺍﺭﻮﻜﻧﺍﺭ ﺔﺑﺍﻮﺑ</body>
   </string>
   <string>
     <id>1061324</id>
     <name>STR_DIC_W_ZONE_NAME_IDLDF4A_Lehpar</name>
-    <body>Israphel's Space;The Empyrean Lord [%dic:STR_DIC_N_Israphel] is waiting here.</body>
+    <body>ﻦﻳﺮﺒﻣﺇ ﺮﻴﻣﺃ ؛ ﻞﻴﻓﺍﺮﺳﺇ ﺔﺣﺎﺳ[%dic:STR_DIC_N_Israphel] .ﺎﻨﻫ ﺮﻈﺘﻨﻳ</body>
   </string>
   <string>
     <id>1061325</id>
     <name>STR_DIC_W_ZONE_NAME_IDLDF4A</name>
-    <body>Protector's Realm;A hidden realm conjured by Protector [%dic:STR_DIC_N_Oriatia] as a retreat from the tumultuous Reian world.</body>
+    <body>ﻲﻣﺎﺤﻟﺍ ﻩﺮﻀﺤﺘﺴﻳ ﻲﻔﺨﻣ ﻢﻟﺎﻋ ؛ ﻲﻣﺎﺤﻟﺍ ﻢﻟﺎﻋ [%dic:STR_DIC_N_Oriatia].ﺐﺧﺎﺼﻟﺍ ﻥﺎﻳﺭ ﻢﻟﺎﻋ ﻦﻣ ﻊﺟﺍﺮﺘﻛ</body>
   </string>
   <string>
     <id>1061326</id>
     <name>STR_DIC_W_LDF4a_SZ_B1_08</name>
-    <body>Macori Hill;A hill in the Anaz Forest populated by Marconnuts.</body>
+    <body>.ﺰﺗﻮﻧﻮﻛﺭﺎﻤﻟﺍ ﺎﻬﻨﻜﺴﻳ ﺯﺎﻧﺃ ﺔﺑﺎﻏ ﻲﻓ ﺔﻠﺗ ؛ ﻱﺭﻮﻛﺎﻣ ﺔﻠﺗ</body>
   </string>
   <string>
     <id>1061327</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_A1</name>
-    <body>Triumph Gate;Close to the Rancora Fortress</body>
+    <body>ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ؛ﻒﻤﻳﺍﺮﺗ ﺔﺑﺍﻮﺑ</body>
   </string>
   <string>
     <id>1061328</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_A2</name>
-    <body>Adora Desert;A brutal waste of desolate land north of Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻝﺎﻤﺷ ﺓﺮﻔﻘﻤﻟﺍ ﻲﺿﺍﺭﻸﻟ ﺔﻴﺸﺣﻭ ﺕﺎﻔﻠﺨﻣ ؛ ﺍﺭﻭﺩﺃ ﺀﺍﺮﺤﺻ</body>
   </string>
   <string>
     <id>1061329</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_A3</name>
-    <body>Balaur Cavalry Base;A Balaur training base near Rancora Fortress in northeast Tiamaranta, where the Balaur Vasharti Legion train their Pagati.</body>
+    <body>.ﻲﺗﺎﻗﺎﺑ ﺐﻳﺭﺪﺘﺑ ﻲﺘﺸﻳﺭﺎﻓ ﺭﻮﻴﻟﺎﺑ ﻖﻠﻴﻓ ﻡﻮﻘﻳ ﺚﻴﺣ ،ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻕﺮﺷ ﻝﺎﻤﺷ ﻲﻓ ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺭﻮﻴﻟﺎﺑ ﺐﻳﺭﺪﺗ ﺓﺪﻋﺎﻗ ؛ ﻮﻟﻻﺎﺑ ﻥﺎﺳﺮﻓ ﺓﺪﻋﺎﻗ</body>
   </string>
   <string>
     <id>1061330</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_A4</name>
-    <body>Fissure Barrens;A region rent and twisted by the power emanating from the Heart of Fissure. It is pockmarked with craters.</body>
+    <body>.ﺕﺎﻫﻮﻔﻟﺍ ﺔﻄﺳﺍﻮﺑ ﺖﻄﻐﺗ ﻲﻫ .ﻖﺸﻟﺍ ﺐﻠﻗ ﻦﻣ ﺔﻘﺜﺒﻨﻤﻟﺍ ﺔﻄﻠﺴﻟﺍ ﻞﺒﻗ ﻦﻣ ﺕﻮﺘﻟﺇﻭ ﺕﺮﺟﺃ ﺔﻘﻄﻨﻣ ؛ﺰﻨﻳﺭﺎﺑ ﻖﺷ</body>
   </string>
   <string>
     <id>1061331</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_A5</name>
-    <body>Fissure's Limits;The northwest corner of Tiamaranta, leading from the Fissure Barrens into the Heart of Fissure.</body>
+    <body>.ﻖﺸﻟﺍ ﺐﻠﻗ ﻰﻟﺇ ﺰﻨﻳﺭﺎﺑ ﻖﺷ ﻦﻣ ﺔﻳﺩﺆﻤﻟﺍ ، ﺎﺘﻧﺍﺭﺎﻣﺎﻴﺗ ﻦﻣ ﺔﻴﺑﺮﻐﻟﺍ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ؛ ﻖﺸﻟﺍ ﺩﻭﺪﺣ</body>
   </string>
   <string>
     <id>1061332</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S1</name>
-    <body>Prago Outpost;A Tiamaranta Expeditionary outpost assigned to monitor the Fissure Barrens south of Rancora Fortress.</body>
+    <body>.ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ ﺏﻮﻨﺟ ﺰﻨﻳﺭﺎﺑ ﻖﺷ ﺪﺻﺮﻟ ﺺﺼﺨﻣ ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻲﻓ ﻲﻧﺎﻄﻴﺘﺳﺍ ﻊﻗﻮﻣ ؛ ﻮﻗﺍﺮﺑ ﺔﻄﺤﻣ</body>
   </string>
   <string>
     <id>1061333</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S2</name>
-    <body>Adora Supply Depot;A depot in the Adora Desert that supplies all Reian forces in Tiamaranta.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻲﻓ ﻥﺎﻳﺭ ﺕﺍﻮﻗ ﻊﻴﻤﺟ ﺩﻭﺰﺗ ﻲﺘﻟﺍ ﺍﺭﻭﺩﺃ ﺀﺍﺮﺤﺻ ﻲﻓ ﻉﺩﻮﺘﺴﻣ ؛ ﺍﺭﻭﺩﺃ ﺪﻳﺭﻮﺗ ﻉﺩﻮﺘﺴﻣ</body>
   </string>
   <string>
     <id>1061334</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S3</name>
-    <body>Siege Troop Garrison;;A Tiamaranta Expeditionary garrison for forces laying siege to Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻰﻠﻋ ﺭﺎﺼﺤﻟﺍ ﺽﺮﻔﺗ ﻲﺘﻟﺍ ﺔﻔﺸﻜﺘﺴﻤﻟﺍ ﺎﺘﻧﺍﺭﺎﻴﻤﻴﺗ ﺔﻴﻣﺎﺣ ؛ ؛ ﺔﻴﻣﺎﺤﻟﺍ ﺭﺎﺼﺤﻟﺍ ﺕﺍﻮﻗ</body>
   </string>
   <string>
     <id>1061335</id>

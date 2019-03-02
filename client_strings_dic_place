@@ -4304,102 +4304,102 @@
   <string>
     <id>1061372</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_S5</name>
-    <body>Heart of Petrification Watchpost;A post assigned to monitor the Heart of Petrification.</body>
+    <body>.ﺮﺠﺤﺘﻤﻟﺍ ﺐﻠﻘﻟﺍ ﺔﺒﻗﺍﺮﻤﻟ ﺔﺼﺼﺨﻣ ﺔﻔﻴﻇﻭ ، ﺮﺠﺤﺘﻤﻟﺍ ﺐﻠﻘﻟﺍ ﺐﻗﺍﺮﻣ</body>
   </string>
   <string>
     <id>1061373</id>
     <name>STR_DIC_W_LDF4b_SZ_C1</name>
-    <body>Gurriki Swamp;A swampy valley that winds between the Land of Fissure and the Heart of Wrath Area and is inhabited by a colony of Gurriki.</body>
+    <body>.ﻲﻛﺭﻮﻴﺠﻟﺍ ﻦﻣ ﻦﻳﺮﻤﻌﺘﺴﻣ ﺎﻬﻨﻜﺴﻳﻭ ﻆﻴﻐﻟﺍ ﺐﻠﻗﻭ ﻖﺸﻟﺍ ﺽﺭﺃ ﻦﻴﺑ ﻂﺑﺮﻳ ﻱﺬﻟﺍ ﺕﺎﻌﻘﻨﺘﺴﻤﻟﺍ ﻦﻣ ﻱﺩﺍﻭ ؛ ﻲﻛﺭﻮﻴﺟ ﻊﻘﻨﺘﺴﻣ </body>
   </string>
   <string>
     <id>1061374</id>
     <name>STR_DIC_W_LDF4b_SZ_C1_A2</name>
-    <body>Gurriki Grotto;A cavern deep in the Gurriki Swamp.</body>
+    <body>.ﻲﻛﺭﻮﻴﺠﻟﺍ ﻊﻘﻨﺘﺴﻣ ﻲﻓ ﻖﻴﻤﻋ ﻒﻬﻛ ؛ ﻲﻛﺭﻮﻴﺠﻟﺍ ﻒﻬﻛ</body>
   </string>
   <string>
     <id>1061375</id>
     <name>STR_DIC_W_LDF4b_SZ_C1_S1</name>
-    <body>Gurrik Tree;A tangled tree where Gurriki build their huts.</body>
+    <body>ﻢﻬﺧﺍﻮﻛﺃ ﺀﺎﻨﺒﺑ ﻲﻛﺭﻮﻴﺠﻟﺍ ﻱﺮﻤﻌﺘﺴﻣ ﻡﻮﻘﻳ ﺚﻴﺣ ﺔﻜﺑﺎﺸﺘﻣ ﺓﺮﺠﺷ ؛ ﻲﻛﺭﻮﻴﺠﻟﺍ ﺓﺮﺠﺷ.</body>
   </string>
   <string>
     <id>1061376</id>
     <name>STR_DIC_W_LDF4b_SZ_C1_S2</name>
-    <body>Ioran's Camp;The campsite where Ioran, a Gurriki researcher, compiles her research.</body>
+    <body>.ﺎﻬﺛﺎﺤﺑﺃ ﻊﻴﻤﺠﺘﺑ ،ﻲﻛﺭﻮﻴﺠﻟﺍ ﺔﺜﺣﺎﺑ ، ﻥﺍﺭﻮﻳﺇ ﻡﻮﻘﺗ ﺚﻴﺣ ﻢﻴﺨﻣ ؛ ﻥﺍﺭﻮﻳﺇ ﻢﻴﺨﻣ</body>
   </string>
   <string>
     <id>1061377</id>
     <name>STR_DIC_W_LDF4b_SZ_C1_S3</name>
-    <body>Tatar's Hideout;Tatar is hidden here.</body>
+    <body>.ﺭﺎﺘﺘﻟﺍ ﻥﻮﺌﺒﺘﺨﻳ ﺚﻴﺣ ؛ ﺭﺎﺘﺘﻟﺍ ﺄﺠﻠﻣ</body>
   </string>
   <string>
     <id>1061378</id>
     <name>STR_DIC_W_LDF4b_SZ_C2</name>
-    <body>Quartz Forest;An icy forest in the south of Tiamaranta.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﺏﻮﻨﺟ ﻲﻓ ﺔﻴﺠﻠﺛ ﺔﺑﺎﻏ ؛ ﺰﺗﺭﺍﻮﻛ ﺔﺑﺎﻏ</body>
   </string>
   <string>
     <id>1061379</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_A1</name>
-    <body>Enos Forest;A frigid forest with dense Enos populations.</body>
+    <body>.ﺱﻭﺪﻧﻹﺍ ﻥﺎﻜﺳ ﺎﻬﻴﻓ ﻥﻮﻌﻤﺠﺘﻳ ﺓﺩﺭﺎﺑ ﺔﺑﺎﻏ ؛ ﺱﻮﻨﻳﺇ ﺔﺑﺎﻏ</body>
   </string>
   <string>
     <id>1061380</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_A2</name>
-    <body>Blue Quartz Valley;A ravine streaked with veins of brilliant blue quartz.</body>
+    <body>.ﻊﻣﻼﻟﺍ ﻕﺭﺯﻷﺍ ﺰﺗﺭﺍﻮﻜﻟﺍ ﻦﻣ ﻕﻭﺮﻌﺑ ﻉﺰﺠﻣ ﻱﺩﺍﻭ ﻮﻫ ، ﻕﺭﺯﻷﺍ ﺰﺗﺭﺍﻮﻛ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061381</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_A3</name>
-    <body>Lapialus Mineral Veins;A canyon cut through with striated veins of pure, valuable, and useful minerals.</body>
+    <body>.ﺓﺪﻴﻔﻤﻟﺍﻭ ﺔﻤﻴﻘﻟﺍﻭ ﺔﻴﻘﻨﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻣ ﺔﻄﻄﺨﻣ ﻕﻭﺮﻋ ﻪﻟﻼﺧ ﻉﻮﻄﻘﻣ ﻱﺩﺍﻭ ؛ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺰﻟﻮﻴﺑﻻ ﻕﻭﺮﻋ</body>
   </string>
   <string>
     <id>1061382</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_S1</name>
-    <body>Black Cloud Camp;A Black Cloud Merchant campsite in the far south of Tiamaranta.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﺏﻮﻨﺟ ﻰﺼﻗﺃ ﻲﻓ ﻊﻘﻳ ﻱﺬﻟﺍ ﺩﻭﻼﻛ ﻙﻼﺒﻟﺍ ﺭﺎﺠﺗ ﻢﻴﻴﺨﺗ ﻊﻗﻮﻣ ؛ ﺩﻭﻼﻛ ﻙﻼﺑ ﺮﻜﺴﻌﻣ</body>
   </string>
   <string>
     <id>1061383</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_S2</name>
-    <body>Blacksmith's Camp;Campsite of the blacksmith Shumaron, which is convenient to the resources offered by the Lapialus Mineral Veins.</body>
+    <body>.ﺔﻴﻧﺪﻌﻤﻟﺍ ﺰﻟﻮﻴﺑﻻ ﻕﻭﺮﻋ ﺎﻫﺮﻓﻮﺗ ﻲﺘﻟﺍ ﺩﺭﺍﻮﻤﻠﻟ ﻢﺋﻼﻣ ﻮﻫﻭ ، ﻥﻭﺭﺎﻣﻮﺷ ﺩﺍﺪﺣ ﺮﻜﺴﻌﻣ ﻊﻗﻮﻣ ؛ ﺚﻴﻤﺴﻛﻼﺑ ﺮﻜﺴﻌﻣ</body>
   </string>
   <string>
     <id>1061384</id>
     <name>STR_DIC_W_LDF4b_SZ_C3</name>
-    <body>Basilika Cavern;A gate beneath Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻞﻔﺳﺃ ﺔﺑﺍﻮﺑ ؛ ﺎﻴﻜﻠﻴﺳﺎﺑ ﻒﻬﻛ</body>
   </string>
   <string>
     <id>1061385</id>
     <name>STR_DIC_W_LDF4b_SZ_OP</name>
-    <body>Rancora Fortress;A Reian fortress in the Tiamaranta Defence Wall. It's the only access point into Tiamaranta.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻰﻟﺇ ﺓﺪﻴﺣﻮﻟﺍ ﻝﻮﺻﻮﻟﺍ ﺔﻄﻘﻧ ﺎﻬﻧﺇ . ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﺔﻳﺎﻤﺣ ﺭﺍﺪﺟ ﻲﻓ ﻊﻘﺗ ﻲﺘﻟﺍ ﻥﺎﻳﺮﻟﺍ ﺔﻌﻠﻗ ؛ ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ</body>
   </string>
   <string>
     <id>1061386</id>
     <name>STR_DIC_W_LDF4b_SZ_OP_A1</name>
-    <body>Hushblade Headquarters;The Elyos base in the Rancora Fortress.</body>
+    <body>.ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ ﻲﻓ ﻊﻘﺗ ﻲﺘﻟﺍ ﺱﻮﻴﻟﺇ ﺓﺪﻋﺎﻗ ؛ ﺪﻴﻠﺒﺷﺎﻫ ﺮﻘﻣ</body>
   </string>
   <string>
     <id>1061387</id>
     <name>STR_DIC_W_LDF4b_SZ_OP_A2</name>
-    <body>Fatebound Headquarters;The Asmodian base in the Rancora Fortress.</body>
+    <body>.ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ ﻲﻓ ﻊﻘﺗ ﻲﺘﻟﺍ ﻥﺎﻳﺩﻮﻤﺳﻷﺍ ﺓﺪﻋﺎﻗ ؛ ﻡﻮﺘﺤﻤﻟﺍ ﺭﺪﻘﻟﺍ ﺮﻘﻣ</body>
   </string>
   <string>
     <id>1061388</id>
     <name>STR_DIC_W_LDF4b_SZ_OP_A3</name>
-    <body>Accord Square;The main central square in Rancora Fortress.</body>
+    <body>.ﺍﺭﻮﻜﻧﺍﺭ ﺔﻌﻠﻗ ﻲﻓ ﻊﻘﺗ ﻲﺘﻟﺍ ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻳﺰﻛﺮﻤﻟﺍ ﺔﺣﺎﺴﻟﺍ ؛ ﺩﺭﺍﻮﻛﺃ ﺔﺣﺎﺳ</body>
   </string>
   <string>
     <id>1061389</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S10</name>
-    <body>Siege Troop Command Center;The administrative centre for commanding and supplying Reian siege forces.</body>
+    <body>.ﻥﺎﻳﺭ ﺭﺎﺼﺣ ﺕﺍﻮﻗ ﺪﻳﺭﻮﺗﻭ ﺓﺩﺎﻴﻘﻟ ﻱﺭﺍﺩﻹﺍ ﺰﻛﺮﻤﻟﺍ ؛ ﺕﺍﻮﻘﻟﺍ ﺭﺎﺼﺣ ﺓﺩﺎﻴﻗ ﺰﻛﺮﻣ</body>
   </string>
   <string>
     <id>1061390</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_S4</name>
-    <body>Ativas Cave;The cave where the giant Ativas Crystalline creature lives.</body>
+    <body>.ﻱﺭﻮﻠﺒﻟﺍ ﺯﺎﻔﻴﺗﺃ ﻕﻼﻤﻌﻟﺍ ﻕﻮﻠﺨﻤﻟﺍ ﻪﻴﻓ ﺶﻴﻌﻳ ﻱﺬﻟﺍ ﻒﻬﻜﻟﺍ ؛ﺯﺎﻔﻴﺗﺃ ﻒﻬﻛ</body>
   </string>
   <string>
     <id>1061391</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S11</name>
-    <body>Small Crater;Craters scattered around the Fissure Barrens.</body>
+    <body>..ﺰﻨﻳﺭﺎﺑ ﻖﺷ ﻝﻮﺣ ﺓﺮﺛﺎﻨﺘﻣ ﺮﻔﺣ ؛ ﺓﺮﻴﻐﺼﻟﺍ ﺓﺮﻔﺤﻟﺍ</body>
   </string>
   <string>
     <id>1061392</id>

@@ -4118,182 +4118,182 @@
   <string>
     <id>1061335</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S4</name>
-    <body>Scout Outpost;;A Reian post overlooking the Balaur Cavalry Base.</body>
+    <body>.ﺭﻮﻴﻟﺎﺑ ﻥﺎﺳﺮﻓ ﺓﺪﻋﺎﻗ ﻰﻠﻋ ﻞﻄﺗ ﻥﺎﻳﺭ ﺮﺧﺁ ؛ ﻉﻼﻄﺘﺳﻹﺍ ﺔﻄﺤﻣ.</body>
   </string>
   <string>
     <id>1061336</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S5</name>
-    <body>Faultline Research Expedition;Base camp for the team investigating the Fissure Barrens.</body>
+    <body>."ﺰﻨﻳﺭﺎﺑ ﻖﺷ" ﻲﻓ ﻖﻴﻘﺤﺘﻟﺍ ﻖﻳﺮﻔﻟ  ﺔﺻﺎﺧ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﻗ ؛ ﻉﺪﺼﻠﻟ ﺔﻴﺜﺤﺒﻟﺍ ﺔﺜﻌﺒﻟﺍ</body>
   </string>
   <string>
     <id>1061337</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S6</name>
-    <body>Giant Crater;The largest crater in the Fissure Barrens, at the centre of which is an enormous Gap Rift.</body>
+    <body>.ﻉﺪﺼﻟﺍ ﻦﻣ ﺔﻠﺋﺎﻫ ﺓﻮﺠﻓ ﻲﻫ ﺎﻬﻄﺳﻭ ﻲﻓ ، ﺰﻧﺭﺎﺑ ﻖﺷ ﺔﻘﻄﻨﻣ ﻲﻓ ﺓﺮﻔﺣ ﺮﺒﻛﺃ ؛ ﺔﻗﻼﻤﻌﻟﺍ ﺓﺮﻔﺤﻟﺍ</body>
   </string>
   <string>
     <id>1061338</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S7</name>
-    <body>Heart of Fissure Watchpost;A post assigned to monitor the Heart of Fissure.</body>
+    <body>.ﻖﺸﻟﺍ ﺐﻠﻗ ﺔﺒﻗﺍﺮﻤﻟ ﺔﺼﺼﺨﻣ ﺔﻔﻴﻇﻭ ؛ ﻖﺸﻟﺍ ﺐﻠﻗ ﺐﻗﺍﺮﻣ</body>
   </string>
   <string>
     <id>1061339</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_A1</name>
-    <body>Lunatic's Rift;A region in southwest Tiamaranta severely distorted by the power from the Heart of Gravity. It is scattered with Gap and Temporal Rifts.</body>
+    <body>.ﻉﻭﺪﺼﻟﺍﻭ ﺕﺍﻮﺠﻔﻟﺍ ﻊﻣ ﺓﺮﺜﻌﺒﻣ ﻲﻫﻭ .ﺔﻴﺑﺫﺎﺠﻟﺍ ﺐﻠﻗ ﺔﻄﺳﺍﻮﺑ ﺓﻮﻘﺑ ﺓﺪﺸﺑ ﺖﻫﻮﺸﺗ ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﺏﺮﻏ ﺏﻮﻨﺟ ﻲﻓ ﺔﻘﻄﻨﻣ ؛ ﻚﻴﺗﺎﻧﻮﻟ ﺩﺍﺪﺴﻧﺍ</body>
   </string>
   <string>
     <id>1061340</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_A2</name>
-    <body>Edendell;A mysterious and protected valley in western Tiamaranta. It is populated by unique enchanted creatures.</body>
+    <body>.ﺓﺭﻮﺤﺴﻣ ﺓﺪﻳﺮﻓ ﺕﺎﻗﻮﻠﺨﻤﺑ ﺎﻫﺆﻠﻣ ﻢﺘﻳ .ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﺏﺮﻏ ﻲﻓ ﻲﻤﺤﻣﻭ ﺾﻣﺎﻏ ﻱﺩﺍﻭ ؛ ﻝﺪﻨﻳﺪﻳﺇ</body>
   </string>
   <string>
     <id>1061341</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_A3</name>
-    <body>Traitor's Hideout;A village in which Reian traitors live. Situated north of the Land of Gravity.</body>
+    <body>.ﺔﻴﺑﺫﺎﺠﻟﺍ ﺽﺭﺃ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﻊﻘﺗ .ﻥﺎﻳﺭ ﺔﻧﻮﺧ ﺎﻬﻴﻓ ﺶﻴﻌﻳ ﺔﻳﺮﻗ ﻲﻫﻭ ، ﺔﻧﻮﺨﻟﺍ ﺄﺠﻠﻣ</body>
   </string>
   <string>
     <id>1061342</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_A4</name>
-    <body>Naduka Legion Garrison;The Naduka Legion headquarters on the west side of Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻦﻣ ﻲﺑﺮﻐﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻲﻓ ﻖﻠﻴﻔﻟﺍ ﺓﻭﺪﻧ ﺮﻘﻣ ؛ ﻲﻣﺎﺤﻟﺍ ﺎﻛﻭﺩﺎﻧ ﻖﻠﻴﻓ</body>
   </string>
   <string>
     <id>1061343</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_A5</name>
-    <body>Gravity's Limits;The southwest corner of Tiamaranta, leading from the Lunatic's Rift into the Heart of Gravity.</body>
+    <body>.ﺔﻴﺑﺫﺎﺠﻟﺍ ﺐﻠﻗ ﻰﻟﺇ ﻚﻴﺗﺎﻧﻮﻟ ﻉﺪﺻ ﻦﻣ ﺩﻮﻘﻳ ، ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻣ ﻲﺑﺮﻐﻟﺍ ﻲﺑﻮﻨﺠﻟﺍ ﻦﻛﺮﻟﺍ ؛ ﺔﻴﺑﺫﺎﺠﻟﺍ ﺩﻭﺪﺣ</body>
   </string>
   <string>
     <id>1061344</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S1</name>
-    <body>Notus Outpost;A large Reian outpost built on a protected fragment of Floating Island in the Lunatic's Rift.</body>
+    <body>.ﻚﻴﺗﺎﻧﻮﻟ ﻉﺪﺻ ﻲﻓ ﺔﻤﺋﺎﻌﻟﺍ ﺓﺮﻳﺰﺠﻟﺍ ﻦﻣ ﻲﻤﺤﻣ ﺀﺰﺟ ﻰﻠﻋ ﻢﺋﺎﻗ ﺮﻴﺒﻛ ﻥﺎﻳﺭ ﺰﻛﺮﻣ ؛ ﺲﺗﻮﻧ ﺔﻄﺤﻣ</body>
   </string>
   <string>
     <id>1061345</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S2</name>
-    <body>Rift Research Expedition;Base camp of the team researching the Lunatic's Rift.</body>
+    <body>.ﻚﻴﺗﺎﻧﻮﻟ ﻉﺪﺻ ﻦﻋ ﺚﺣﺎﺒﻟﺍ ﻖﻳﺮﻔﻟﺍ ﺓﺪﻋﺎﻗ ﺮﻜﺴﻌﻣ ؛ ﻉﺪﺼﻟﺍ ﺚﺤﺑ ﺔﺜﻌﺑ</body>
   </string>
   <string>
     <id>1061346</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S3</name>
-    <body>Kiriyu's Tent;A small tent in Edendell</body>
+    <body>ﻞﻳﺪﻧﺩﺍ ﻲﻓ ﺓﺮﻴﻐﺻ ﺔﻤﻴﺧ ؛ ﻮﻳﺮﻛ ﺔﻤﻴﺧ</body>
   </string>
   <string>
     <id>1061347</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S4</name>
-    <body>Gravity Vortex;A suspicious cyclone in Edendell.</body>
+    <body>.ﻝﺪﻧﺪﻳﺍ ﻲﻓ ﻩﻮﺒﺸﻣ ﺭﺎﺼﻋﺇ ؛ ﺔﻴﺑﺫﺎﺠﻟﺍ ﺔﻣﺍﻭﺩ</body>
   </string>
   <string>
     <id>1061348</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S5</name>
-    <body>Shrouded Grotto;A cave somewhere in Edendell.</body>
+    <body>.ﻝﺪﻧﺪﻳﺍ ﻲﻓ ﺎﻣ ﻥﺎﻜﻣ ﻲﻓ ﻒﻬﻛ ، ﻥﺎﻔﻛﻷﺍ ﻒﻬﻛ</body>
   </string>
   <string>
     <id>1061349</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S6</name>
-    <body>Danitur's Lookout;An overlook preferred by Danitur, the leader of the Reian traitors.</body>
+    <body>.ﻥﺎﻳﺭ ﺔﻧﻮﺧ ﻢﻴﻋﺯ ، ﺭﻮﻴﺘﻧﺍﺪﻟ ﺔﻠﻀﻔﻤﻟﺍ ﺔﻄﻘﻨﻟﺍ ؛ ﺭﻮﻴﺘﻧﺍﺩ ﺔﺒﻗﺍﺮﻣ ﺔﻄﻘﻧ</body>
   </string>
   <string>
     <id>1061350</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S7</name>
-    <body>Arachi Floating Island;An island high above the Lunatic's Rift</body>
+    <body>.ﻚﻴﺗﺎﻧﻮﻟ ﻉﺪﺻ ﻯﻮﺘﺴﻣ ﻕﻮﻓ ﺓﺮﻳﺰﺟ ؛ ﺔﻤﺋﺎﻌﻟﺍ ﻲﺷﺍﺭﺃ ﺓﺮﻳﺰﺟ</body>
   </string>
   <string>
     <id>1061351</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S8</name>
-    <body>West Eye Guard Post;A Tiamaranta Expeditionary post monitoring the Naduka Legion in Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻲﻓ ﺎﻛﻭﺪﻧ ﻖﻠﻴﻓ ﺔﺒﻗﺍﺮﻤﻟ ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ـﻟ ﻊﺑﺎﺗ ﻊﻗﻮﻣ :ﺏﺮﻐﻟﺍ ﻦﻴﻋ ﺱﺭﺎﺣ ﺐﻗﺍﺮﻣ</body>
   </string>
   <string>
     <id>1061352</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S9</name>
-    <body>Heart of Gravity Watchpost;A post assigned to monitor the Heart of Gravity.</body>
+    <body>.ﺔﻴﺑﺫﺎﺠﻟﺍ ﺐﻠﻗ ﺔﺒﻗﺍﺮﻤﻟ ﺔﺼﺼﺨﻣ ﺔﻔﻴﻇﻭ ؛ ﺔﻴﺑﺫﺎﺠﻟﺍ ﺐﻠﻗ ﺐﻗﺍﺮﻣ</body>
   </string>
   <string>
     <id>1061353</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_A1</name>
-    <body>Fields of Fire;A region in northeast Tiamaranta diminated by a large active volcano. The region is highly affected by the power from the Heart of Wrath.</body>
+    <body>.ﺐﻀﻐﻟﺍ ﺐﻠﻗ ﺓﻮﻗ ﻦﻣ ﺓﺪﺸﺑ ﺔﻘﻄﻨﻤﻟﺍ ﺮﺛﺄﺘﺗ .ﺮﻴﺒﻛ ﻂﺸﻧ ﻥﺎﻛﺮﺑ ﺎﻬﻴﻠﻋ ﺮﻄﻴﺴﻳ ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻕﺮﺷ ﻝﺎﻤﺷ ﻲﻓ ﺔﻘﻄﻨﻣ ؛ ﺭﺎﻨﻟﺍ ﻝﻮﻘﺣ</body>
   </string>
   <string>
     <id>1061354</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_A2</name>
-    <body>Steam Springs;An area south of the Fields of Fire that features hot springs and volcanic vents.</body>
+    <body>.ﺔﻴﻧﺎﻛﺮﺒﻟﺍ ﺕﺎﺤﺘﻔﻟﺍﻭ ﺔﻨﺧﺎﺴﻟﺍ ﻊﻴﺑﺎﻨﻴﻟﺎﺑ ﺰﻴﻤﺘﺗ ﻲﺘﻟﺍ ﺭﺎﻨﻟﺍ ﻝﻮﻘﺣ ﺏﻮﻨﺟ ﻊﻘﺗ ﺔﻘﻄﻨﻣ ؛ ﻊﻴﺑﺮﻟﺍ ﺭﺎﺨﺑ</body>
   </string>
   <string>
     <id>1061355</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_A3</name>
-    <body>Avad Village;An abandoned mining village taken over by Dragonbound. It is southeast of the Steam Springs.</body>
+    <body>.ﻊﻴﺑﺮﻟﺍ ﺭﺎﺨﺑ ﻕﺮﺷ ﺏﻮﻨﺟ ﻊﻘﺗ .ﺪﻧﻭﺎﺑ ﻥﻮﻗﺍﺭﺩ ﺔﻄﺳﺍﻮﺑ ﺎﻬﻴﻠﻋ ﺀﻼﻴﺘﺳﻻﺍ ﻢﺗ ﺓﺭﻮﺠﻬﻣ ﻦﻳﺪﻌﺗ ﺔﻳﺮﻗ ؛ ﺩﺎﻓﺃ ﺔﻳﺮﻗ</body>
   </string>
   <string>
     <id>1061356</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_A4</name>
-    <body>Basrasa Legion Garrison;The Basrasa Legion headquarters on the east side of Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﺐﻧﺎﺠﻟﺍ ﻰﻠﻋ ﺎﺳﺍﺮﺳﺍﺭﺎﺑ ﺮﻘﻣ ؛ ﻲﻣﺎﺤﻟﺍ ﺎﺳﺍﺮﺳﺎﺑ ﻖﻠﻴﻓ</body>
   </string>
   <string>
     <id>1061357</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_A5</name>
-    <body>Wrath's Limits;The northeast corner of Tiamaranta, leading from the Fields of Fire to the Heart of Wrath.</body>
+    <body>.ﺐﻀﻐﻟﺍ ﺐﻠﻗ ﻰﻟﺇ ﺭﺎﻨﻟﺍ ﻝﻮﻘﺣ ﻦﻣ ﺔﻳﺩﺆﻤﻟﺍ ، ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻣ ﺔﻴﻗﺮﺸﻟﺍ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺔﻳﻭﺍﺰﻟﺍ ؛ ﻆﻴﻐﻟﺍ ﺩﻭﺪﺣ</body>
   </string>
   <string>
     <id>1061358</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S1</name>
-    <body>Cindercone Outpost;A Reian post in the Fields of Fire, in the ruins of a temple built into the side of Mount Wrath.</body>
+    <body>.ﻆﻴﻘﻟﺍ ﻞﺒﺟ ﺐﻧﺎﺟ ﻲﻓ ﻲﻨﺑ ﺪﺒﻌﻣ ﻝﻼﻃﺃ ﻲﻓ ، ﺭﺎﻨﻟﺍ ﻝﻮﻘﺣ ﻲﻓ ﻥﺎﻳﺭ ﺐﻗﺍﺮﻣ ؛ ﻥﻮﻛﺭﺪﻨﻴﺳ ﺔﻄﺤﻣ</body>
   </string>
   <string>
     <id>1061359</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S2</name>
-    <body>Volcanic Research Expedition;Base camp for the team investigating the Fields of Fire.</body>
+    <body>.ﺭﺎﻨﻟﺍ ﻝﻮﻘﺣ ﻲﻓ ﻖﻴﻘﺤﺘﻟﺍ ﻖﻳﺮﻔﻟ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﻗ ؛ ﺔﻴﻧﺎﻛﺮﺒﻟﺍ ﺙﻮﺤﺒﻟﺍ ﺔﺜﻌﺑ</body>
   </string>
   <string>
     <id>1061360</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S3</name>
-    <body>Steam Springs Research Expedition;Base camp for the research team assigned to investigate the Steam Springs.</body>
+    <body>.ﻊﻴﺑﺮﻟﺍ ﺭﺎﺨﺑ ﺔﻘﻄﻨﻣ ﻲﻓ ﻖﻴﻘﺤﺘﻠﻟ ﺺﺼﺨﻤﻟﺍ ﺚﺤﺒﻟﺍ ﻖﻳﺮﻔﻟ ﻲﺳﺎﺳﺃ ﺮﻜﺴﻌﻣ ؛ ﻊﻴﺑﺮﻟﺍ ﺭﺎﺨﺑ ﺚﺤﺒﻟ ﺔﻴﻓﺎﺸﻜﺘﺳﺍ ﺔﻠﺣﺭ</body>
   </string>
   <string>
     <id>1061361</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S4</name>
-    <body>Mount Wrath;An active volcano that dominates the landscape of northeast Tiamaranta.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻕﺮﺷ ﻝﺎﻤﺷ ﻲﻓ ﺔﻴﻌﻴﺒﻄﻟﺍ ﺮﻇﺎﻨﻤﻟﺍ ﻰﻠﻋ ﺮﻄﻴﺴﻳ ﻂﺸﻧ ﻥﺎﻛﺮﺑ ؛ ﻆﻴﻐﻟﺍ ﻞﺒﺟ</body>
   </string>
   <string>
     <id>1061362</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S5</name>
-    <body>East Eye Guard Post;A Tiamaranta Expeditionary post monitoring the Basrasa Legion in Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﻲﻓ ﺎﺳﺍﺮﺳﺎﺒﻟﺍ ﻖﻠﻴﻓ ﺔﺒﻗﺍﺮﻤﻟ ﺔﻴﻋﻼﻄﺘﺳﻻﺍ ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﺔﺜﻌﺑ ؛ ﻕﺮﺸﻟﺍ ﻦﻴﻋ ﺱﺭﺎﺣ ﺐﻗﺍﺮﻣ</body>
   </string>
   <string>
     <id>1061363</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S6</name>
-    <body>Heart of Wrath Watchpost;An outpost monitoring the Heart of Wrath.</body>
+    <body>.ﻆﻴﻐﻟﺍ ﺐﻠﻗ ﺔﺒﻗﺍﺮﻤﻟ ﺔﻌﺑﺎﺘﻣ ﺔﻄﻘﻧ ؛ ﻆﻴﻐﻟﺍ ﺐﻠﻗ ﺔﺒﻗﺍﺮﻣ ﺔﻄﺤﻣ</body>
   </string>
   <string>
     <id>1061364</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_A1</name>
-    <body>Calcified Tundra;A desolate region in southeast Tiamaranta that's affected by proximity to the Heart of Petrification.</body>
+    <body>.ﺮﺠﺤﺘﻟﺍ ﺐﻠﻗ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺮﺛﺄﺘﺗ ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻕﺮﺷ ﺏﻮﻨﺟ ﻲﻓ ﺓﺮﻔﻘﻣ ﺔﻘﻄﻨﻣ ؛ ﺓﺮﺠﺤﺘﻤﻟﺍ ﺍﺭﺪﻨﺗ</body>
   </string>
   <string>
     <id>1061365</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_A2</name>
-    <body>Siel's Temple Ruins;Ruins are all that is left of this grand, dignified temple built by ancient Reians to honour the Empyrean Lady Siel.</body>
+    <body>.ﻞﻴﺳ ﻦﻳﺮﻴﺒﻣﺇ ﺓﺪﻴﺴﻟﺍ ﻢﻳﺮﻜﺘﻟ ﺀﺎﻣﺪﻘﻟﺍ ﻥﺎﻳﺮﻟﺍ ﻞﺒﻗ ﻦﻣ ﻲﻨﺒﻤﻟﺍ ﻡﺮﺘﺤﻤﻟﺍﻭ ﺮﻴﺒﻜﻟﺍ ﺪﺒﻌﻤﻟﺍ ﺍﺬﻫ ﻦﻣ ﻰﻘﺒﺗ ﺎﻣ ﻞﻛ ﻲﻫ ﻝﻼﻃﻷﺍ ؛ ﻞﻴﺳ ﺪﺒﻌﻣ ﻝﻼﻃﺃ</body>
   </string>
   <string>
     <id>1061366</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_A3</name>
-    <body>Satra Legion Garrison;The Satra Legion headquarters in the south of Tiamaranta's Eye.</body>
+    <body>.ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﺏﻮﻨﺟ ﻲﻓ ﺍﺮﻘﻴﻟ ﺓﺩﺎﻴﻗ ﺮﻘﻣ ؛ ﻲﻣﺎﺤﻟﺍ ﺍﺮﺗﺎﺳ ﻖﻠﻴﻓ</body>
   </string>
   <string>
     <id>1061367</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_A4</name>
-    <body>Area of the source of Petrification;The outer area of the source of petrification.</body>
+    <body>.ﺮﻴﺠﺤﺘﻟﺍ ﺭﺪﺼﻤﻟ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ؛ ﺔﻳﺮﻌﺘﻟﺍ ﺭﺪﺼﻣ ﺔﻘﻄﻨﻣ</body>
   </string>
   <string>
     <id>1061368</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_S1</name>
-    <body>Petro Outpost;A Reian legion camp south of Tiamaranta's Eye. It's set up in the ruins of an old fortress.</body>
+    <body>.ﺔﻤﻳﺪﻗ ﺔﻌﻠﻗ ﻝﻼﻃﺃ ﻲﻓ ﻩﺅﺎﺸﻧﺇ ﻢﺗ .ﺍﺭﺎﺘﻧﺎﻣﺎﻴﺗ ﻦﻴﻋ ﺏﻮﻨﺟ ﻥﺎﻳﺭ ﻖﻠﻴﻔﻟ ﺔﻳﺮﻜﺴﻋ ﺓﺪﻋﺎﻗ؛ ﻭﺮﺘﺑ ﺔﻄﺤﻣ</body>
   </string>
   <string>
     <id>1061369</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_S2</name>
-    <body>Archeological Expedition;Base camp for the Relics Expedition sent to excavate the ruins of the Destroyed Siel Temple.</body>
+    <body>.ﺮﻣﺪﻤﻟﺍ ﻞﻴﺳ ﺪﺒﻌﻣ ﻝﻼﻃﺃ ﻲﻓ ﺐﻴﻘﻨﺘﻠﻟ ﻞﺳﺭﺃ ﻱﺪﻋﺎﻗ ﺮﻜﺴﻌﻣ ؛ ﺔﻳﺮﺛﻷﺍ ﺔﺜﻌﺒﻟﺍ</body>
   </string>
   <string>
     <id>1061370</id>
     <name>STR_DIC_W_LDF4b_SZ_T4_S3</name>
-    <body>Destroyed Siel Temple;All that is left of a grand, dignified temple built by ancient Reians to honour the Empyrean Lady Siel.</body>
+    <body>.ﻞﻴﺳ ﻦﻳﺮﺒﻣﺇ ﺓﺪﻴﺴﻟﺍ ﻢﻳﺮﻜﺘﻟ ﻰﻣﺍﺪﻘﻟﺍ ﻥﺎﻳﺮﻟﺍ ﺎﻫﺎﻨﺑ ، ﺮﻴﺒﻜﻟﺍ ﺪﺒﻌﻤﻟﺍ ﻦﻣ ﻰﻘﺒﺗ ﺎﻣ ﻞﻛ ؛ ﺮﻣﺪﻤﻟﺍ ﻞﻴﺳ ﺪﺒﻌﻣ</body>
   </string>
   <string>
     <id>1061371</id>

@@ -88,7 +88,7 @@
   <string>
     <id>1060017</id>
     <name>STR_DIC_FLA10</name>
-    <body>Tolbas Village;A village located between Verteron Citadel and the Dukaki Mine. It used to be a bustling mining town, but now only a few farmers remain.</body>
+    <body>سابلوت ةيرق;يكاكودلا مجنمو نورتيرف ةنيدم نيب عقت ةيرق. نيدعتلل ةنيدم نوكت نا ىلع تداتعا, نيعرازملا نم طقف ليلقلا ثكم نالا نكالو.</body>
   </string>
   <string>
     <id>1060018</id>
@@ -98,7 +98,7 @@
   <string>
     <id>1060019</id>
     <name>STR_DIC_FLA12</name>
-    <body>Dukaki Mine;The Kobold Odium mines.</body>
+    <body>يكاكودلا مجنم;تيرافعلا مويدوا مجانم.</body>
   </string>
   <string>
     <id>1060020</id>

@@ -1199,67 +1199,67 @@
   <string>
     <id>1060544</id>
     <name>STR_DIC_W_LF3_SZ_C4_add</name>
-    <body>Manduri Valley;A valley in the centre of the [%dic:STR_DIC_W_LF3_SZ_C1]. Legend has it that a gigantic Manduri lives nearby.</body>
+    <body>يرودنام يداو;طسو يف يداو [%dic:STR_DIC_W_LF3_SZ_C1]. بيرق ناكم يف شيعي قالمع يرودنام هنا عاشي.</body>
   </string>
   <string>
     <id>1060545</id>
     <name>STR_DIC_W_IDLF3LP_SZ_2</name>
-    <body>Old Library;An old library inside the [%dic:STR_DIC_W_IDLF3LP_SZ_1].</body>
+    <body>ةميدقلا ةبتكملا;لخاد ةميدق ةبتكم دجوي [%dic:STR_DIC_W_IDLF3LP_SZ_1].</body>
   </string>
   <string>
     <id>1060546</id>
     <name>STR_DIC_W_DLF3LP_SZ_3</name>
-    <body>Lounge;Where the Lepharist Revolutionaries hang out and relax after a long day of heresy and sinister deeds.</body>
+    <body>ةحارتسا ناكم;ليوطو قاش موي دعب نوحريتسي تسيراشفيل راوث ثيح.</body>
   </string>
   <string>
     <id>1060547</id>
     <name>STR_DIC_W_IDLF3LP_SZ_4</name>
-    <body>Bio Experiment Lab;The lab where the Lepharists conduct their unethical experiments.</body>
+    <body>ةبرجتلل ويب ربتخم;مختبر حيث يجري ليفياريست تجاربهم .</body>
   </string>
   <string>
     <id>1060548</id>
     <name>STR_DIC_W_IDLF3LP_SZ_5</name>
-    <body>Ormenon's Room;A room in the deepest part of the secret Lepharist laboratory, where the most powerful test subjects are stored.</body>
+    <body>نوتنيمروا ةفرغ;ةنزخم تارابتخا تانيع ىوقا دجوت ثيح يرسلا تسيرايفل ربتخم يف ءزج قمعا يف ةفرغ.</body>
   </string>
   <string>
     <id>1060549</id>
     <name>STR_DIC_W_LF3_SZ_C5_1</name>
-    <body>Cursed Ancient Temple;An ancient temple with an ancient curse.</body>
+    <body>ميدق جرب;ميدق جرب.</body>
   </string>
   <string>
     <id>1060550</id>
     <name>STR_DIC_W_SensoryArea_Q1661A</name>
-    <body>Weapon Forge;A smithy behind a four-horned totem in the Kishar Village.</body>
+    <body>زيممو روطم حالس;راشيك ةيرق يف تاعازف ةعبرا فلخ هتدادحل ناكد دجوي</body>
   </string>
   <string>
     <id>1060551</id>
     <name>STR_DIC_W_SensoryArea_Q1661B</name>
-    <body>Odium Refinery;Found around a hill on the right after leaving the weapon forge.</body>
+    <body>مويدوالا ةافصم ةحلسالا ةدادح ناكد نم كجورخ دنع اهدجت نيميلا ىلع ةلت لوح تدجو.</body>
   </string>
   <string>
     <id>1060552</id>
     <name>STR_DIC_W_SensoryArea_Q1661C</name>
-    <body>Armour Forge;Located right behind the Odium Refinery.</body>
+    <body>عوردلا ةدادح ناكد;مويدوألا ةافصم فلخ ةرشابم عقي.</body>
   </string>
   <string>
     <id>1060600</id>
     <name>STR_DIC_W_DF2_SUB_OP</name>
-    <body>Morheim Ice Fortress;A fortress located in the north of Morheim. Above the fortress lies an Abyss Gateway.</body>
+    <body>ةيديلجلا مياهروم ةعلق;سيبأ ةباوب دجت نا كنكمي ةعلقلا قوف ˙ مياهروم لامش يف عقت ةعلق.</body>
   </string>
   <string>
     <id>1060601</id>
     <name>STR_DIC_W_DF2_SUB_A1</name>
-    <body>Morheim Snow Field;The area near the [%dic:STR_DIC_W_DF2_SUB_OP]. The field is so cold that only heavily-furred animals like Daru and Ettins live there.</body>
+    <body>Mيجلثلا مياهروم لقح;نم برقلاب عقت ةقطنملا [%dic:STR_DIC_W_DF2_SUB_OP]. زنيتيإو وراد لثم ةدوربلا ةديدش تاناويحلا طقف شيعت هتدورب ةدش نمو ادج دراب لقحلا</body>
   </string>
   <string>
     <id>1060602</id>
     <name>STR_DIC_W_DF2_SUB_A2</name>
-    <body>Patamor Ridge Path;An area in between the [%dic:STR_DIC_W_DF2_SUB_A1] and the [%dic:STR_DIC_W_DF2_SUB_A3]. Though right next to the snowfields, it is a warm grassland.</body>
+    <body>رومتاب راسم;نيب ةقطنم [%dic:STR_DIC_W_DF2_SUB_A1] و [%dic:STR_DIC_W_DF2_SUB_A3]. ةئفادلا لوقحلا نم هنأ الإ ' جلثلا لوقح راوجب عقي هنأ نم مغررلا ىلع.</body>
   </string>
   <string>
     <id>1060603</id>
     <name>STR_DIC_W_DF2_SUB_A3</name>
-    <body>Patamor Thicket;The forest at the end of the [%dic:STR_DIC_W_DF2_SUB_A2]. In the centre of the forest live the Elim, a tribe of sentient trees on the edge of extinction.</body>
+    <body>رومتاب ةركذت; ص [%dic:STR_DIC_W_DF2_SUB_A2]. ضارقنالا ةفاح ىلع ةفقوتملا راجشألا نم ةليبق يهو ، ميإلا شيعت ةباغلا طسو يف.</body>
   </string>
   <string>
     <id>1060604</id>

@@ -2314,187 +2314,187 @@
   <string>
     <id>1060914</id>
     <name>STR_DIC_W_DF2B_SZ_C_Town</name>
-    <body>BuBu Village;A village of the BuBu tribe located northwest of Brusthonin.</body>
+    <body>ﻦﻴﻧﻮﺜﺳﻭﺮﺑ ﺏﺮﻏ ﻝﺎﻤﺷ ﻊﻘﺗ ﻮﺑﻮﺑ ﺔﻳﺮﻗ;ﻮﺑﻮﺑ ﺔﻳﺮﻗ.</body>
   </string>
   <string>
     <id>1060915</id>
     <name>STR_DIC_W_DF2B_SZ_D1</name>
-    <body>Carobian Coast;The coast to the west of the BuBu Village. Many cursed creatures wander about here.</body>
+    <body>ﺎﻨﻫ ﻝﻮﺠﺘﺗ ﺵﻮﺣﻮﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ .ﻮﺑﻮﺑ ﺔﻳﺮﻗ ﻦﻣ ﻲﺑﺮﻐﻟﺍ ﻞﺣﺎﺴﻟﺍ;ﻲﺒﻳﺭﺎﻜﻟﺍ ﻞﺣﺎﺳ.</body>
   </string>
   <string>
     <id>1060916</id>
     <name>STR_DIC_W_DF2B_SZ_D1_1</name>
-    <body>Black Opal Ship Anchorage;The spot in the Carobian Coast where the Black Opal is anchored.</body>
+    <body>ﻝﺎﺑﻭﺃ ﻙﻼﺑ ﻊﻘﺗ ﻲﺜﻴﺣ ﻲﺒﻳﺭﺎﻜﻟﺍ ﻞﺣﺎﺴﻟﺍ ﻲﻓ ﺔﻘﻄﻨﻤﻟﺍ;ﻝﺎﺑﻭﺃ ﻙﻼﺑ ﺔﻨﻴﻔﺳ ﻰﺳﺮﻣ.</body>
   </string>
   <string>
     <id>1060917</id>
     <name>STR_DIC_W_DF2B_SZ_D2</name>
-    <body>The Coastal Pass;A road leading from the Carobian Coast to the Adma Plains.</body>
+    <body>ﺎﻣﺩﺃ ﻝﻮﻬﺳ ﻰﻟﺇ ﻲﺒﻳﺭﺎﻜﻟﺍ ﻞﺣﺎﺴﻟﺍ ﻦﻣ ﻖﻳﺮﻃ;ﻲﻠﺣﺎﺴﻟﺍ ﺮﻤﻤﻟﺍ.</body>
   </string>
   <string>
     <id>1060918</id>
     <name>STR_DIC_W_DF2B_SZ_D3</name>
-    <body>Adma Plains;A canyon leading to the Adma Stronghold. The angry spirits of those who were turned away from the stronghold still linger here.</body>
+    <body>ﺎﻣﺩﺃ ﻰﻌﻠﻗ ﻰﻟﺇ ﻱﺩﺆﻤﻟﺍ ﻱﺩﺍﻮﻟﺍ;ﺎﻣﺩﺃ ﻝﻮﻬﺳ. ﺔﻴﺣ ﺔﻌﻠﻘﻟﺍ ﻦﻋ ﻢﻫﺩﺎﻌﺑﺇ ﻢﺗ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺃ ﻦﻣ ﺔﺒﺿﺎﻐﻟﺍ ﺡﺍﻭﺭﻻﺍ ﻚﻠﺗ ﻝﺍﺰﺗ ﻻ.</body>
   </string>
   <string>
     <id>1060919</id>
     <name>STR_DIC_W_DF2B_SZ_E</name>
-    <body>Adma Stronghold;A stronghold to the south of the Adma Plains. It is said to be connected to Old Nahor Castle by a secret passage.</body>
+    <body>Adma Stronghold;A stronghold to the south of the Adma Plains. ﻱﺮﺳ ﺮﻤﻣ ﻖﻳﺮﻃ ﻦﻋ ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﻫﺎﻧ ﺔﻌﻠﻘﺑ ﻞﺼﺘﻣ ﻪﻧﺇ ﻝﺎﻘﻳﻭ .ﺎﻣﺩﺃ ﻝﻮﻬﺳ ﺏﻮﻨﺟ ﻲﻓ ﺔﻌﻠﻗ;ﺎﻣﺩﺃ ﺔﻌﻠﻗ.</body>
   </string>
   <string>
     <id>1060920</id>
     <name>STR_DIC_W_DF2B_SZ_A2_2</name>
-    <body>Brusthonin Mithril Mine;An old mine to the northwest of Sudorville.</body>
+    <body>ﻞﻴﻓﺭﻭﺩﻮﺳ ﻦﻣ ﻲﺑﺮﻐﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﻢﻳﺪﻗ ﻢﺠﻨﻣ;ﻞﻳﺮﺜﻴﻣ ﻦﻴﻧﻮﺜﺳﻭﺮﺑ ﻢﺠﻨﻣ.</body>
   </string>
   <string>
     <id>1060921</id>
     <name>STR_DIC_W_DF2B_SZ_C2_1</name>
-    <body>Perpet Falls;A clean, clear waterfall located upstream of Iollu Forest.</body>
+    <body>ﻮﻟﻮﻟ ﺔﺑﺎﻏ ﻯﺮﺠﻣ ﺪﻨﻋ ﻊﻘﻳ ﻲﻘﻧﻭ ﺢﺿﺍﻭ ﻝﻼﺷ;ﺖﺑﺮﻴﺑ ﺕﻻﻼﺷ.</body>
   </string>
   <string>
     <id>1060922</id>
     <name>STR_DIC_W_DF2B_SZ_A1_1</name>
-    <body>Heirnir's Cabin;Heirnir's cabin in Sudorville.</body>
+    <body>ﻞﻴﻓﺭﺩﻮﺳ ﻲﻓ ﻊﻘﻳ ﺮﻴﻧﺮﻴﻫ ﺥﻮﻛ;ﺮﻴﻧﺮﻴﻫ ﺥﻮﻛ.</body>
   </string>
   <string>
     <id>1060923</id>
     <name>STR_DIC_W_DF2B_SZ_A2_3</name>
-    <body>Shaman's House;An isolated house standing at the eastern end of the Baltasar Cemetery. It is inhabited by the shaman Seznec.</body>
+    <body>.ﺭﺎﺳﺎﺘﻟﺎﺑ ﺓﺮﺒﻘﻤﻟ ﻲﻗﺮﺸﻟﺍ ﻑﺮﻄﻟﺍ ﺪﻨﻋ ﻊﻘﻳ ﻝﻭﺰﻌﻣ ﻝﺰﻨﻣ;ﻥﺎﻣﺎﺸﻟﺍ ﻝﺰﻨﻣ .ﻚﻴﻧﺰﻴﺳ ﻥﺎﻣﺎﺸﻟﺍ ﻪﻨﻜﺴﻳ</body>
   </string>
   <string>
     <id>1060924</id>
     <name>STR_DIC_W_DF2B_SZ_B3_1</name>
-    <body>Decomposed Greens;An area in The Northweald occupied by the Contaminated Elim.</body>
+    <body>ﺔﺛﻮﻠﻤﻟﺍ ﻢﻴﻟﻷﺍ ﺎﻬﻠﺘﺤﺗ ﺪﻧﻻ ﺙﺭﻮﻧ ﻲﻓ ﺔﻘﻄﻨﻣ;ﺓﺪﺳﺎﻔﻟﺍ ﺓﺮﻀﺨﻟﺍ.</body>
   </string>
   <string>
     <id>1060925</id>
     <name>STR_DIC_W_DF2B_SZ_C1_1</name>
-    <body>BuBu Chan's Hideout;An isolated house to the north of the Iollu Hills. BuBu Chan lives here.</body>
+    <body>ﻮﻟﻮﻟ ﻝﻼﺗ ﻝﺎﻤﺷ ﻲﻓ ﻝﻭﺰﻌﻣ ﻝﺰﻨﻣ;ﻥﺎﺸﺗ-ﻮﺑﻮﺑ ﺄﺠﻠﻣ. ﺎﻨﻫ ﺶﻴﻌﻳ ﻥﺎﺸﺗ-ﻮﺑﻮﺑ.</body>
   </string>
   <string>
     <id>1060926</id>
     <name>STR_DIC_W_DF2B_SZ_C2_2</name>
-    <body>Cayron Hill;A hill in the Iollu Forest. Cayron, a wise Brohum, can be found here.</body>
+    <body>ﺎﻨﻫ ﺎﻤﻬﻴﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻜﻤﻳ ، ﻢﻴﻜﺤﻟﺍ ﻡﻮﻫﺮﺑ ، ﻥﻭﺮﻴﻛ .ﻮﻟﻮﻟ ﺔﺑﺎﻏ ﻲﻓ ﻊﻘﻳ ﻞﺗ;ﻥﻭﺮﻳﺎﻛ ﻞﺗ.</body>
   </string>
   <string>
     <id>1060927</id>
     <name>STR_DIC_W_DF2B_SZ_D1_2</name>
-    <body>Stragglers' Shelter;An area in the Carobian Coast.</body>
+    <body>ﻲﺒﻳﺭﺎﻜﻟﺍ ﻞﺣﺎﺴﻟﺍ ﻲﻓ ﺔﻘﻄﻨﻣ;ﻦﻳﺩﺮﺸﻤﻟﺍ ﺊﺠﻠﻣ.</body>
   </string>
   <string>
     <id>1060928</id>
     <name>STR_DIC_W_DF2B_SZ_D2_1</name>
-    <body>Canyon Scout Post;An area on The Coastal Pass. Archons have been dispatched here to investigate the situation at the Adma Plains.</body>
+    <body>.ﻲﻠﺣﺎﺴﻟﺍ ﺮﻤﻤﻟﺍ ﻰﻠﻋ ﺔﻘﻄﻨﻣ;ﻱﺩﺍﻮﻟﺍ ﻑﺎﺸﻛ ﺮﻔﺨﻣ. ﺎﻣﺩﺃ ﻝﻮﻬﺳ ﻊﺿﻭ ﻲﻓ ﻖﻴﻘﺤﺘﻠﻟ ﺎﻨﻫ ﻰﻟﺍ ﺕﺎﻴﻗﺮﺑ ﻝﺎﺳﺭﺇ ﻢﺗ.</body>
   </string>
   <string>
     <id>1060929</id>
     <name>STR_DIC_W_SEN_DF2a_SensoryArea_Q4051</name>
-    <body>Cayron Hill;A hill in the Iollu Forest. Cayron, a wise Brohum, can be found here.</body>
+    <body>ﺎﻨﻫ ﺎﻤﻬﻴﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻜﻤﻳ ، ﻢﻴﻜﺤﻟﺍ ﻡﻮﻫﺮﺑ ، ﻥﻭﺮﻴﻛ . ﻮﻟﻮﻟ ﺔﺑﺎﻏ ﻲﻓ ﻞﺗ;ﻥﻭﺮﻳﺎﻛ ﻞﺗ.</body>
   </string>
   <string>
     <id>1060930</id>
     <name>STR_DIC_W_LF2B_SZ_A</name>
-    <body>Parched Barrens;The dry desert region east of Observatory Village.</body>
+    <body>ﺪﺻﺮﻤﻟﺍ ﺔﻳﺮﻗ ﻕﺮﺷ ﺔﻓﺎﺠﻟﺍ ﺔﻳﻭﺍﺮﺤﺼﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﺰﻨﻳﺭﺎﺑ ﺂﻤﻇ.</body>
   </string>
   <string>
     <id>1060931</id>
     <name>STR_DIC_W_LF2B_SZ_A_Town</name>
-    <body>Observatory Village;A village built around the Theobomos Observatory.</body>
+    <body>ﺱﺎﻣﻮﺑﻭﺍ ﺍﺫ ﺪﺻﺮﻣ ﻝﻮﺣ ﺖﻴﻨﺑ ﺔﻳﺮﻗ;ﺪﺻﺮﻤﻟﺍ ﺔﻳﺮﻗ.</body>
   </string>
   <string>
     <id>1060932</id>
     <name>STR_DIC_W_LF2B_SZ_B1</name>
-    <body>Northern Latheron Coast;A huge desert found to the east of the Parched Barrens. It was apparently a seaside in the past.</body>
+    <body>ﺰﻨﻳﺭﺎﺑ ﺂﻤﻇ ﻕﺮﺷ ﻲﻓ ﺔﻤﺨﺿ ﺀﺍﺮﺤﺻ;ﻥﻭﺮﻴﺛﻻ ﻝﺎﻤﺷ ﻞﺣﺎﺳ.ﻲﺿﺎﻤﻟﺍ ﻲﻓ ﺀﻰﻃﺎﺷ ﻭﺪﺒﻳ ﺎﻣ ﻰﻠﻋ ﻥﺎﻛ.</body>
   </string>
   <string>
     <id>1060933</id>
     <name>STR_DIC_W_LF2B_SZ_B2</name>
-    <body>Southern Latheron Coast;Although it is a desert at present, it was apparently a seaside in the past.</body>
+    <body>ﺊﻃﺎﺷ ﻲﺿﺎﻤﻟﺎﺑ ﺖﻧﺎﻛ,ﺎﻴﻟﺎﺣ ﺔﻠﺣﺎﻓ ﺀﺍﺮﺤﺻ ﺎﻬﻧﺍ ﻦﻣ ﻢﻏﺮﻟﺎﺑ;ﻥﻭﺭﺫﻻ ﺏﻮﻨﺟ ﻞﺣﺎﺳ.</body>
   </string>
   <string>
     <id>1060934</id>
     <name>STR_DIC_W_LF2B_SZ_B3</name>
-    <body>Cascade Springs;A dried-up sea to the south of the Southern Latheron Coast.</body>
+    <body>ﻲﺑﻮﻨﺠﻟﺍ ﻥﻭﺭﺫﻻ ﻞﺣﺎﺳ ﺏﻮﻨﺟ ﻲﻓ ﻑﺎﺟ ﺮﺤﺑ;ﺪﻴﻜﺳﺎﻛ ﻊﻴﺑﺎﻨﻳ.</body>
   </string>
   <string>
     <id>1060935</id>
     <name>STR_DIC_W_LF2B_SZ_B4</name>
-    <body>Alisary Coast;A dried-up sea, located to the west of the Cascade Springs.</body>
+    <body>ﺪﻴﻜﺳﺎﻛ ﺮﻬﻧ ﺏﺮﻏ ﻊﻘﻳ ، ﻑﺎﺟ ﺮﺤﺑ;ﻱﺭﺍﺰﻴﻟﺍ ﻞﺣﺎﺳ.</body>
   </string>
   <string>
     <id>1060936</id>
     <name>STR_DIC_W_LF2B_SZ_C1</name>
-    <body>Dirmoi Pass;A long canyon passage to the south of Fregion's Flame.</body>
+    <body>ﻦﻴﺠﻳﺮﻓ ﺔﻠﻌﺷ ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺇ ﻞﻳﻮﻃ ﻖﻴﺿ ﺮﻤﻣ;ﻱﻮﻣﺮﻳﺩ ﺮﻤﻣ.</body>
   </string>
   <string>
     <id>1060937</id>
     <name>STR_DIC_W_LF2B_SZ_C2</name>
-    <body>Empyrean Lords Sanctuary;An ancient temple ruin to the south of the Fregion's Flame.</body>
+    <body>ﻦﻴﺠﻳﺮﻓ ﺔﻠﻌﺷ ﺏﻮﻨﺟ ﻲﻓ ﻢﻳﺪﻗ ﺪﺒﻌﻣ;ﺕﺍﺩﺭﻮﻠﻟﺍ ﺀﺎﻤﺳ ﺊﺠﻠﻣ.</body>
   </string>
   <string>
     <id>1060938</id>
     <name>STR_DIC_W_LF2B_SZ_C3</name>
-    <body>Fregion's Flame;An area to the east of The Stalking Grounds. It still bears the scars from the attacks of the Dragon Lord Fregion.</body>
+    <body>ﺞﻨﻴﻛﻮﺘﺳ ﺽﺭﺃ ﻕﺮﺷ ﻲﻓ ﻊﻘﺗ ﺔﻘﻄﻨﻣ;ﻦﻴﺠﻳﺮﻓ ﺔﻠﻐﺷ. ﺔﻴﻗﺎﺑ ﻦﻴﺠﻳﺮﻓ ﻦﻴﻨﺘﻟﺍ ﺩﺭﻮﻠﻟﺍ ﻡﻮﺠﻫ ﺭﺂﺛﺍ ﻝﺍﺰﺗ ﻻ.</body>
   </string>
   <string>
     <id>1060939</id>
     <name>STR_DIC_W_LF2B_SZ_C4</name>
-    <body>The Stalking Grounds;An area to the west of Fregion's Flame, laid waste by the Dragon Lord's attacks. Calydons lurk here.</body>
+    <body>ﺎﻨﻫ ﺲﻧﻭﺪﻴﻟﺎﻛ ﻦﻴﻨﺘﻟﺍ ﺩﺭﻮﻠﻟﺍ ﻡﻮﺠﻫ ﺭﺂﺛﺃ ﺖﻌﺿُﻭ . ﻦﻴﺠﻳﺮﻓ ﺔﻠﻌﺷ ﺏﺮﻏ ﻊﻘﺗ ﺔﻘﻄﻨﻣ;ﺞﻨﻴﻛﻮﺘﺳ ﺽﺭﺃ.</body>
   </string>
   <string>
     <id>1060940</id>
     <name>STR_DIC_W_LF2B_SZ_C5</name>
-    <body>Calydon Village;A Calydon village located on a high cliff in the northwest of Theobomos.</body>
+    <body>ﺱﺎﻣﻮﺑﻭﺍ ﺍﺫ ﻦﻣ ﻲﺑﺮﻐﻟﺍ ﻝﺎﻤﺸﻟﺍ ﻲﻓ ﻊﻔﺗﺮﻣ ﺭﺪﺤﻨﻣ ﻰﻠﻋ ﻥﻭﺪﻴﻟﺎﻛ ﺔﻳﺮﻗ ﻊﻘﺗ;ﻥﻭﺪﻴﻟﺎﻛ ﺔﻳﺮﻗ.</body>
   </string>
   <string>
     <id>1060941</id>
     <name>STR_DIC_W_LF2B_SZ_C6</name>
-    <body>Dirmoi Valley;A deep valley to the east of the Jamanok Inn.</body>
+    <body>ﻙﻮﻧﺎﻣﺎﺟ ﻝﺰﻧ ﻕﺮﺷ ﻖﻴﻤﻋ ﻱﺩﺍﻭ;ﻲﻣﺮﻳﺩ ﻱﺩﺍﻭ.</body>
   </string>
   <string>
     <id>1060942</id>
     <name>STR_DIC_W_LF2B_SZ_C_Town</name>
-    <body>Jamanok Inn;An inn built on a hill in The Stalking Grounds. It is run by the beautiful Jamanok.</body>
+    <body>ﺞﻨﻴﻛﻮﺘﺳ ﺽﺭﺃ ﻲﻓ ﺔﻠﺗ ﻰﻠﻋ ﻲﻨﺑ ﻝﺰﻧ;ﻙﻮﻧﺎﻣﺎﺟ ﻝﺯُﻧ. ﻙﻮﻧﺎﻣﺎﺟ ﺔﻠﻴﻤﺠﻟﺍ ﺔﻄﺳﺍﻮﺑ ﻪﻠﻴﻐﺸﺗ ﻢﺘﻳ.</body>
   </string>
   <string>
     <id>1060943</id>
     <name>STR_DIC_W_LF2B_SZ_D</name>
-    <body>Marla Cave;A cave that can be reached from the Dirmoi Valley. Fugitives and escapees can find a place to hide here.</body>
+    <body>ﻱﻮﻣﺮﻳﺩ ﻱﺩﺍﻭ ﻦﻣ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻒﻬﻛ;ﻻﺭﺎﻣ ﻒﻬﻛ. ﺎﻨﻫ ﺀﺎﺒﺘﺧﻼﻟ ﻥﺎﻜﻣ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻴﺑﺭﺎﻬﻠﻟ ﻦﻜﻤﻳ.</body>
   </string>
   <string>
     <id>1060944</id>
     <name>STR_DIC_W_LF2B_SZ_E</name>
-    <body>Theobomos Stronghold;The ruins of an enormous stronghold located to the west of the Alisary Coast.</body>
+    <body>ﻱﺭﺎﺴﻴﻟﺍ ﻞﺣﺎﺳ ﺏﺮﻏ ﻊﻘﻳ ﻞﺋﺎﻫ ﻞﻘﻌﻣ ﺽﺎﻘﻧﺃ;ﺱﺎﻣﻮﺑﻭﺍ ﺍﺫ ﻦﺼﺣ.</body>
   </string>
   <string>
     <id>1060945</id>
     <name>STR_DIC_W_LF2B_SZ_B3_1</name>
-    <body>Sneeze Crater;A great crater in the Cascade Springs. Inside it is a lush paradise.</body>
+    <body>ﺀﺍﺮﻀﺧ ﺔﻨﺟ ﻪﻠﺧﺍﺩ .ﺪﻳﺎﻜﺳﺎﻛ ﻊﻴﺑﺎﻨﻳ ﻲﻓ ﺓﺮﻴﺒﻛ ﺓﺮﻔﺣ;ﻱﺰﻴﻨﺳ ﻥﺎﻛﺮﺑ ﺔﻫﻮﻓ.</body>
   </string>
   <string>
     <id>1060946</id>
     <name>STR_DIC_W_LF2B_SZ_B4_1</name>
-    <body>Port Anangke;The ruins of an old port to the west of the Alisary Coast.</body>
+    <body>ﻱﺭﺎﺴﻴﻟﺍ ﻞﺣﺎﺳ ﺏﺮﻏ ﻢﻳﺪﻗ ﺀﺎﻨﻴﻣ ﺽﺎﻘﻧﺃ;ﻚﻴﺠﻧﺎﻧﺍ ﺀﺎﻨﻴﻣ.</body>
   </string>
   <string>
     <id>1060947</id>
     <name>STR_DIC_W_LF2B_SZ_C2_1</name>
-    <body>Dirmoi Shrine;An ancient temple to the Empyrean Lords.</body>
+    <body>ﻦﻴﻳﺭﻮﻃﺍﺮﺒﻣﻻﺍ ﺕﺍﺩﺭﻮﻠﻟﺍ ﻰﻟﺍ ﺩﻮﻌﻳ ﻢﻳﺪﻗ ﺪﺒﻌﻣ;ﻲﻣﺮﻳﺩ ﺢﻳﺮﺿ.</body>
   </string>
   <string>
     <id>1060948</id>
     <name>STR_DIC_W_LF2B_SZ_C5_1</name>
-    <body>Broken Fang Bridge;The bridge leading to the Calydon Village.</body>
+    <body>ﻥﻭﺪﻴﻟﺎﻛ ﺔﻳﺮﻗ ﻰﻟﺇ ﻱﺩﺆﻤﻟﺍ ﺮﺴﺠﻟﺍ;ﺞﻨﻓ ﺮﺴﺟ ﻡﺎﻄﺣ.</body>
   </string>
   <string>
     <id>1060949</id>
     <name>STR_DIC_W_LF2B_SZ_D_1</name>
-    <body>Stalactite Spring;A spring inside the Marla Cave.</body>
+    <body>ﻻﺭﺎﻣ ﻒﻬﻛ ﻞﺧﺍﺩ ﻉﻮﺒﻨﻳ;ﺖﻳﺎﺘﺳﻻﺎﺘﺳ ﻉﻮﺒﻨﻳ.</body>
   </string>
   <string>
     <id>1060950</id>
     <name>STR_DIC_W_LF2B_SZ_B4_2</name>
-    <body>Anangke Excavation Camp;A Meniherk Shugo Campsite located near Port Anangke.</body>
+    <body>ﻚﻴﺠﻧﺎﻧﺍ ﺀﺎﻨﻴﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻊﻘﻳﻭ ﻮﺟﻮﺷ ﻙﺮﻴﻬﻴﻨﻴﻣ ﻢﻴﺨﻣ ﻊﻗﻮﻣ;ﻚﻴﺠﻧﺎﻧﺍ ﺐﻴﻘﻨﺗ ﺮﻜﺴﻌﻣ.</body>
   </string>
   <string>
     <id>1060951</id>

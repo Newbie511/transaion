@@ -2159,7 +2159,7 @@
   <string>
     <id>1060838</id>
     <name>STR_DIC_W_STR_DF3_SZ_G2_2</name>
-    <body>Glacier Peaks;A low hill in front of [%dic:STR_DIC_W_STR_DF3_SZ_G2]. Kurins and Taygas nest on the snow-covered hillock.</body>
+    <body>ﻡﺎﻣﺃ ﺾﻔﺨﻨﻣ ﻞﺗ;ﻥﺎﻴﻨﻴﺘﺴﻴﻛ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_W_STR_DF3_SZ_G2]. ﺝﻮﻠﺜﻟﺎﺑ ﺓﺎﻄﻐﻤﻟﺍ ﻝﻼﺘﻟﺍ ﻰﻠﻋ ﺶﻌﻟﺍ ﺲﺠﻳﺎﺘﻟﺍﻭ ﺲﻴﻧﺭﻮﻜﻟﺍ.</body>
   </string>
   <string>
     <id>1060839</id>
@@ -2179,137 +2179,137 @@
   <string>
     <id>1060842</id>
     <name>STR_DIC_W_STR_DF3_SZ_G2_6</name>
-    <body>Alquimia Approach;A recruit training ground of Lepharist Revolutionaries adjacent to [%dic:STR_DIC_W_STR_DF3_SZ_G3] in the southeastern end of Beluslan.</body>
+    <body>ﺖﺴﻳﺮﻓﻻ ﺭﺍﻮﺛ ﺐﻳﺭﺪﺗ ﺔﺣﺎﺳ;ﻊﻴﻘﺼﻟﺍ ﺊﺠﻠﻣ [%dic:STR_DIC_W_STR_DF3_SZ_G3] ﻥﻼﺳﻮﻠﻴﺑ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻲﺑﻮﻨﺠﻟﺍ ﻑﺮﻄﻟﺍ ﻲﻓ.</body>
   </string>
   <string>
     <id>1060843</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4_3</name>
-    <body>Alquimia Research Center;A research centre deep inside [%dic:STR_DIC_W_STR_DF3_SZ_G4]. It conducts secret experiments with Humans.</body>
+    <body>ﻞﺧﺍﺪﻟﺍ ﻲﻓ ﻖﻴﻤﻋ ﺙﺎﺤﺑﺃ ﺰﻛﺮﻣ;ﺙﺎﺤﺑﻸﻟ ﺀﺎﻤﻳﻮﻘﻟﺍ ﺰﻛﺮﻣ [%dic:STR_DIC_W_STR_DF3_SZ_G4]. ﺮﺸﺒﻟﺍ ﻰﻠﻋ ﺔﻳﺮﺳ ﺏﺭﺎﺠﺗ ﻱﺮﺠﺗ.</body>
   </string>
   <string>
     <id>1060844</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4_4</name>
-    <body>Lepharist Barracks;A living quarter of the Lepharists in the north of Alquimia Training Ground.</body>
+    <body>ﺀﺎﻴﻤﻳﻮﻘﻟﺍ ﻝﺎﻤﺷ ﻲﻓ ﺖﺴﻳﺮﻓﻻ ﻥﺎﻜﺳ ﺶﻴﻋ ﻲﺣ;ﺖﺴﻳﺮﻓﻻ ﺔﻨﻜﺛ.</body>
   </string>
   <string>
     <id>1060845</id>
     <name>STR_DIC_W_STR_DF3_SZ_G4_5</name>
-    <body>Alquimia Training Ground;A training ground you can find when you follow the road east of [%dic:STR_DIC_W_STR_DF3_SZ_G2_6]. Trainees of the Sentinel Troop are practicing drills.</body>
+    <body>ﺍًﻗﺮﺷ ﻖﻳﺮﻄﻟﺍ ﻉﺎﺒﺗﺍ ﺪﻨﻋ ﺎﻬﻴﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻚﻨﻜﻤﻳ ﻲﺘﻟﺍ ﺐﻳﺭﺪﺘﻟﺍ ﺽﺭﺃ;ﺀﺎﻴﻤﻳﻮﻘﻟﺍ ﺐﻳﺭﺪﺗ ﺔﺣﺎﺳ [%dic:STR_DIC_W_STR_DF3_SZ_G2_6]. ﺕﺎﺒﻳﺭﺪﺘﻟﺍ ﻥﻮﺳﺭﺎﻤﻳ ﺱﺭﺎﺤﻟﺍ ﺔﻗﺮﻓ ﻦﻣ ﻦﻴﺑﺭﺪﺘﻤﻟﺍ.</body>
   </string>
   <string>
     <id>1060846</id>
     <name>STR_DIC_W_STR_DF3_SZ_G6_2</name>
-    <body>Beluslan Observatory;A destroyed Observatory on the cliff that borders [%dic:STR_DIC_W_STR_DF3_SZ_G5] and [%dic:STR_DIC_W_STR_DF3_SZ_G6]. As the Aetheric Field was incapacitated, the Balaur poured in.</body>
+    <body>ﺩﻭﺪﺤﻟﺍ ﻰﻠﻋ ﺮﻣﺩ ﺪﺻﺮﻣ;ﻥﻼﺳﻮﻠﻴﺑ ﺪﺻﺮﻣ [%dic:STR_DIC_W_STR_DF3_SZ_G5] and [%dic:STR_DIC_W_STR_DF3_SZ_G6]. As the Aetheric Field was incapacitated, the Balaur poured in.</body>
   </string>
   <string>
     <id>1060847</id>
     <name>STR_DIC_W_STR_DF3_MS_Britra</name>
-    <body>Beritra's Weapon;A huge sword in the centre of [%dic:STR_DIC_W_STR_DF3_SZ_C2]. Pollutants are deteriorating the area near the sword.</body>
+    <body>ﻂﺳﻭ ﻲﻓ ﻢﺨﺿ ﻒﻴﺳ ؛ﺎﻳﺮﺗﺮﻴﺑ ﻒﻴﺳ [%dic:STR_DIC_W_STR_DF3_SZ_C2]. ﻒﻴﺴﻟﺍ ﻝﻮﺣ ﺮﺸﺘﻨﻳ ﺙﻮﻠﺘﻟﺍ.</body>
   </string>
   <string>
     <id>1060848</id>
     <name>STR_DIC_W_DF3_SZ_D1_3</name>
-    <body>The Sacred Orchard;A place where [%dic:STR_DIC_N_Tree_Nomove_Kasadlasil] rests in peace. The Elim considers it a sacred place.</body>
+    <body>ﻪﻴﻓ ﻥﺎﻜﻣ;ﺱﺪﻘﻤﻟﺍ ﻥﺎﺘﺴﺒﻟﺍ [%dic:STR_DIC_N_Tree_Nomove_Kasadlasil] ﺱﺪﻘﻣ ﻥﺎﻜﻣ ﻢﻴﻟﻷﺍ ﺎﻫﺮﺒﺘﻌﻳ .ﻡﻼﺴﻟﺍ ﻲﻓ ﺪﺟﻮﺗ.</body>
   </string>
   <string>
     <id>1060850</id>
     <name>STR_DIC_SEN_DF4_SensoryArea_Q21069</name>
-    <body>Root Hollow;A place in [%dic:STR_DIC_W_SZ_DF4_A2] in Gelkmaros. It is where the wife of Shawster was last seen.</body>
+    <body>ﻲﻓ ﻥﺎﻜﻣ;ﻑﻮﺟﻻﺍ ﺭﺬﺠﻟﺍ [%dic:STR_DIC_W_SZ_DF4_A2] ﺓﺮﻣ ﺮﺧﺁ ﺮﺘﺳﻮﺷ ﺔﺟﻭﺯ ﺕﺪﻫﻮﺷ ﻪﻴﻓﻭ .ﺱﻭﺭﺎﻤﻴﻜﻴﻠﻴﺟ ﻲﻓ.</body>
   </string>
   <string>
     <id>1060851</id>
     <name>STR_DIC_W_IDCromede_Seal_Room</name>
-    <body>Temple Vault;A vault used by the Siel's Spear Legion to lock away relics that are too dangerous to let out into the world. It is guarded by Divine Hisen.</body>
+    <body>ﻦﺴﻴﻫ ﺲﻴﻬﻟﺇ ﺎﻬﺳﺮﺤﻳ .ﻢﻟﺎﻌﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﻛ ﺓﺭﻮﻄﺧ ﻞﻜﺸﺗ ﻲﺘﻟﺍ ﺭﺎﺛﻵﺍ ﻕﻼﻏﻹ ﻞﻴﻴﺳ ﻦﻣ ﺡﺎﻣﺮﻟﺍ ﻖﻠﻴﻓ ﻪﻣﺪﺨﺘﺴﻳ ﻮﺒﻗ;ﻞﻜﻴﻬﻟﺍ ﺏﺍﺩﺮﺳ.</body>
   </string>
   <string>
     <id>1060852</id>
     <name>STR_DIC_W_IDCromede_Prison</name>
-    <body>Kaliga Dungeons;A dungeon hidden under the home of Shadow Judge Kaliga. It is full of prisoners who have been wrongfully incarcerated.</body>
+    <body>ﺎﺠﻴﻟﺎﻛ ﻞﻈﻟﺍ ﻲﺿﺎﻗ ﻝﺰﻨﻣ ﺖﺤﺗ ﺓﺄﺒﺨﻣ ﺔﻧﺍﺰﻧﺯ;ﺎﺠﻴﻟﺎﻛ ﺔﻧﺍﺰﻧﺯ. ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﺔﻘﻳﺮﻄﺑ ﻢﻬﻨﺠﺳ ﻢﺗ ﻦﻳﺬﻟﺍ ﺀﺎﻨﺠﺴﻟﺎﺑ ﺀﻲﻠﻣ ﻪﻧﺇ.</body>
   </string>
   <string>
     <id>1060853</id>
     <name>STR_DIC_W_IDCromede_Boss_Room</name>
-    <body>Kaliga Treasury;It is filled with treasures that Judge Kaliga has accumulated through unlawful means. There is supposed to be an entrance somewhere on the first floor.</body>
+    <body>ﺔﻴﻧﻮﻧﺎﻗ ﺮﻴﻏ ﻞﺋﺎﺳﻭ ﻝﻼﺧ ﻦﻣ ﺎﻐﻴﻟﺎﻛ ﻲﺿﺎﻘﻟﺍ ﺎﻬﻌﻤﺟ ﻲﺘﻟﺍ ﺯﻮﻨﻜﻟﺎﺑ ﺔﺌﻴﻠﻣ ﻲﻫﻭ;ﺎﺠﻴﻟﺎﻛ ﺔﻨﻳﺰﺧ. ﻝﻭﻷﺍ ﻖﺑﺎﻄﻟﺍ ﻲﻓ ﺎﻣ ﻥﺎﻜﻣ ﻲﻓ ﻞﺧﺪﻤﻟﺍ ﻥﻮﻜﻳ ﻥﺃ ﺽﺮﺘﻔﻤﻟﺍ ﻦﻣ.</body>
   </string>
   <string>
     <id>1060854</id>
     <name>STR_DIC_W_DF4_C4_Q1</name>
-    <body>Expedition Campsite;A campsite of the brothers [%dic:STR_DIC_N_Itar] and [%dic:STR_DIC_N_Tanar] in the Dragonrest. It is where the windstream that goes through the Dragonrest begins.</body>
+    <body>ﺓﻮﺧﻷﺍ ﻢﻴﻴﺨﺗ ﻊﻗﻮﻣ;ﻢﻴﻴﺨﺘﻟﺍ ﺮﻜﺴﻌﻣ ﺔﻠﻤﺣ [%dic:STR_DIC_N_Itar] و [%dic:STR_DIC_N_Tanar] ﻦﻴﻨﺘﻟﺍ ﻦﻳﺮﻋ ﺮﺒﻋ ﺮﻤﻳ ﻱﺬﻟﺍ ﺡﺎﻳﺮﻟﺍ ﺭﺎﻴﺗ ﺃﺪﺒﻳ ﺎﻨﻫ ﻦﻣﻭ .ﻦﻴﻨﺘﻟﺍ ﻦﻳﺮﻋ ﻲﻓ.</body>
   </string>
   <string>
     <id>1060855</id>
     <name>STR_DIC_W_DF4_C1_Q1</name>
-    <body>Drana Farm Observation Post;The campsite of the Pandaemonium Expeditionary Force in the Viscum Swamp. It is where the windstream leading to [%dic:STR_DIC_W_DF4_SZ_C1_Fire] begins.</body>
+    <body>ﻢﻛﺰﻴﻓ ﻊﻘﻨﺘﺴﻣ ﻲﻓ ﺔﺻﺎﺨﻟﺍ ﻡﻮﻴﻨﻣﺪﻧﺎﺑ ﺕﺍﻮﻗ ﻢﻴﻴﺨﺗ ﻊﻗﻮﻣ;ﺎﻧﺍﺭﺩ ﺔﺒﻗﺍﺮﻤﻟﺍ ﺔﻋﺭﺰﻣ. ﺡﺎﻳﺮﻟﺍ ﺭﺎﻴﺗ ﻰﻟﺇ ﻱﺩﺆﻳ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻮﻫ [%dic:STR_DIC_W_DF4_SZ_C1_Fire] begins.</body>
   </string>
   <string>
     <id>1060900</id>
     <name>STR_DIC_W_DF2B_SZ_A1</name>
-    <body>Sudorville;A settlement area to the north of the Baltasar Hill Village. It used to be a fertile land in the past.</body>
+    <body>ﻞﻴﻫ ﺭﺎﺳﺎﺘﻟﺎﺑ ﺔﻳﺮﻗ ﻝﺎﻤﺷ ﺔﻨﻃﻮﺘﺴﻣ ﺔﻘﻄﻨﻣ;ﻞﻓﺭﺩﻮﺳ.ﺔﺒﺼﺧ ﺽﺭﺃ ﻲﺿﺎﻤﻟﺍ ﻲﻓ ﺖﻧﺎﻛ.</body>
   </string>
   <string>
     <id>1060901</id>
     <name>STR_DIC_W_DF2B_SZ_A2</name>
-    <body>Baltasar Cemetery;The cemetery where those who were sacrificed in Brusthonin are buried.</body>
+    <body>ﻦﻴﻨﻴﺜﺘﺳﻭﺮﺑ ﻲﻓ ﻢﻬﺑ ﺔﻴﺤﻀﺘﻟﺍ ﻢﺗ ﻦﻳﺬﻟﺍ ﻚﺌﻟﻭﺍ ﺎﻬﻴﻓ ﻦﻓﺩ ﻲﺘﻟﺍ ﺓﺮﺒﻘﻤﻟﺍ؛ﺭﺍﺰﺘﻟﺎﺑ ﺓﺮﺒﻘﻣ.</body>
   </string>
   <string>
     <id>1060902</id>
     <name>STR_DIC_W_DF2B_SZ_A2_1</name>
-    <body>The Legend Shrine;A site where the members of the Red Sky Legion who died fighting for Brusthonin are buried. It is located in the centre of the Baltasar Cemetery.</body>
+    <body>ﻦﻴﻧﻮﺜﺳﻭﺮﺑ ﻞﺟﺃ ﻦﻣ ﺍﻮﻠﺘﻗ ﻱﺬﻟﺍ ﺀﺍﺮﻤﺤﻟﺍ ﺀﺎﻤﺴﻟﺍ ﻖﻠﻴﻓ ﻦﻣ ﺀﺎﻀﻋﺍ ﻪﻴﻓ ﻦﻓﺩ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ. ﺭﺍﺰﺘﻟﺎﺑ ﺓﺮﺒﻘﻣ ﻒﺼﺘﻨﻣ ﻲﻓ ﻊﻘﻳ.</body>
   </string>
   <string>
     <id>1060903</id>
     <name>STR_DIC_W_DF2B_SZ_A3</name>
-    <body>Wailing Cliffs;An area south of the Baltasar Cemetery. A great battle against the army of Beritra had taken place here in the past.</body>
+    <body>ﺭﺍﺰﺘﻟﺎﺑ ﺓﺮﺒﻘﻣ ﺏﻮﻨﺟ ﺔﻘﻄﻨﻣ;ﺕﺍﺭﺪﺤﻨﻤﻟﺍ ﺐﻴﺤﻧ.ﻲﺿﺎﻤﻟﺍ ﻲﻓ ﺍﺮﺘﻳﺮﻴﺑ ﺶﻴﺟ ﺪﺿ ﺓﺮﻴﺒﻛ ﺔﻛﺮﻌﻣ ﻙﺎﻨﻫ ﺖﻧﺎﻛ.</body>
   </string>
   <string>
     <id>1060904</id>
     <name>STR_DIC_W_DF2B_SZ_A4</name>
-    <body>The Golden Coast;The coast to the south of the Wailing Cliffs. It is not treaded by the feet of men.</body>
+    <body>ﺕﺍﺭﺪﺤﻨﻤﻟﺍ ﻦﻣ ﻲﺑﻮﻨﺠﻟﺍ ﻞﺣﺎﺴﻟﺍ;ﻲﺒﻫﺬﻟﺍ ﻞﺣﺎﺴﻟﺍ. ﻝﺎﺟﺮﻟﺍ ﻡﺍﺪﻗﺎﺑ ﺱﺍﺪﺗ ﻻ ﺎﻬﻧﺍ.</body>
   </string>
   <string>
     <id>1060905</id>
     <name>STR_DIC_W_DF2B_SZ_A_Town</name>
-    <body>Baltasar Hill Village;It was protected from contamination thanks to the power of the holy tree Baltasar.</body>
+    <body>ﺭﺎﺳﺎﺘﻟﺎﺑ ﺔﺳﺪﻘﻤﻟﺍ ﺓﺮﺠﺸﻟﺍ ﺓﻮﻗ ﻞﻀﻔﺑ ﺙﻮﻠﺘﻟﺍ ﻦﻣ ﺔﻴﻤﺤﻣ ﺖﻧﺎﻛ;ﺭﺍﺯﺎﺘﻟﺎﺑ ﻞﺗ ﺔﻳﺮﻗ.</body>
   </string>
   <string>
     <id>1060906</id>
     <name>STR_DIC_W_DF2B_SZ_B1</name>
-    <body>The Eastweald;The eastern region of the Magaro Primeval Forest. It is located on the west of the Baltasar Hill.</body>
+    <body>ﺔﻴﺋﺍﺪﺒﻟﺍ ﻭﺭﺎﻏﺎﻣ ﺔﺑﺎﻏ ﻦﻣ ﺔﻴﻗﺮﺸﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﺪﻠﻳﻭ ﺖﺴﻳﺍ. ﺭﺎﺳﺎﺘﻟﺎﺑ ﻞﺗ ﺏﺮﻏ ﻲﻓ ﻊﻘﺗ.</body>
   </string>
   <string>
     <id>1060907</id>
     <name>STR_DIC_W_DF2B_SZ_B2</name>
-    <body>Nahor Lake;A lake found in the south of The Northweald.</body>
+    <body>ﺪﻠﻳﻭ ﺙﺭﻮﻧ ﺏﻮﻨﺟ ﻲﻓ ﺓﺩﻮﺟﻮﻣ ﺓﺮﻴﺤﺑ;ﺭﻮﻫﺎﻧ ﺓﺮﻴﺤﺑ.</body>
   </string>
   <string>
     <id>1060908</id>
     <name>STR_DIC_W_DF2B_SZ_B2_1</name>
-    <body>Old Nahor Castle;An old castle standing on the centre of the Nahor Lake.</body>
+    <body>ﺭﻮﺣﺎﻧ ﺓﺮﻴﺤﺑ ﻂﺳﻭ ﻲﻓ ﻊﻘﺗ ﺔﻤﻳﺪﻗ ﺔﻌﻠﻗ ؛ ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﻫﺎﻧ ﺔﻌﻠﻗ.</body>
   </string>
   <string>
     <id>1060909</id>
     <name>STR_DIC_W_DF2B_SZ_B3</name>
-    <body>The Northweald;The western region of the Magaro Primeval Forest.</body>
+    <body>ﺔﻴﺋﺍﺪﺒﻟﺍ ﻭﺭﺎﻏﺎﻣ ﺔﺑﺎﻏ ﻦﻣ ﺔﻴﺑﺮﻐﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﺪﻠﻳﻭ ﺙﺭﻮﻧ.</body>
   </string>
   <string>
     <id>1060910</id>
     <name>STR_DIC_W_DF2B_SZ_B4</name>
-    <body>The Saplands;The downstream of Perpet Falls. It is heavily contaminated.</body>
+    <body>ﺖﺑﺮﻴﺑ ﺕﻻﻼﺷ ﻞﻔﺳﺃ ؛ ﺯﺪﻧﺮﻴﺑﺎﺷ. ﺓﺪﺸﺑ ﺔﺛﻮﻠﻣ.</body>
   </string>
   <string>
     <id>1060911</id>
     <name>STR_DIC_W_DF2B_SZ_C1</name>
-    <body>Iollu Hills;A hilly region spread on the east of the BuBu Village.</body>
+    <body>ﻮﺑﻮﺑ ﺔﻳﺮﻗ ﻕﺮﺷ ﻲﻓ ﺔﻴﻠﺒﺟ ﺔﻘﻄﻨﻣ؛ﻮﻟﻮﻟ ﻝﻼﺗ.</body>
   </string>
   <string>
     <id>1060912</id>
     <name>STR_DIC_W_DF2B_SZ_C2</name>
-    <body>Iollu Forest;A forest reached by continuing east from the Iollu Hills. It is free from contamination, and ginseng of good quality grow here.</body>
+    <body>ﻮﻟﻮﻟ ﻝﻼﺗ ﻝﺎﻤﺷ ﻲﻓ ﺪﺟﻮﺗ;ﻮﻟﻮﻟ ﺔﺑﺎﻏ. ﺎﻨﻫ ﺮﺧﺎﻔﻟﺍ ﻎﻨﺴﻨﻴﺠﻟﺍ ﻮﻤﻨﻳﻭ ، ﺙﻮﻠﺘﻟﺍ ﻦﻣ ﺔﻴﻟﺎﺧ ﻲﻫﻭ.</body>
   </string>
   <string>
     <id>1060913</id>
     <name>STR_DIC_W_DF2B_SZ_C3</name>
-    <body>Brohunir;The region to the east of the Iollu Forest, which is the main habitat of the Brohum.</body>
+    <body>ﻮﻟﻮﻟ ﺔﺑﺎﻏ ﻕﺮﺷ ﺔﻘﻄﻨﻣ;ﺮﻴﻧﻮﻫﺭﻮﺑ, ﻢﻴﻫﺭﻮﺒﻠﻟ ﻲﺴﻴﺋﺮﻟﺍ ﻦﻃﻮﻤﻟﺍ ﻲﻫﻭ.</body>
   </string>
   <string>
     <id>1060914</id>

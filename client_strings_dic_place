@@ -4404,97 +4404,97 @@
   <string>
     <id>1061392</id>
     <name>STR_DIC_W_LDF4b_SZ_T1_S12</name>
-    <body>Scout Post Defence Line;A defensive line near the Scout Outpost that's protected by Aether mines.</body>
+    <body>.ﺮﺜﻳﺇ ﻕﺎﻔﻧﺃ ﺔﻄﺳﺍﻮﺑ ﻲﻤﺤﻤﻟﺍ ﻲﻔﺸﻜﻟﺍ ﺮﻔﺨﻤﻟﺍ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻲﻋﺎﻓﺩ ﻂﺧ ؛ ﻲﻋﺎﻓﺪﻟﺍ ﺔﻓﺎﺸﻜﻟﺍ ﻲﺒﻗﺍﺮﻣ ﻂﺧ</body>
   </string>
   <string>
     <id>1061393</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S13</name>
-    <body>Stone Arch Bridge;A stone arch leading to the Gravity Fault that can transport you to Danitur's Lookout.</body>
+    <body>.ﻮﺘﻴﻴﻧﺍﺩ ﺪﺻﺮﻣ ﻰﻟﺇ ﻚﻠﻘﻨﻳ ﻥﺃ ﻦﻜﻤﻳ ﻱﺬﻟﺍ ﺔﻴﺑﺫﺎﺠﻟﺍ ﻉﺪﺻ ﻰﻟﺇ ﻱﺩﺆﻳ ﺮﺴﺟ ؛ ﻱﺮﺠﺤﻟﺍ ﺱﻮﻘﻟﺍ ﺮﺴﺟ</body>
   </string>
   <string>
     <id>1061394</id>
     <name>STR_DIC_W_LDF4b_SZ_T3_S9</name>
-    <body>Head's Hideout;The hideout of the Dragonbound leader</body>
+    <body>.ﺪﻴﻘﻤﻟﺍ ﻦﻴﻨﺘﻟﺍ ﺄﺒﺨﻣ ﻢﻴﻋﺯ ؛ ﺪﻴﻘﻤﻟﺍ ﻦﻴﻨﺘﻟﺍ ﺄﺒﺨﻣ ﺲﻴﺋﺭ</body>
   </string>
   <string>
     <id>1061395</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_S5</name>
-    <body>Enos Brooding Grounds;A nesting ground in the centre of the Enos Forest where the Enos raise their young.</body>
+    <body>.ﻢﻫﺭﺎﻐﺻ ﺱﻮﻧﺇ ﻊﻓﺮﻳ ﺚﻴﺣ ﺱﻮﻧﺇ ﺔﺑﺎﻏ ﻂﺳﻭ ﻲﻓ ﻲﺸﻌﺗ ﺽﺭﺃ ؛ ﺔﺒﺌﺘﻜﻤﻟﺍ ﺱﻮﻧﺇ ﻲﺿﺍﺭﺃ</body>
   </string>
   <string>
     <id>1061396</id>
     <name>STR_DIC_W_LDF4b_SZ_C2_S6</name>
-    <body>Lapialus Mineral Lake;A lake in the Lapialus Mineral Veings. It contains a high concentration of rare minerals that can crystallize items soaked in the waters of the lake.</body>
+    <body>.ﺓﺮﻴﺤﺒﻟﺍ ﻩﺎﻴﻣ ﻲﻓ ﻊﺒﺸﺗﻭ ﻊﻘﻨﺗﻭ ﺭﻮﻠﺒﺘﺗ ﻥﺃ ﺎﻬﻟ ﻦﻜﻤﻳ ﻲﺘﻟﺍ ﺓﺭﺩﺎﻨﻟﺍ ﻥﺩﺎﻌﻤﻟﺍ ﻦﻣ ﻝﺎﻋ ﺰﻴﻛﺮﺗ ﻰﻠﻋ ﻱﻮﺘﺤﺗ .ﺱﻮﻴﻠﺑﻻ ﻕﺮﻋ ﻲﻓ ﺓﺮﻴﺤﺑ ؛ ﺔﻳﺮﻫﻮﺠﻟﺍ ﺱﻮﻴﻠﺑﻻ ﺓﺮﻴﺤﺑ</body>
   </string>
   <string>
     <id>1061397</id>
     <name>STR_DIC_W_LDF4b_SZ_C3_S2</name>
-    <body>Basilika Passage;The entrance to Basilika Cavern, accessible through the Satra Legion Garrison. You must show the Kunati's Banner to pass through.</body>
+    <body>!ﺭﻭﺮﻤﻠﻟ ﻲﺗﺎﻧﻮﻛ ﺭﺎﻌﺷ ﺭﺎﻬﻇﺇ ﻚﻴﻠﻋ ﺐﺠﻳ .ﺍﺮﻘﻴﻟ ﺔﻴﻣﺎﺣ ﺮﺒﻋ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ، ﺎﻜﻴﻠﻴﺳﺎﺑ ﻒﻬﻛ ﻰﻟﺇ ﻞﺧﺪﻣ ؛ ﺎﻜﻴﻠﻴﺳﺎﺑ ﺮﻤﻣ</body>
   </string>
   <string>
     <id>1061398</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S14</name>
-    <body>Traitor's House;This would be a good place to set a Marker Stone in the Traitor's Camp.</body>
+    <body>.ﻦﺋﺎﺨﻟﺍ ﺮﻜﺴﻌﻣ ﻲﻓ ﺔﻣﻼﻌﻟﺍ ﺮﺠﺣ ﻊﺿﻮﻟ ﺍًﺪﻴﺟ ﺍًﻧﺎﻜﻣ ﺍﺬﻫ ﻥﻮﻜﻴﺳ ؛ ﻦﺋﺎﺨﻟﺍ ﺖﻴﺑ</body>
   </string>
   <string>
     <id>1061399</id>
     <name>STR_DIC_W_LDF4b_SZ_T2_S15</name>
-    <body>Magic's Root;A corner of Edendell where magical powers converge so powerfully that they are palpable.</body>
+    <body>.ﺔﺤﺿﺍﻭ ﻥﻮﻜﺗ ﺚﻴﺤﺑ ﺓﻮﻘﺑ ﺔﻳﺮﺤﺴﻟﺍ ﻯﻮﻘﻟﺍ ﺏﺭﺎﻘﺘﺗ ﺚﻴﺣ ﻞﻳﺪﻧﺪﻳﺇ ﻦﻣ ﺔﻳﻭﺍﺯ ؛ ﺭﺎﺤﺳﻷﺍ ﺭﺬﺟ</body>
   </string>
   <string>
     <id>1061400</id>
     <name>STR_DIC_W_LDF4a_SZ_A2_08</name>
-    <body>Refugee Waystation;A camp in [%dic:STR_DIC_W_LDF4a_SZ_A2] where refugees can regain their strength, regroup, and attempt to find missing loved ones.</body>
+    <body>ﻲﻓ ﺮﻜﺴﻌﻣ : ﻦﻴﺌﺟﻼﻟﺍ ﺔﻄﺤﻣ [%dic:STR_DIC_W_LDF4a_SZ_A2] .ﻦﻳﺩﻮﻘﻔﻤﻟﺍ ﻢﻬﺋﺎﺒﺣﺃ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﺔﻟﻭﺎﺤﻣﻭ ﻢﻬﻌﻴﻤﺠﺗ ﺓﺩﺎﻋﺇﻭ ﻢﻬﺗﻮﻗ ﺓﺩﺎﻌﺘﺳﺍ ﻥﻮﺌﺟﻼﻟﺍ ﻊﻴﻄﺘﺴﻳ ﺚﻴﺣ</body>
   </string>
   <string>
     <id>1061401</id>
     <name>STR_DIC_W_LDF4B_ItemUseArea_Q41558A</name>
-    <body>Traitor's House;This would be a good place to set a Marker Stone in the Traitor's Camp.</body>
+    <body>>.ﻦﺋﺎﺨﻟﺍ ﺮﻜﺴﻌﻣ ﻲﻓ ﺔﻣﻼﻌﻟﺍ ﺮﺠﺣ ﻊﺿﻮﻟ ﺍًﺪﻴﺟ ﺍًﻧﺎﻜﻣ ﺍﺬﻫ ﻥﻮﻜﻴﺳ ؛ ﻦﺋﺎﺨﻟﺍ ﺖﻴﺑ</body>
   </string>
   <string>
     <id>1061402</id>
     <name>STR_DIC_W_LDF4a_SZ_C1_000</name>
-    <body>The Great Fissure;A ravine torn through the land beneath the [%dic:STR_DIC_W_LDF4a_SZ_C1].</body>
+    <body>ﺖﺤﺗ ﺽﺭﻷﺍ ﺮﺒﻋ ﻕﺰﻤﻣ ﺩﺍﻭ ؛ ﻢﻴﻈﻌﻟﺍ ﻖﺸﻟﺍ [%dic:STR_DIC_W_LDF4a_SZ_C1].</body>
   </string>
   <string>
     <id>1061403</id>
     <name>STR_DIC_W_housing_SZ_house_001</name>
-    <body>Tezz's House;Tezz is regarded as a tastemaker in Oriel, so her home is open as a design showcase. Tezz is often gone, so Kanen looks after the property.</body>
+    <body>.ﺔﻣﺎﻗﻹﺍ ﻥﺎﻜﻤﺑ ﻥﺎﻨﻛ ﻲﻨﺘﻌﻳ ﺍﺬﻟ ،ﺰﻴﺗ ﻲﻔﺘﺨﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ .ﻢﻴﻤﺼﺗ ﺔﻬﺟﺍﻮﻛ ﺡﻮﺘﻔﻣ ﺎﻬﻟﺰﻨﻣ ﺍﺬﻟ ، ﻞﻳﺭﻭﺃ ﻲﻓ ﻕﻭﺬﺗ ﻊﻧﺎﺻ ﺔﺑﺎﺜﻤﺑ ﺰﻴﺗ ﺮﺒﺘﻌﺗ ؛ ﺰﻴﺗ ﺖﻴﺑ</body>
   </string>
   <string>
     <id>1061404</id>
     <name>STR_DIC_W_housing_DF_house_001</name>
-    <body>Tezz's House;Tezz is regarded as a tastemaker in Pernon, so her home is open as a design showcase. Tezz is often gone, so Katenon looks after the property.</body>
+    <body>.ﺔﻣﺎﻗﻹﺍ ﻥﺎﻜﻤﺑ ﻥﻮﻨﻴﺗﺎﻛ ﻲﻨﺘﻌﻳ ﺍﺬﻟ ،ﺰﻴﺗ ﻲﻔﺘﺨﺗ ﺎﻣ ﺍًﺒﻟﺎﻏ .ﻢﻴﻤﺼﺗ ﺔﻬﺟﺍﻮﻛ ﺡﻮﺘﻔﻣ ﺎﻬﻟﺰﻨﻣ ﺍﺬﻟ ، ﻮﻧﺮﻴﺑ ﻲﻓ ﻕﻭﺬﺗ ﻊﻧﺎﺻ ﺔﺑﺎﺜﻤﺑ ﺰﻴﺗ ﺮﺒﺘﻌﺗ ؛ ﺰﻴﺗ ﺖﻴﺑ</body>
   </string>
   <string>
     <id>1061405</id>
     <name>STR_DIC_W_TDown_ItemUseArea_Q12031A</name>
-    <body>Shrouded Road;Use the Sounding Gem here to find the path to Tiamat's stronghold.</body>
+    <body>.ﺕﺎﻣﺎﻴﺗ ﻞﻘﻌﻣ ﻲﻟﺇ ﻱﺩﺆﻳ ﻱﺬﻟﺍ ﻖﻳﺮﻄﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻠﻟ ﺎﻨﻫ ﺓﺮﻫﻮﺠﻟﺍ ﻦﻴﻧﺭ ﻡﺪﺨﺘﺳﺍ ؛ ﻦﻔﻜﻤﻟﺍ ﻖﻳﺮﻄﻟﺍ</body>
   </string>
   <string>
     <id>1061406</id>
     <name>STR_DIC_W_LDF4a_SZ_A09_pvp</name>
-    <body>Hero's Discus;A combat ring in [%dic:STR_DIC_W_LDF4a_SZ_A3_05] that the Urugugu use for training and duels. [%dic:STR_DIC_M_LDF4A_A3_Owllauchief_Nmd_57_Ah]'s power overrides Kahrun's here, and therefore fighting is allowed.</body>
+    <body>ﻲﻓ ﺔﻴﻟﺎﺘﻗ ﺔﻘﻠﺣ ؛ ﻝﺎﻄﺑﻷﺍ ﺔﺣﺎﺳ [%dic:STR_DIC_W_LDF4a_SZ_A3_05] .ﺕﺍﺯﺭﺎﺒﻤﻟﺍﻭ ﺐﻳﺭﺪﺘﻠﻟ ﻮﻗﻮﻗﺭﻭﻷﺍ ﺎﻫﻮﻣﺪﺨﺘﺴﻳ ﻱﺬﻟﺍ [%dic:STR_DIC_M_LDF4A_A3_Owllauchief_Nmd_57_Ah].ﻪﺑ ﺡﻮﻤﺴﻣ ﻝﺎﺘﻘﻟﺍ ﻲﻟﺎﺘﻟﺎﺑﻭ ، ﺎﻨﻫ ﻥﻭﺮﻬﻛ ﺓﻮﻗ ﺯﻭﺎﺠﺘﺗ</body>
   </string>
   <string>
     <id>1061407</id>
     <name>STR_DIC_W_LDF4a_SZ_A1_05_public1</name>
-    <body>Dredgion Incursion Zone 1;An area in the ruins southeast of the [%dic:STR_DIC_W_LDF4a_SZ_A1] that comes under attack from the [%dic:STR_DIC_E_LDF4a_Dredgion].</body>
+    <body>ﻕﺮﺷ ﺏﻮﻨﺟ ﺽﺎﻘﻧﻷﺍ ﻲﻓ ﺔﻘﻄﻨﻣ ؛ ﻥﻮﻴﻗﺪﻳﺭﺩ ﺓﺭﺎﻏ ﺔﻘﻄﻨﻣ [%dic:STR_DIC_W_LDF4a_SZ_A1] ﻦﻣ ﻡﻮﺠﻫ ﺖﺤﺗ ﻲﺗﺄﺗ ﻲﺘﻟﺍ [%dic:STR_DIC_E_LDF4a_Dredgion].</body>
   </string>
   <string>
     <id>1061408</id>
     <name>STR_DIC_W_LDF4a_SZ_A2_09_public2</name>
-    <body>Dredgion Incursion Zone 2;An area in the [%dic:STR_DIC_W_LDF4a_SZ_A2_04] that comes under attack by the [%dic:STR_DIC_E_LDF4a_Dredgion].</body>
+    <body>ﻲﻓ ﺔﻘﻄﻨﻣ : ﺔﻴﻧﺎﺜﻟﺍ ﻥﻮﻴﻗﺪﻳﺭﺩ ﺓﺭﺎﻏ ﺔﻘﻄﻨﻣ [%dic:STR_DIC_W_LDF4a_SZ_A2_04]ﻦﻣ ﻡﻮﺠﻫ ﺖﺤﺗ ﻲﺗﺄﺗ ﻲﺘﻟﺍ [%dic:STR_DIC_E_LDF4a_Dredgion].</body>
   </string>
   <string>
     <id>1061409</id>
     <name>STR_DIC_W_LDF4a_SZ_B2_14_public3</name>
-    <body>Dredgion Incursion Zone 3;A part of the [%dic:STR_DIC_W_LDF4a_SZ_B2_04] that comes under attack by the [%dic:STR_DIC_E_LDF4a_Dredgion].</body>
+    <body>ﻦﻣ ﺀﺰﺟ : ﺔﺜﻟﺎﺜﻟﺍ ﻥﻮﻴﻗﺪﻳﺭﺩ ﺓﺭﺎﻏ ﺔﻘﻄﻨﻣ [%dic:STR_DIC_W_LDF4a_SZ_B2_04]ﻦﻣ ﻡﻮﺠﻫ ﺖﺤﺗ ﻲﺗﺄﺗ ﻲﺘﻟﺍ [%dic:STR_DIC_E_LDF4a_Dredgion].</body>
   </string>
   <string>
     <id>1061410</id>
     <name>STR_DIC_W_LDF4a_SZ_C2_07_public4</name>
-    <body>Dredgion Incursion Zone 4;The [%dic:STR_DIC_E_LDF4a_Dredgion] is moored above this part of [%dic:STR_DIC_W_LDF4a_SZ_C2].</body>
+    <body>: ﺔﻌﺑﺍﺮﻟﺍ ﻥﻮﻴﻗﺪﻳﺭﺩ ﺓﺭﺎﻏ ﺔﻘﻄﻨﻣ [%dic:STR_DIC_E_LDF4a_Dredgion]ﻦﻣ ﺀﺰﺠﻟﺍ ﺍﺬﻫ ﻕﻮﻓ ﻮﺳﺮﺗ [%dic:STR_DIC_W_LDF4a_SZ_C2].</body>
   </string>
   <string>
     <id>1061411</id>

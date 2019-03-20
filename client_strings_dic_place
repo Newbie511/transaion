@@ -2499,152 +2499,152 @@
   <string>
     <id>1060951</id>
     <name>STR_DIC_W_LF2B_SZ_C2_2</name>
-    <body>Stone Mason Tent;A camp in the Dirmoi Shrine.</body>
+    <body>.ﻲﻣﺮﻳﺩ ﺢﻳﺮﺿ ﻲﻓ ﺮﻜﺴﻌﻣ;ﻥﻮﺘﺳ ﻲﺋﺎﻨﺑ ﺔﻤﻴﺧ</body>
   </string>
   <string>
     <id>1060952</id>
     <name>STR_DIC_W_LF2B_SZ_C3_1</name>
-    <body>Bounty Hunter Campsite;A bounty hunters' campsite near Fregion's Flame.</body>
+    <body>ﻥﻮﻴﺠﻳﺮﻓ ﺐﻬﻟ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻦﻳﺩﺎﻴﺻ ﻢﻴﺨﻣ;ﺮﺘﻨﻫ ﻲﺘﻧﻭﺎﺑ ﻢﻴﺨﻣ</body>
   </string>
   <string>
     <id>1060953</id>
     <name>STR_DIC_W_LF2B_SZ_C4_1</name>
-    <body>Black Rock Hot Spring;A hot spring to the north of The Stalking Grounds.</body>
+    <body>.ﺞﻨﻴﻛﻮﺘﺳ ﻲﺿﺍﺭﺃ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ ﺭﺎﺣ ﻉﻮﺒﻨﻳ;ﻙﻭﺭ ﻙﻼﺑ ﻊﻴﺑﺎﻨﻳ</body>
   </string>
   <string>
     <id>1060954</id>
     <name>STR_DIC_W_LF2B_SZ_C4_2</name>
-    <body>Calydon Cavern House;A cavern of Calydons in The Stalking Grounds.</body>
+    <body>.ﺞﻨﻴﻛﻮﺘﺳ ﺽﺭﺍ ﻲﻓ ﻥﻭﺪﻴﻟﺎﻛ ﻒﻬﻛ;ﻥﻭﺪﻴﻟﺎﻛ ﻒﻬﻛ ﺖﻴﺑ</body>
   </string>
   <string>
     <id>1060955</id>
     <name>STR_DIC_W_LF2B_SZ_D_Exit_00</name>
-    <body>Marla Cave Entrance;The entrance to Marla Cave. It can be reached from the Dirmoi Valley.</body>
+    <body>.ﻲﻣﺮﻳﺩ ﻱﺩﺍﻭ ﻦﻣ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ .ﻻﺭﺎﻣ ﻒﻬﻛ ﻞﺧﺪﻣ;ﻻﺭﺎﻣ ﻒﻬﻛ ﻞﺧﺪﻣ</body>
   </string>
   <string>
     <id>1060956</id>
     <name>STR_DIC_W_LF2B_SZ_D_Exit_01</name>
-    <body>Marla Cave Exit;The exit from Marla Cave. It leads to the Theobomos Stronghold.</body>
+    <body>.ﺱﺎﻣﻮﺑﻭﺍ ﻞﻘﻌﻣ ﻰﻟﺍ ﻱﺩﺆﻣ .ﻻﺭﺎﻣ ﻒﻬﻛ ﻦﻣ ﺝﻭﺮﺨﻠﻟ؛ﻻﺭﺎﻣ ﻒﻬﻛ ﺝﺮﺨﻣ</body>
   </string>
   <string>
     <id>1060957</id>
     <name>STR_DIC_W_LF2B_SZ_C5_2</name>
-    <body>Gust Valley;A place that can be reached by gliding from the Calydon Village and over a deep valley.</body>
+    <body>ﻖﻴﻤﻋ ﻱﺩﺍﻮﻟﺍ ﻕﻮﻓﻭ ﻥﻭﺪﻴﻟﺎﻛ ﺔﻳﺮﻗ ﻦﻣ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻥﺎﻜﻣ;ﺔﻔﺻﺎﻌﻟﺍ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061000</id>
     <name>STR_DIC_W_IDAb1_MiniCastle_SZ_All</name>
-    <body>Nochsana Training Camp;A Balaur training camp in the Abyss, accessible through the [%dic:STR_DIC_OBJ_AB1_Corridor_Q3702].</body>
+    <body>ﻝﻼﺧ ﻦﻣ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ,ﺔﻳﻭﺎﻬﻟﺍ ﻲﻓ ﺭﻮﻟﺎﺒﻠﻟ ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣ;ﺎﻧﺎﺴﺸﺗﻮﻧ ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_OBJ_AB1_Corridor_Q3702].</body>
   </string>
   <string>
     <id>1061001</id>
     <name>STR_DIC_W_IDAb1_MiniCastle_SZ_A</name>
-    <body>Nochsana Training Fortress;A fortress deep inside the Nochsana Training Camp.</body>
+    <body>.ﺎﻧﺎﺸﺗﻮﻧ ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣ ﻖﻤﻋ ﻲﻓ ﺔﻌﻠﻗ;ﺐﻳﺭﺪﺘﻠﻟ ﺎﻧﺎﺸﺗﻮﻧ ﺔﻌﻠﻗ</body>
   </string>
   <string>
     <id>1061002</id>
     <name>STR_DIC_W_IDAb1_MiniCastle_SZ_B</name>
-    <body>Nochsana Fortress Gate;A huge castle gate protecting the Nochsana Training Fortress.</body>
+    <body>.ﺐﻳﺭﺪﺘﻠﻟ ﺎﻧﺎﺸﺗﻮﻧ ﺔﻌﻠﻗ ﻲﻤﺤﺗ ﺔﻤﺨﺿ ﺔﻌﻠﻗ ﺔﺑﺍﻮﺑ;ﺎﻧﺎﺴﺸﺗﻮﻧ ﺔﻌﻠﻗ ﺔﺑﺍﻮﺑ</body>
   </string>
   <string>
     <id>1061004</id>
     <name>STR_DIC_W_IDLF1_SZ_06</name>
-    <body>The Drana Fields;The former Kabarah Strip Mine, converted into a Drana mine by the Anuhart Legion.</body>
+    <body>ﺕﺭﺍﻮﻧﺃ ﻖﻠﻴﻓ ﺔﻄﺳﺍﻮﺑ ﺎﻧﺭﺩ ﻢﺠﻨﻣ ﻰﻟﺇ ﻪﻠﻳﻮﺤﺗ ﻢﺗ ، ﻖﺑﺎﺴﻟﺍ ﺎﻳﺭﺎﺒﻛ ﻉﺎﻄﻗ ﻢﺠﻨﻣ;ﺎﻧﺍﺭﺩ ﻝﻮﻘﺣ</body>
   </string>
   <string>
     <id>1061005</id>
     <name>STR_DIC_W_Ab1_SZ_1121_2</name>
-    <body>Nobelium Fragment;A small floating island to the south of Primum Landing. Guardians and administration officers with special missions are stationed on the island.</body>
+    <body>.ﺓﺮﻳﺰﺠﻟﺍ ﻲﻓ ﺔﺻﺎﺨﻟﺍ ﻕﺮﻔﻟﺍ ﻊﻣ ﺓﺭﺍﺩﻹﺍ ﻁﺎﺒﺿﻭ ﺀﺎﻴﺻﻭﻷﺍ ﺰﻛﺮﻤﺘﻳ.ﻡﻮﻴﻣﺮﺑ ﺀﺎﻨﻴﻣ ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺇ ﺓﺮﻴﻐﺻ ﺔﻤﺋﺎﻋ ﺓﺮﻳﺰﺟ;ﻡﻮﻴﻠﻴﺑﻮﻧ ﺎﻳﺎﻈﺷ.</body>
   </string>
   <string>
     <id>1061006</id>
     <name>STR_DIC_W_Ab1_SZ_1111_SUB_G</name>
-    <body>Weathered Crag;A small floating island to the north of Teminon Landing. Guardians and administration officers with special missions are stationed on the island.</body>
+    <body>.ﺓﺮﻳﺰﺠﻟﺍ ﻲﻓ ﺔﺻﺎﺨﻟﺍ ﻕﺮﻔﻟﺍ ﻊﻣ ﺓﺭﺍﺩﻹﺍ ﻁﺎﺒﺿﻭ ﺀﺎﻴﺻﻭﻷﺍ ﺰﻛﺮﻤﺘﻳ .ﻥﻮﻨﻴﻤﻴﺗ ﺀﺎﻨﻴﻣ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ ﺓﺮﻴﻐﺻ ﺔﻤﺋﺎﻋ ﺓﺮﻳﺰﺟ;ﺩﺭﺬﻳﻭ ﺓﺮﺨﺻ.</body>
   </string>
   <string>
     <id>1061007</id>
     <name>STR_DIC_W_IDLF1_SZ_IDLF1_08</name>
-    <body>Timolia Mine;An abandoned mine on the foot of Mt. Timolia. It is currently occupied by the Anuhart Legion, and there is an Abyss Gate leading to the Anuhart Headquarters.</body>
+    <body>ﺕﺭﺎﻫﻮﻧﺃ ﺮﻘﻣ ﻰﻟﺇ ﻱﺩﺆﺗ ﺲﻴﺑﺍ ﺔﺑﺍﻮﺑ ﻙﺎﻨﻫﻭ,ﺕﺭﺍﻮﻧﺃ ﻖﻠﻴﻓ ﺎﻴﻟﺎﺣ ﺎﻬﻠﻐﺸﻳﻭ.ﺎﻴﻟﻮﻤﻴﺗ .ﻞﺒﺟ ﺢﻔﺳ ﻰﻠﻋ ﺭﻮﺠﻬﻣ ﻢﺠﻨﻣ;ﺎﻴﻟﻮﻤﻴﺗ ﻢﺠﻨﻣ.</body>
   </string>
   <string>
     <id>1061008</id>
     <name>STR_DIC_W_IDElim_1F</name>
-    <body>Taloc's Roots;An area beneath Taloc where the Elim's roots are exposed.</body>
+    <body>ﻢﻴﻟﺍ ﺭﻭﺬﺟ ﺚﻴﺣ ﻙﻮﻟﺎﺗ ﻞﻔﺳﺃ ﻊﻘﺗ ﺔﻘﻄﻨﻣ;ﻚﻟﺎﺗ ﺭﻭﺬﺟ</body>
   </string>
   <string>
     <id>1061009</id>
     <name>STR_DIC_W_IDElim_1F_Herb</name>
-    <body>Garden of Life;A fertile area in Taloc's Roots where a wide a variety of plants grow.</body>
+    <body>ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺔﻌﺳﺍﻭ ﺔﻋﻮﻤﺠﻣ ﻮﻤﻨﺗ ﺚﻴﺣ ﻙﻮﻟﺎﺗ ﺭﻭﺬﺟ ﻲﻓ ﺔﺒﺼﺧ ﺔﻘﻄﻨﻣ;ﺓﺎﻴﺤﻟﺍ ﺔﻘﻳﺪﺣ.</body>
   </string>
   <string>
     <id>1061010</id>
     <name>STR_DIC_W_IDElim_1F_Pupa</name>
-    <body>Muculent Grotto;A contaminated area in the depths of Taloc's Roots.</body>
+    <body>.ﻙﻮﻟﺎﺗ ﺭﻭﺬﺟ ﻕﺎﻤﻋﺃ ﻲﻓ ﺔﺛﻮﻠﻣ ﺔﻘﻄﻨﻣ;ﺓﺮﻳﺰﻐﻟﺍ ﺓﺭﺎﻐﻤﻟﺍ</body>
   </string>
   <string>
     <id>1061011</id>
     <name>STR_DIC_W_IDElim_1F_Larva</name>
-    <body>The Swarmspring;An area inside Taloc's Roots that is now being used as an insect hatchery.</body>
+    <body>.ﺕﺍﺮﺸﺤﻠﻟ ﺥﺮﻔﻤﻛ ﻥﻵﺍ ﻡﺪﺨﺘﺴﺗ ﻙﻮﻟﺎﺗ ﺭﻭﺬﺟ ﻞﺧﺍﺩ ﺔﻘﻄﻨﻣ;ﻊﻴﺑﺮﻟﺍ ﺏﺮﺳ</body>
   </string>
   <string>
     <id>1061012</id>
     <name>STR_DIC_W_IDElim_1F_Food</name>
-    <body>The Hive;An enormous hive inside Taloc's Roots with insects swarming out of it.</body>
+    <body>.ﺕﺍﺮﺸﺤﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻊﻣ ﻙﻮﻟﺎﺗ ﺭﻭﺬﺟ ﻞﺧﺍﺩ ﺔﻠﺋﺎﻫ ﺔﻴﻠﺧ;ﺔﻴﻠﺨﻟﺍ</body>
   </string>
   <string>
     <id>1061013</id>
     <name>STR_DIC_W_IDElim_1F_Soldier</name>
-    <body>Cocooning Chamber;An area deep inside Taloc's Roots. Captured creatures are wriggling inside their cocoons.</body>
+    <body>ﺎﻬﻘﻧﺍﺮﺷ ﻞﺧﺍﺩ ﻯﻮﻠﺘﺗ ﺕﺎﻗﻮﻠﺨﻣ.ﻚﻠﺘﻟﺍ ﺭﻭﺬﺟ ﻞﺧﺍﺩ ﺔﻘﻴﻤﻋ ﺔﻘﻄﻨﻣ;ﺓﺮﺠﺤﻟﺍ ﺔﻘﻧﺮﺷ</body>
   </string>
   <string>
     <id>1061014</id>
     <name>STR_DIC_W_IDElim_1F_Boss</name>
-    <body>Kinquid's Den;A zone beyond the Coocooning Chamber that Kinquid guards.</body>
+    <body>.ﺪﻳﻮﻜﻨﻴﻛ ﺎﻬﺳﺮﺤﻳ ﻲﺘﻟﺍ ﺔﻘﻧﺮﺸﻟﺍ ﺔﻓﺮﻏ ﺝﺭﺎﺧ ﺔﻘﻄﻨﻣ;ﺪﻳﻮﻜﻨﻴﻛ ﻦﻳﺮﻋ</body>
   </string>
   <string>
     <id>1061015</id>
     <name>STR_DIC_W_IDElim_2F_Field</name>
-    <body>Taloc's Boughs;The uppermost region of Taloc inside the Elim's trunk.</body>
+    <body>ﻢﻴﻠﻳﺇ ﻕﻭﺪﻨﺻ ﻞﺧﺍﺩ ﻙﻮﻟﺎﺗ ﺔﻘﻄﻨﻣ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ;ﻙﻮﻟﺎﺗ ﻥﺎﺼﻏﺃ.</body>
   </string>
   <string>
     <id>1061016</id>
     <name>STR_DIC_W_IDElim_2F_Food</name>
-    <body>Fungalsodden Grove;A part of Taloc's Boughs where moisture allows a variety of plants to grow.</body>
+    <body>ﻮﻤﻨﻟﺎﺑ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺘﻣ ﺔﻋﻮﻤﺠﻤﻟ ﺔﺑﻮﻃﺮﻟﺍ ﺢﻤﺴﺗ ﺚﻴﺣ ،ﻚﻟﺎﺗ ﻝﻼﺗ ﻦﻣ ﺀﺰﺟ;ﻦﻳﺩﺰﻴﻟﺎﺠﻨﻴﻓ ﻥﺎﺘﺴﺑ</body>
   </string>
   <string>
     <id>1061017</id>
     <name>STR_DIC_W_IDElim_2F_Egg</name>
-    <body>Klawtira Broodlair;A part of Taloc's Boughs the Supraklaw use as a spawning ground.</body>
+    <body>.ﺮﺛﺎﻜﺘﻠﻟ ﺽﺭﺎﻛ ﻞﻤﻌﺘﺴﺗ ﻮﻟﺍﺮﺒﺳ ﻝﻼﺗ ﻦﻣ ﺀﺰﺟ;ﺮﻳﻻﺩﻭﺮﺑ ﺍﺮﻴﺘﻟﺎﻛ</body>
   </string>
   <string>
     <id>1061018</id>
     <name>STR_DIC_W_IDElim_2F_Water</name>
-    <body>Taloc's Tears;An area where water flows through Taloc's Boughs.</body>
+    <body>ﻝﻼﺘﻟﺍ ﻝﻼﺧ ﻦﻣ ﻩﺎﻴﻤﻟﺍ ﻖﻓﺪﺘﺗ ﺚﻴﺣ ﺔﻘﻄﻨﻣ;ﻚﻟﺎﺗ ﻉﻮﻣﺩ</body>
   </string>
   <string>
     <id>1061019</id>
     <name>STR_DIC_W_IDElim_2F_Hidden</name>
-    <body>Dorkin's Nook;A secret hideout in Taloc's Boughs where the Shulack Dorkin lives.</body>
+    <body>ﻦﻴﻛﺭﻭﺩ ﻙﻻﻮﺷ ﺶﻴﻌﻳ ﺚﻴﺣ ﻮﻏﻮﺗ ﻝﻼﺗ ﻲﻓ ﻱﺮﺳ ﺄﺒﺨﻣ;ﻦﻴﻛﺭﻭﺩ ﻦﻛﺭ</body>
   </string>
   <string>
     <id>1061020</id>
     <name>STR_DIC_W_IDElim_2F_Boss</name>
-    <body>Mosqua's Nest;The uppermost part of Taloc's Boughs where Queen Mosqua nests.</body>
+    <body>.ﻮﻜﺳﻮﻣ ﺔﻜﻠﻤﻟﺍ ﺶﺸﻌﺗ ﺚﻴﺣ ﻚﻟﺎﺗ ﻦﺼﻏ ﻦﻣ ﻱﻮﻠﻌﻟﺍ ﺀﺰﺠﻟﺍ;ﻮﻜﺳﻮﻣ ﺶﻋ</body>
   </string>
   <string>
     <id>1061021</id>
     <name>STR_DIC_W_IDElim_3F</name>
-    <body>Taloc's Heart;An area near the top of Taloc's branches. A fragment of The Tower of Eternity is stuck there.</body>
+    <body>ﻙﺎﻨﻫ ﺔﻳﺪﺑﻷﺍ ﺝﺮﺑ ﻦﻣ ﺀﺰﺟ ﻙﺎﻨﻫ.ﻙﻮﻟﺎﺗ ﻉﻭﺮﻓ ﻰﻠﻋﺃ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﺔﻘﻄﻨﻣ;ﻚﻠﻴﺘﻟﺍ ﺐﻠﻗ.</body>
   </string>
   <string>
     <id>1061022</id>
     <name>STR_DIC_W_IDElim_3F_Boss</name>
-    <body>Blightroot;A region deep within Taloc encroached on by Celestius. It can only be reached after passing through all other regions of Taloc.</body>
+    <body>ﻯﺮﺧﻷﺍ ﻙﻮﻟﺎﺗ ﻖﻃﺎﻨﻣ ﻊﻴﻤﺟ ﺮﺒﻋ ﺭﻭﺮﻤﻟﺍ ﺪﻌﺑ ﻻﺇ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻻ.ﺱﻮﺘﺴﻴﻠﻴﺳ ﻞﺒﻗ ﻦﻣ ﻪﻜﻬﺘﻨﻣ ﻙﻮﻟﺎﺗ ﻞﺧﺍﺩ ﺔﻘﻴﻤﻋ ﺔﻘﻄﻨﻣ;ﺭﻭﺬﺠﻟﺍ ﺔﻓﺁ.</body>
   </string>
   <string>
     <id>1061023</id>
     <name>STR_DIC_W_LF4_SZ_A1</name>
-    <body>Calmheart Grove;A forest to the south of the Inggison Illusion Fortress.</body>
+    <body>.ﻢﻫﻮﻟﺍ ﺔﻌﻠﻗ ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺇ ﺔﺑﺎﻏ;ﺐﻠﻘﻟﺍ ﻥﺎﺘﺴﺑ</body>
   </string>
   <string>
     <id>1061024</id>

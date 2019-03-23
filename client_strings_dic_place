@@ -2649,252 +2649,252 @@
   <string>
     <id>1061024</id>
     <name>STR_DIC_W_LF4_SZ_A2</name>
-    <body>Phanoe Valley;A valley extending from the Calmheart Grove.</body>
+    <body>.ﺐﻠﻘﻟﺍ ﺔﺣﺍﺭ ﻥﺎﺘﺴﺑ ﻦﻣ ﺪﺘﻤﻳ ﻱﺩﺍﻭ;ﻱﻮﻧﺎﻓ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061025</id>
     <name>STR_DIC_W_LF4_SZ_A2_Caspa</name>
-    <body>Taloc's Hill;A hill connected with Taloc's Forest. A fissure separates the two areas.</body>
+    <body>.ﻦﻴﺘﻘﻄﻨﻤﻟﺍ ﻦﻴﺑ ﻞﺼﻔﻳ ﻖﺷ .ﻙﻮﻟﺎﺗ ﺔﺑﺎﻐﺑ ﻞﺼﺘﻣ ﻞﺗ;ﻚﻟﺎﺗ ﻞﺗ</body>
   </string>
   <string>
     <id>1061026</id>
     <name>STR_DIC_W_LF4_SZ_A2_DranaFarm</name>
-    <body>Hikiron Farm;A Balaur Drana farm located in the Phanoe Valley. It has been destroyed by the Elyos army.</body>
+    <body>.ﺱﻮﻴﻟﻻﺍ ﺶﻴﺟ ﻞﺒﻗ ﻦﻣ ﻩﺮﻴﻣﺪﺗ ﻢﺗ.ﻱﻮﻧﺎﻓ ﻱﺩﺍﻭ ﻲﻓ ﺭﻮﻟﺎﺒﻟﺍ ﺎﻧﺍﺭﺩ ﺔﻋﺭﺰﻣ ﻊﻘﺗ;ﻥﻭﺮﻴﻜﻴﻫ ﺔﻋﺭﺰﻣ</body>
   </string>
   <string>
     <id>1061027</id>
     <name>STR_DIC_W_LF4_SZ_A3</name>
-    <body>Taloc's Forest;A dense forest where the Elim Taloc resides. It can be reached by crossing over Taloc's Hill.</body>
+    <body>.ﻚﻟﺎﺗ ﻞﺗ ﺭﻮﺒﻋ ﻖﻳﺮﻃ ﻦﻋ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ .ﻚﻟﺎﺗ ﻢﻴﻟﺇ ﻢﻴﻘﻳ ﺚﻴﺣ ﺔﻔﻴﺜﻛ ﺔﺑﺎﻏ;ﻚﻟﺎﺗ ﺔﺑﺎﻏ</body>
   </string>
   <string>
     <id>1061028</id>
     <name>STR_DIC_W_LF4_SZ_A4</name>
-    <body>Wildheart Grove;A forest to the north of the Inggison Illusion Fortress.</body>
+    <body>.ﻢﻫﻮﻟﺍ ﺔﻌﻠﻗ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ ﺔﺑﺎﻏ;ﺮﻣﺎﻐﻤﻟﺍ ﺐﻠﻗ ﻥﺎﺘﺴﺑ</body>
   </string>
   <string>
     <id>1061029</id>
     <name>STR_DIC_W_LF4_SZ_A4_BigTree</name>
-    <body>Obelisk Tree;A region in the Calmheart Grove where the influence of the Obelisk has caused a tree to grow to enormous proportions.</body>
+    <body>.ﺔﻠﺋﺎﻫ ﺩﺎﻌﺑﺃ ﻰﻟﺇ ﺓﺮﺠﺸﻟﺍ ﻮﻤﻧ ﻰﻟﺇ ﺔﻠﺴﻤﻟﺍ ﺮﻴﺛﺄﺗ ﻯﺩﺃ ﺚﻴﺣ ﺮﻣﺎﻐﻤﻟﺍ ﺐﻠﻗ ﻥﺎﺘﺴﺑ ﻲﻓ ﺔﻘﻄﻨﻣ;ﺔﻠﺴﻤﻟﺍ ﺓﺮﺠﺷ</body>
   </string>
   <string>
     <id>1061030</id>
     <name>STR_DIC_W_LF4_SZ_A5</name>
-    <body>Dimaia Fountainhead;A water source located in the north of Inggison. Clear water flows down from a massive cliff.</body>
+    <body>.ﺔﻤﺨﻀﻟﺍ ﺔﻳﻭﺎﻬﻟﺍ ﻦﻣ ﻖﻓﺪﺘﺗ ﺔﻴﻓﺎﺼﻟﺍ ﻩﺎﻴﻤﻟﺍ.ﻥﻮﺴﻴﺠﻧﺇ ﻝﺎﻤﺷ ﻲﻓ ﻊﻘﻳ ﻩﺎﻴﻣ ﺭﺪﺼﻣ;ﺄﺸﻨﻤﻟﺍ ﺎﻴﻤﻳﺩ</body>
   </string>
   <string>
     <id>1061031</id>
     <name>STR_DIC_W_LF4_SZ_B1</name>
-    <body>Scar Canyon;A region connecting to the Phanoe Valley. Some traces of Tiamat's power remain.</body>
+    <body>.ﺕﺎﻣﺎﻴﺗ ﺓﻮﻗ ﺭﺎﺛﺁ ﻦﻣ ﺾﻌﺑ ﻙﺎﻨﻫ ﻝﺍﺰﺗ ﻻ.ﻮﻧﺎﻓ ﻱﺩﺍﻮﺑ ﺔﻠﺼﺘﻣ ﺔﻘﻄﻨﻣ;ﻥﻮﻴﻧﺎﻛ ﺔﺑﺪﻧ</body>
   </string>
   <string>
     <id>1061032</id>
     <name>STR_DIC_W_LF4_SZ_B2</name>
-    <body>Weeping Valley;A valley near Soteria Sanctuary created by Tiamat's power. Various minerals and ores are exposed to the surface.</body>
+    <body>.ﺢﻄﺴﻟﺍ ﻰﻟﺇ ﺔﻔﻠﺘﺨﻤﻟﺍ ﺕﺎﻣﺎﺨﻟﺍﻭ ﻥﺩﺎﻌﻤﻟﺍ ﺝﺮﺨﺗ.ﺕﺎﻣﺎﻴﺗ ﺓﻮﻗ ﺔﻄﺳﺍﻮﺑ ﺎﻫﺅﺎﺸﻧﺇ ﻢﺗ ﺎﻳﺮﻴﺗﻮﺳ ﺔﻴﻤﺤﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻱﺩﺍﻭ;ﺀﺎﻜﺒﻟﺍ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061033</id>
     <name>STR_DIC_W_LF4_SZ_B3</name>
-    <body>Wretched Garden;The upper area of Weeping Valley where a fossil of a monstrous bird resides.</body>
+    <body>.ﻲﺸﺣﻭ ﺮﺋﺎﻃ ﻦﻣ ﺔﻳﺮﻔﺣ ﺪﺟﻮﺗ ﺚﻴﺣ ﺀﺎﻜﺒﻟﺍ ﻱﺩﺍﻭ ﻦﻣ ﺔﻳﻮﻠﻌﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﺱﺆﺒﻟﺍ ﺔﻘﻳﺪﺣ</body>
   </string>
   <string>
     <id>1061034</id>
     <name>STR_DIC_W_LF4_SZ_B4</name>
-    <body>Mephistis Farm;A Balaur Drana farm located at the centre of Inggison. It serves as a critical location for the Balaur.</body>
+    <body>.ﺭﻮﻠﺒﻠﻟ ﻢﻬﻣ ﻊﻗﻮﻣ ﺔﺑﺎﺜﻤﺑ ﺎﻬﻧﺇ.ﻥﻮﺴﻴﺠﻧﺍ ﺔﻨﻳﺪﻣ ﻂﺳﻭ ﻲﻓ ﺭﻮﻟﺎﺒﻟﺍ ﺎﻧﺍﺭﺩ ﺔﻋﺭﺰﻣ ﻊﻘﺗ;ﺲﺘﻴﺴﻴﻤﻴﻓ ﺔﻋﺭﺰﻣ</body>
   </string>
   <string>
     <id>1061035</id>
     <name>STR_DIC_W_LF4_SZ_B5</name>
-    <body>Sawtooth Valley;A rough canyon extending from the Dimaia Fountainhead.</body>
+    <body>.ﺎﻳﺎﻤﻳﺩ ﺓﺭﻮﻓﺎﻧ ﻦﻣ ﺪﺘﻤﻳ ﺐﻌﺻ ﻱﺩﺍﻭ;ﺙﻮﺛﻭﺎﺳ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061036</id>
     <name>STR_DIC_W_LF4_SZ_B6</name>
-    <body>Undirborg;A vast complex at the edge of the Sawtooth Valley. The Dragonbound have moved in there.</body>
+    <body>.ﻙﺎﻨﻫ ﻦﻴﻨﺘﻟﺍ ﻞﻘﺘﻧﺍ.ﺙﻮﺗﻭﺎﺳ ﻱﺩﺍﻭ ﺔﻓﺎﺣ ﻰﻠﻋ ﺔﻌﺳﺍﻭ ﺔﻘﻄﻨﻣ;ﺝﺭﻮﺑﺭﺪﻧﺍ</body>
   </string>
   <string>
     <id>1061037</id>
     <name>STR_DIC_W_LF4_SZ_B6_FanaticAltar</name>
-    <body>Altar of the Dragon Lords;An altar located at the centre of Undirborg. The altar enshrines the Dragon Lords.</body>
+    <body>.ﻦﻴﻨﺘﻟﺍ ﺀﺍﺮﻣﻷ ﺱﺮﻜﻣ ﺢﺑﺬﻤﻟﺍ .ﺝﺭﻮﺑﺪﻧﺍ ﻂﺳﻭ ﻲﻓ ﻊﻘﻳ ﺢﺑﺬﻣ;ﻦﻴﻨﺘﻟﺍ ﺕﺍﺩﺭﻮﻟ ﺢﺑﺬﻣ</body>
   </string>
   <string>
     <id>1061038</id>
     <name>STR_DIC_W_LF4_SZ_B7</name>
-    <body>Inggison Outpost;An outpost the Elyos built in Inggison. It was once a Drana farm, but the Elyos built the outpost over it after driving out the Balaur.</body>
+    <body>.ﺭﻮﻟﺎﺒﻟﺍ ﺩﺮﻃ ﺪﻌﺑ ﺎﻬﻗﻮﻓ ﺮﻔﺨﻣ ﻮﻨﺑ ﺱﻮﻴﻟﻻﺍ ﻦﻜﻟ ، ﺎﻧﺍﺭﺩ ﺔﻋﺭﺰﻣ ﻖﺑﺎﺴﻟﺍ ﻲﻓ ﺖﻧﺎﻛ .ﻥﻮﺴﻴﺠﻧﺍ ﻲﻓ ﺱﻮﻴﻟﻼﻟ ﺮﻔﺨﻣ;ﻥﻮﺴﻴﺠﻧﺍ ﺮﻔﺨﻣ</body>
   </string>
   <string>
     <id>1061039</id>
     <name>STR_DIC_W_LF4_SZ_B7_NeutCave</name>
-    <body>Klawnickt's Cave;A Klaw habitat north of the Mephistis Farm. Queen Klawnickt is nesting in the cave.</body>
+    <body>.ﻒﻬﻜﻟﺍ ﻲﻓ ﺶﻴﻌﺗ ﺖﻜﻴﻧﻭﻼﻛ ﺔﻜﻠﻤﻟﺍ .ﺲﺘﻴﺴﻴﻔﻴﻣ ﺔﻋﺭﺰﻣ ﻝﺎﻤﺷ ﻭﻼﻜﻟﺍ ﻦﻃﻮﻣ;ﺖﻜﻴﻧﻭﻼﻛ ﻒﻬﻛ</body>
   </string>
   <string>
     <id>1061040</id>
     <name>STR_DIC_W_LF4_SZ_B7_Od</name>
-    <body>Skysling Canyon;A canyon located to the north of the Klawnickt's Cave where an abnormal phenomenon occurs.</body>
+    <body>.ﺔﻴﻌﻴﺒﻃ ﺮﻴﻏ ﺮﻫﺍﻮﻇ ﺙﺪﺤﺗ ﺚﻴﺣ ﺖﻜﻴﻧﻭﻼﻛ ﻒﻬﻛ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ ﻊﻘﻳ ﻱﺩﺍﻭ;ﻥﻮﻴﻧﺎﻛ ﺏﺎﺤﺳ ﺔﺤﻃﺎﻧ</body>
   </string>
   <string>
     <id>1061041</id>
     <name>STR_DIC_W_LF4_SZ_B8</name>
-    <body>Inggison Gravepit;A region that was created when a part of Inggison that connected to the Mephistis Farm sank into the earth.</body>
+    <body>.ﺽﺭﻷﺍ ﻲﻓ ﺖﺴﻴﻨﻴﻔﻴﻣ ﺔﻋﺭﺰﻣ ـﺑ ﻞﺼﺘﻤﻟﺍ ﻥﻮﺴﻴﺠﻧﺍ ﻦﻣ ﺀﺰﺟ ﻕﺮﻏ ﺎﻣﺪﻨﻋ ﺎﻫﺅﺎﺸﻧﺇ ﻢﺗ ﻲﺘﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ;ﻥﻮﺴﻴﺠﻧﺍ ﺮﺒﻗ</body>
   </string>
   <string>
     <id>1061042</id>
     <name>STR_DIC_W_LF4_SZ_C1</name>
-    <body>Angrief Ruins;A desiccated area south of the Angrief Wastes.</body>
+    <body>.ﺐﻀﻐﻟﺍ ﺎﻳﺎﻘﺑ ﺏﻮﻨﺟ ﺓﺮﺤﺼﺘﻣ ﺔﻘﻄﻨﻣ ;ﺐﻀﻐﻟﺍ ﻝﻼﻃﺃ</body>
   </string>
   <string>
     <id>1061043</id>
     <name>STR_DIC_W_LF4_SZ_C2</name>
-    <body>Angrief Wastes;The northern part of the Angrief Ruins tainted by Tiamat's power.</body>
+    <body>.ﺕﺎﻣﺎﻴﺗ ﺓﻮﻘﺑ ﺔﺛﻮﻠﻤﻟﺍ ﺐﻀﻐﻟﺍ ﻝﻼﻃﺃ ﻦﻣ ﻲﻟﺎﻤﺸﻟﺍ ﺀﺰﺠﻟﺍ;ﺐﻀﻐﻟﺍ ﺎﻳﺎﻘﺑ</body>
   </string>
   <string>
     <id>1061044</id>
     <name>STR_DIC_W_LF4_SZ_C3</name>
-    <body>Forest of Antiquity;A perilous forest in the north eastern part of Inggison. Even the Balaur dare not enter.</body>
+    <body>.ﻝﻮﺧﺪﻟﺍ ﻰﻠﻋ ﻥﺅﺮﺠﻳ ﻻ ﺭﻮﻟﺎﺒﻟﺍ ﻰﺘﺣ .ﻥﻮﺴﻴﺠﻧﺇ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻲﻟﺎﻤﺸﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﺮﻃﺎﺨﻤﻟﺎﺑ ﺔﻓﻮﻔﺤﻣ ﺔﺑﺎﻏ;ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺔﺑﺎﻏ</body>
   </string>
   <string>
     <id>1061045</id>
     <name>STR_DIC_W_LF4_SZ_C3_Dramata</name>
-    <body>Dramata Lair;A place deep in the Forest of Antiquity where Dramata lurk.</body>
+    <body>.ﺕﺎﻣﺍﺭﺪﻟﺍ ﻯﺭﺍﻮﺘﺗ ﺚﻴﺣ ﺔﻤﻳﺪﻘﻟﺍ ﺭﻮﺼﻌﻟﺍ ﺔﺑﺎﻏ ﻲﻓ ﻖﻴﻤﻋ ﻥﺎﻜﻣ;ﻲﺗﺎﻣﺍﺭﺩ ﻦﻳﺮﻋ</body>
   </string>
   <string>
     <id>1061046</id>
     <name>STR_DIC_W_LF4_SZ_C4</name>
-    <body>Hanarkand Plains;A vast plain in front of the Temple of Scales.</body>
+    <body>.ﻦﻳﺯﺍﻮﻤﻟﺍ ﺪﺒﻌﻣ ﻡﺎﻣﺃ ﻊﺳﺍﻭ ﻞﻬﺳ;ﺪﻧﺎﻛﺭﺎﻧﺎﻫ ﻝﻮﻬﺳ</body>
   </string>
   <string>
     <id>1061047</id>
     <name>STR_DIC_W_LF4_SZ_C4_Ettin</name>
-    <body>Crettin Habitat;An arid and barren area of the Hanarkand Plains that Crettins have taken over.</body>
+    <body>.ﺲﺘﻳﺮﻛ ﺎﻬﻴﻠﻋ ﺖﻟﻮﺘﺳﺍ ﺪﻧﺎﻛﺭﺎﻧﺎﻫ ﻝﻮﻬﺳ ﻲﻓ ﺀﺍﺩﺮﺟﻭ ﺔﻠﺣﺎﻗ ﺔﻘﻄﻨﻣ;ﻦﻴﻠﺘﻌﻤﻟﺍ ﻦﻃﻮﻣ</body>
   </string>
   <string>
     <id>1061048</id>
     <name>STR_DIC_W_LF4_SZ_C5</name>
-    <body>Hanarkand;A city of Drakan located in the Southern Hanarkand Plains in Inggison.</body>
+    <body>ﻥﻮﺴﻴﺠﻧﺇ ﻲﻓ ﺔﻴﺑﻮﻨﺠﻟﺍ ﺪﻧﺎﻛﺭﺎﻧﺎﻫ ﻝﻮﻬﺳ ﻲﻓ ﻊﻘﺗ ﻥﺎﻛﺍﺭﺩ ﺔﻨﻳﺪﻣ;ﺪﻧﺎﻛﺍﺭﺎﻧﺎﻫ</body>
   </string>
   <string>
     <id>1061049</id>
     <name>STR_DIC_W_LF4_SZ_C5_Od</name>
-    <body>Conqueror's Ravine;A canyon to the east of the Hanarkand Plains. Listen closely for the echoes of past battles between the Empyrean Lords and the Dragon Lords.</body>
+    <body>.ﻦﻴﻨﺘﻟﺍ ﺀﺍﺮﻣﺃﻭ ﺕﺍﺩﺭﻮﻠﻟﺍ ﺕﺎﻳﺭﻮﻃﺍﺮﺒﻣﺇ ﻦﻴﺑ ﺔﻘﺑﺎﺴﻟﺍ ﻙﺭﺎﻌﻤﻟﺍ ﺭﺎﺒﺧﺍ ﺔﻓﺮﻌﻤﻟ ﺐﺜﻛ ﻦﻋ ﻊﻤﺘﺳﺍ .ﺪﻧﺎﻛﺭﺎﻧﺎﻫ ﻝﻮﻬﺳ ﻦﻣ ﻕﺮﺸﻟﺍ ﻰﻟﺇ ﻱﺩﺍﻮﻟﺍ;ﺮﺼﺘﻨﻤﻟﺍ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061050</id>
     <name>STR_DIC_W_LF4_SZ_C5_Council</name>
-    <body>Hanarkand Oracle Chamber;The chamber of the Balaur Oracle located in Central Hanarkand.</body>
+    <body>.ﺪﻧﺎﻛﺭﺎﻧﺎﻫ ﻂﺳﻭ ﻲﻓ ﻊﻘﺗ ﺭﻮﻟﺎﺒﻟﺍ ﺓﺆﺒﻧ ﺔﻓﺮﻏ; ﺪﻨﻛﺭﺎﻧﺎﻫ ﺓﺆﺒﻧ ﺔﻋﺎﻗ.</body>
   </string>
   <string>
     <id>1061051</id>
     <name>STR_DIC_W_SZ_DF4_A1</name>
-    <body>Antagor Battlefield;A plain in front of the Gelkmaros Fortress. The remnants of fierce battles litter the area.</body>
+    <body>.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﺔﺳﺮﺸﻟﺍ ﺔﻛﺮﻌﻤﻟﺍ ﺎﻳﺎﻘﺑ .ﺱﻭﺭﺎﻤﻜﻴﻠﻴﺟ ﺔﻌﻠﻗ ﻡﺎﻣﺃ ﻞﻬﺳ;ﺭﻮﻏﺎﺘﻧﺍ ﺔﻛﺮﻌﻣ</body>
   </string>
   <string>
     <id>1061052</id>
     <name>STR_DIC_W_SZ_DF4_A2</name>
-    <body>Antagor Canyon;A deep canyon connected to the area north of Gelkmaros Fortress.</body>
+    <body>.ﺱﻭﺭﺎﻤﻜﻴﻠﻴﺟ ﺔﻌﻠﻗ ﻝﺎﻤﺷ ﺔﻌﻗﺍﻮﻟﺍ ﺔﻘﻄﻨﻤﻟﺎﺑ ﺔﻠﺼﺘﻣ ﺔﻘﻴﻤﻋ ﺔﻘﻄﻨﻣ;ﻥﻮﻧﺎﻛ ﺐﻀﻏ</body>
   </string>
   <string>
     <id>1061053</id>
     <name>STR_DIC_W_SZ_DF4_A2_Under</name>
-    <body>The Netherworld;A nefarious region located below the Antagor Canyon.</body>
+    <body>.ﺐﻀﻐﻟﺍ ﻱﺩﺍﻭ ﻞﻔﺳﺃ ﻊﻘﺗ ﺔﻨﺋﺎﺷ ﺔﻘﻄﻨﻣ;ﺮﺧﻻﺍ ﻢﻟﺎﻌﻟﺍ</body>
   </string>
   <string>
     <id>1061054</id>
     <name>STR_DIC_W_SZ_DF4_A3</name>
-    <body>Gelkmaros Falls;An area home to a cascading waterfall in the north of Antagor Canyon.</body>
+    <body>.ﻥﻮﻴﻧﺎﻛ ﺐﻀﻏ ﻝﺎﻤﺷ ﻲﻓ ﺕﻻﻼﺷ ﺓﺪﻌﻟ ﻦﻃﻮﻣ ﺔﻘﻄﻨﻣ;ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﺕﻻﻼﺷ</body>
   </string>
   <string>
     <id>1061055</id>
     <name>STR_DIC_W_SZ_DF4_A4</name>
-    <body>Strigik Forest;A deep forest located north of the Gelkmaros Falls where the Strigik build their nests.</body>
+    <body>.ﻢﻬﺷﺎﺸﻋﺃ ﻚﻴﺠﻳﺮﺘﺳ ﻲﻨﺒﻳ ﺚﻴﺣ ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﺕﻻﻼﺷ ﻝﺎﻤﺷ ﻊﻘﺗ ﺔﻘﻴﻤﻋ ﺔﺑﺎﻏ;ﻚﻴﺠﻳﺮﺘﺳ ﺔﺑﺎﻏ</body>
   </string>
   <string>
     <id>1061056</id>
     <name>STR_DIC_W_SZ_DF4_A5</name>
-    <body>Dragonspine Rise;An area of rough terrain connected to the southern part of the Antagor Battlefield.</body>
+    <body>.ﺱﻭﺮﺠﺘﻧﺍ ﺔﻛﺮﻌﻣ ﺔﺣﺎﺳ ﻦﻣ ﻲﺑﻮﻨﺠﻟﺍ ﺀﺰﺠﻟﺎﺑ ﺔﻠﺼﺘﻣ ﺓﺮﻋﻮﻟﺍ ﺲﻳﺭﺎﻀﺘﻟﺍ ﻦﻣ ﺔﺣﺎﺴﻣ;ﻊﻔﺗﺮﻤﻟﺍ ﻦﻴﻨﺘﻟﺍ ﺩﻮﻤﻋ</body>
   </string>
   <string>
     <id>1061057</id>
     <name>STR_DIC_W_SZ_DF4_A5_Under</name>
-    <body>Sunken Canyon;A canyon located beneath the Dragonspine Rise.</body>
+    <body>.ﻦﻴﻨﺘﻟﺍ ﺩﻮﻤﻋ ﻊﻔﺗﺮﻣ ﺖﺤﺗ ﻊﻘﻳ ﻥﻮﻴﻧﺎﻛ;ﻥﻮﻴﻧﺎﻛ ﺮﻣﺎﻏ</body>
   </string>
   <string>
     <id>1061058</id>
     <name>STR_DIC_W_SZ_DF4_A6</name>
-    <body>Krug Basin;A region to the west of the Gelkmaros Falls.</body>
+    <body>.ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﺕﻻﻼﺷ ﻦﻣ ﺏﺮﻐﻟﺍ ﻰﻟﺇ ﻊﻘﺗ ﺔﻘﻄﻨﻣ :ﻍﻭﺮﻛ ﺽﻮﺣ</body>
   </string>
   <string>
     <id>1061059</id>
     <name>STR_DIC_W_SZ_DF4_B1</name>
-    <body>Nunglark Ruins;An abandoned village of Sapiens in Gelkmaros. Its inhabitants fled or were killed when the Balaur attacked, and it is currently occupied by the Naduka Legion.</body>
+    <body>.ﺎﻛﻭﺩﺎﻧ ﻖﻠﻴﻓ ﺎﻴﻟﺎﺣ ﺎﻬﻠﻐﺸﻳﻭ ,ﻢﻬﻴﻠﻋ ﺭﻮﻟﺎﺒﻟﺍ ﻢﺟﺎﻫ ﺎﻣﺪﻨﻋ ﺍﻮﻠﺘﻗ ﻭﺃ ﺎﻬﻧﺎﻜﺳ ﺏﺮﻫ .ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﻲﻓ ﺓﺭﻮﺠﻬﻤﻟﺍ ﺲﻨﻴﺑﺎﺳ ﺔﻳﺮﻗ ، ﻙﺭﻼﺠﻧﻮﻧ ﻝﻼﻃﺃ</body>
   </string>
   <string>
     <id>1061060</id>
     <name>STR_DIC_W_SZ_DF4_B2</name>
-    <body>Spiritfall Forest;A forest to the west of the Gelkmaros Falls.</body>
+    <body>.ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﺕﻻﻼﺷ ﻦﻣ ﺏﺮﻐﻟﺍ ﻰﻟﺇ ﺔﺑﺎﻏ;ﺡﻭﺮﻟﺍ ﺔﺑﺎﻏ</body>
   </string>
   <string>
     <id>1061061</id>
     <name>STR_DIC_W_SZ_DF4_B2_Od</name>
-    <body>Gallows Run;An area located in the depths of the earth between the Spiritfall Forest and the Krug Basin. Peculiar forces have caused time and space to distort.</body>
+    <body>.ﻥﺎﻜﻣﺰﻟﺍ ﻪﻳﻮﺸﺗ ﻲﻓ ﺔﺒﻳﺮﻐﻟﺍ ﺕﺍﻮﻘﻟﺍ ﺖﺒﺒﺴﺗ .ﻍﻭﺮﻛ ﺽﻮﺣﻭ ﻝﻮﻔﺘﻳﺮﻴﺒﺳ ﺔﺑﺎﻏ ﻦﻴﺑ ﺽﺭﻷﺍ ﻕﺎﻤﻋﺃ ﻲﻓ ﻊﻘﺗ ﺔﻘﻄﻨﻣ;ﺔﻘﻨﺸﻤﻟﺍ ﻢﻜﺣ</body>
   </string>
   <string>
     <id>1061062</id>
     <name>STR_DIC_W_SZ_DF4_B3</name>
-    <body>Marayas Scrubland;The northern part of the Marayas Wilderness which lies next to the Rhonnam Refugee Village.</body>
+    <body>.ﻦﻴﺌﺟﻼﻟ ﻡﺎﻧﻭﺭ ﺔﻳﺮﻗ ﺭﺍﻮﺠﺑ ﻊﻘﺗ ﻲﺘﻟﺍ ﺲﻳﺍﺭﺎﻣ ﺔﻳﺮﺑ ﻦﻣ ﻲﻟﺎﻤﺸﻟﺍ ﺀﺰﺠﻟﺍ؛ﺲﻳﺎﻧﺍﺭﺎﻣ ﻒﻳﺭ</body>
   </string>
   <string>
     <id>1061063</id>
     <name>STR_DIC_W_SZ_DF4_B4</name>
-    <body>Lost City of Marayas;The ruins of an ancient city located in the centre of Marayas Wilderness.</body>
+    <body>.ﺲﻳﺍﺭﺎﻣ ﺔﻳﺮﺑ ﻂﺳﻭ ﻲﻓ ﻊﻘﺗ ﺔﻤﻳﺪﻗ ﺔﻨﻳﺪﻣ ﻝﻼﻃﺃ;ﺓﺩﻮﻘﻔﻤﻟﺍ ﺱﺎﻳﺭﺎﻣ ﺔﻨﻳﺪﻣ</body>
   </string>
   <string>
     <id>1061064</id>
     <name>STR_DIC_W_SZ_DF4_B5</name>
-    <body>Marayas Wilds;The southern part of the Marayas Wilderness.</body>
+    <body>.ﺲﻳﺍﺭﺎﻣ ﻱﺭﺍﺮﺑ ﻦﻣ ﻲﺑﻮﻨﺠﻟﺍ ﺀﺰﺠﻟﺍ;ﺲﻳﺍﺭﺎﻣ ﻱﺭﺍﺮﺑ</body>
   </string>
   <string>
     <id>1061065</id>
     <name>STR_DIC_W_SZ_DF4_B6</name>
-    <body>Subterranea;A city of the Dragonbound located some distance south of the Marayas Wilds.</body>
+    <body>.ﺲﻳﺭﺍﺭﺎﻣ ﻱﺭﺍﺮﺑ ﺏﻮﻨﺟ ﻦﻣ ﺔﻓﺎﺴﻣ ﺪﻌﺑ ﻰﻠﻋ ﺪﻴﻴﻘﺘﻟﺍ ﻦﻴﻨﺗ ﺔﻨﻳﺪﻣ ﻊﻘﺗ;ﻲﻧﺍﺭ ﺮﺘﺒﺳ</body>
   </string>
   <string>
     <id>1061066</id>
     <name>STR_DIC_W_SZ_DF4_C1</name>
-    <body>Viscum Swamp;A swamp in the northernmost part of Gelkmaros inhabited by bizarre mutated creatures.</body>
+    <body>.ﺔﻟﻮﺤﺘﻣ ﺔﺒﻳﺮﻏ ﺕﺎﻗﻮﻠﺨﻣ ﻪﻨﻜﺴﺗ ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﻦﻣ ﻰﺼﻗﻷﺍ ﻲﻟﺎﻤﺸﻟﺍ ﺀﺰﺠﻟﺍ ﻲﻓ ﻊﻘﻨﺘﺴﻣ;ﺔﺟﻭﺰﻠﻟﺍ ﻊﻘﻨﺘﺴﻣ</body>
   </string>
   <string>
     <id>1061067</id>
     <name>STR_DIC_W_SZ_DF4_C2</name>
-    <body>Twilight Drana Farm;A Balaur Drana farm located in Eastern Mitrakand. It serves as a critical location for the Balaur.</body>
+    <body>.ﺭﻮﻠﺒﻠﻟ ﻢﻬﻣ ﻊﻗﻮﻣ ﺔﺑﺎﺜﻤﺑ ﺎﻬﻧﺇ .ﺪﻧﺎﻛﺍﺮﺘﻴﻣ ﻕﺮﺷ ﻲﻓ ﺭﻮﻟﺎﺒﻟﺍ ﺎﻧﺍﺭﺩ ﺔﻋﺭﺰﻣ؛ﺎﻣﺍﺭﺩ ﺔﻋﺭﺰﻣ ﻖﻔﺷ</body>
   </string>
   <string>
     <id>1061068</id>
     <name>STR_DIC_W_SZ_DF4_C3</name>
-    <body>Vorgaltem Battlefield;A vast plain near the centre of Gelkmaros where the Vorgaltem Citadel and the Crimson Temple stand.</body>
+    <body>.ﻥﻮﺴﻤﻳﺮﻛ ﺪﺒﻌﻣﻭ ﻢﻳﺎﺘﺟﺭﻮﻓ ﺔﻌﻠﻗ ﻒﻘﺗ ﺚﻴﺣ ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﺰﻛﺮﻣ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻊﺳﺍﻭ ﻞﻬﺳ ؛ﻢﻴﺗﺎﺟﺭﻮﻓ ﺔﻛﺮﻌﻣ ﺔﺣﺎﺳ</body>
   </string>
   <string>
     <id>1061069</id>
     <name>STR_DIC_W_SZ_DF4_C4</name>
-    <body>Dragonrest;A region located to the south of the Vorgaltem Battlefield where the corpses of hundreds of Balaur litter the ground.</body>
+    <body>.ﺽﺭﻷﺍ ﻰﻠﻋ ﺭﻮﻠﺒﻟﺍ ﺕﺎﺌﻣ ﺚﺜﺟ ﺮﺸﺘﻨﺗ ﺚﻴﺣ ﻢﻴﺘﻟﺎﺟﺭﻮﻓ ﺔﻛﺮﻌﻣ ﺔﺣﺎﺳ ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺇ ﻊﻘﺗ ﺔﻘﻄﻨﻣ;ﻦﻴﻨﺘﻟﺍ ﺔﺣﺍﺮﺘﺳﺍ</body>
   </string>
   <string>
     <id>1061070</id>
     <name>STR_DIC_W_SZ_DF4_C5</name>
-    <body>Petralith Canyon;A region to the west of the Dragonrest where a colossal battle took place.</body>
+    <body>.ﺔﻠﺋﺎﻫ ﺔﻛﺮﻌﻣ ﺖﻌﻗﻭ ﺚﻴﺣ ﻦﻴﻨﺘﻟﺍ ﺔﺣﺍﺮﺘﺳﺍ ﻦﻣ ﺏﺮﻐﻟﺍ ﻰﻟﺇ ﺔﻘﻄﻨﻣ;ﻥﻮﻴﻧﺎﻜﻟﺍ ﺚﻴﻟﺍﺮﺘﺑ</body>
   </string>
   <string>
     <id>1061071</id>
     <name>STR_DIC_W_SZ_DF4_C6</name>
-    <body>Earthfang Gorge;A desolate region surrounded by rough canyons. Rumour has it a huge Dramata lies dormant at the end of the path.</body>
+    <body>.ﺭﺎﺴﻤﻟﺍ ﺔﻳﺎﻬﻧ ﻲﻓ ﻦﻤﻜﺗ ﺔﻤﺨﺿ ﺎﻣﺍﺭﺩ ﻪﻳﺪﻟ ﻥﺍ ﺔﻌﺋﺎﺷ ﻙﺎﻨﻫ.ﺓﺮﻋﻮﻟﺍ ﺪﻳﺩﺎﺧﻷﺍ ﺎﻬﺑ ﻂﻴﺤﺗ ﺓﺭﻮﺠﻬﻣ ﺔﻘﻄﻨﻣ;ﺽﺭﻻﺍ ﺏﺎﻧ ﻖﻧﺎﺧ</body>
   </string>
   <string>
     <id>1061072</id>
     <name>STR_DIC_W_SZ_DF4_D1</name>
-    <body>The Great Fissure;An enormous fissure that cuts through the centre of Gelkmaros.</body>
+    <body>.ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﻂﺳﻭ ﻕﺮﺘﺨﻳ ﻞﺋﺎﻫ ﻖﺷ ؛ ﻢﻴﻈﻌﻟﺍ ﻖﺸﻟﺍ</body>
   </string>
   <string>
     <id>1061073</id>
     <name>STR_DIC_W_SZ_DF4_D1_Od</name>
-    <body>Azure Gully;An arid region located to the north of The Great Fissure.</body>
+    <body>ﻢﻴﻈﻌﻟﺍ ﻖﺸﻟﺍ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ ﻊﻘﺗ ﺔﻠﺣﺎﻗ ﺔﻘﻄﻨﻣ ؛ ﺭﻭﺯﺍ ﺭﺩﺍﻭ.</body>
   </string>
   <string>
     <id>1061074</id>

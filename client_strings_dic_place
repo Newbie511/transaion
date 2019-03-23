@@ -2899,97 +2899,97 @@
   <string>
     <id>1061074</id>
     <name>STR_DIC_W_SZ_DF4_B3_Castle</name>
-    <body>Gelkmaros Defence Base;A fortress the Asmodians built to serve as a base of operations in Gelkmaros.</body>
+    <body>.ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﻲﻓ ﺕﺎﻴﻠﻤﻌﻠﻟ ﺓﺪﻋﺎﻗ ﺔﺑﺎﺜﻤﺑ ﻥﻮﻜﺘﻟ ﻦﻳﺩﻮﻤﺳﻻﺍ ﺎﻬﻴﻠﻋ ﻰﻨﺑ ﺔﻌﻠﻗ;ﺔﻴﻋﺎﻓﺪﻟﺍ ﺱﻭﺭﺎﻤﻜﻠﻴﺟ ﺓﺪﻋﺎﻗ</body>
   </string>
   <string>
     <id>1061075</id>
     <name>STR_DIC_W_LF4_SZ_OP</name>
-    <body>Inggison Illusion Fortress;A fortress that Empyrean Lord Kaisinel created with illusion magic.</body>
+    <body>.ﻢﻫﻮﻟﺍ ﺮﺤﺴﺑ ﻞﻴﻨﺴﻴﻛ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﺩﺭﻮﻠﻟﺍ ﺎﻬﻘﻠﺧ ﻲﺘﻟﺍ ﺔﻌﻠﻘﻟﺍ;ﻥﻮﻴﺴﺠﻧﺍ ﻢﻫﻮﻟﺍ ﺔﻌﻠﻗ</body>
   </string>
   <string>
     <id>1061076</id>
     <name>STR_DIC_W_LF4_SZ_A5_Shulack</name>
-    <body>Rokoros Village;An area surrounded by cliffs above the Dimaia Fountainhead that serves as a hidden home for the Shulacks.</body>
+    <body>.ﺲﻛﻻﻮﺷ ـﻟ ﻲﻔﺨﻣ ﻝﺰﻨﻣ ﺔﺑﺎﺜﻤﺑ ﺪﻌﺗ ﻲﺘﻟﺍﻭ ﺎﻳﺎﻤﻳﺩ ﺄﺸﻨﻣ ﻕﻮﻓ ﺕﺍﺭﺪﺤﻨﻤﻟﺎﺑ ﺔﻃﺎﺤﻣ ﺔﻘﻄﻨﻣ;ﺱﻭﺭﻮﻛﻭﺭ ﺔﻳﺮﻗ</body>
   </string>
   <string>
     <id>1061077</id>
     <name>STR_DIC_W_LF4_SZ_B_Town</name>
-    <body>Soteria Sanctuary;A village built on top of the ruins located at the end of the Scar Canyon. Both Elyos and Reian tribesmen visit the village.</body>
+    <body>.ﺔﻳﺮﻘﻟﺍ ﺓﺭﺎﻳﺰﺑ ﺱﻮﻴﻟﻻﺍ ﻞﺋﺎﺒﻗ ﻝﺎﺟﺭ ﻡﻮﻘﻳ.ﻥﻮﻴﻧﺎﻛ ﺭﺎﻜﺳ ﺔﻳﺎﻬﻧ ﻲﻓ ﺔﻌﻗﺍﻮﻟﺍ ﺽﺎﻘﻧﻷﺍ ﺔﻤﻗ ﻰﻠﻋ ﺖﻴﻨﺑ ﺔﻳﺮﻗ;ﺎﻳﺮﻴﺗﻮﺳ ﺔﻴﻤﺤﻣ</body>
   </string>
   <string>
     <id>1061078</id>
     <name>STR_DIC_W_LF4_SZ_C1_DragonFly</name>
-    <body>Jotun Ruins;The ruins of an ancient civilization located in the Angrief Ruins.</body>
+    <body>.ﺐﻀﻐﻟﺍ ﻝﻼﻃﺃ ﻲﻓ ﻊﻘﺗ ﺔﻤﻳﺪﻗ ﺓﺭﺎﻀﺣ ﺽﺎﻘﻧﺃ;ﻦﺗﻮﺟ ﻝﻼﻃﺃ</body>
   </string>
   <string>
     <id>1061079</id>
     <name>STR_DIC_W_LF4_SZ_Sky</name>
-    <body>Skies of Inggison;The sky of Inggison.</body>
+    <body>.ﻥﻮﺴﻴﺠﻧﻻﺍ ﺀﺎﻤﺳ ؛ﻥﻮﺴﻴﺠﻧﺍ ﺀﺎﻤﺳ</body>
   </string>
   <string>
     <id>1061080</id>
     <name>STR_DIC_W_ZONE_NAME_IDCatacombs</name>
-    <body>Beshmundir Temple;A Balaur temple deep inside the Silentera Canyon. Inside the temple lie tombs for the most revered Balaur.</body>
+    <body>.ﺎﻣﺍﺮﺘﺣﺍ ﺮﺜﻛﻷﺍ ﺭﻮﻠﺑﻻ ﺮﺑﺎﻘﻣ ﻦﻤﻜﺗ ﺪﺒﻌﻤﻟﺍ ﻞﺧﺍﺩ .ﻥﻮﻴﻧﺎﻛ ﺍﺮﺘﻨﻴﻠﻳﺎﺳ ﻖﻤﻋ ﻲﻓ ﺭﻮﻟﺎﺑ ﻞﻜﻴﻫ;ﺮﻳﺪﻧﻮﻤﺸﻴﺑ ﺪﺒﻌﻣ</body>
   </string>
   <string>
     <id>1061081</id>
     <name>STR_DIC_W_IDCatacombs_SZ_A1</name>
-    <body>Beshmundir's Walk;The entrance to the Beshmundir Temple inside the Silentera Canyon.</body>
+    <body>.ﺍﺮﺘﻨﻠﻴﺳ ﻱﺩﺍﻭ ﻞﺧﺍﺩ ﺪﻧﻮﻤﺸﻴﺑ ﺪﺒﻌﻣ ﻞﺧﺪﻣ;ﺮﻳﺪﻧﻮﻤﺸﻴﺑ ﺮﻴﺳ</body>
   </string>
   <string>
     <id>1061082</id>
     <name>STR_DIC_W_IDCatacombs_SZ_A2</name>
-    <body>Gate of Repose;The front gate of the Beshmundir Temple.</body>
+    <body>.ﺪﻧﻮﻤﺸﻴﺑ ﺪﺒﻌﻤﻟ ﺔﻴﻣﺎﻣﻷﺍ ﺔﺑﺍﻮﺒﻟﺍ;ﺔﺣﺍﺮﻟﺍ ﺔﺑﺍﻮﺑ</body>
   </string>
   <string>
     <id>1061083</id>
     <name>STR_DIC_W_IDCatacombs_SZ_A3</name>
-    <body>Watcher's Nexus;An area where lost souls from the Beshmundir Temple often manifest.</body>
+    <body>.ﺮﻳﺪﻧﻮﻤﺸﻴﺑ ﺪﺒﻌﻣ ﻦﻣ ﺔﻌﺋﺎﻀﻟﺍ ﺡﺍﻭﺭﻻﺃ ﺎﻬﻴﻓ ﺮﻬﻈﺗ ﺔﻘﻄﻨﻣ;ﺱﺰﻜﻴﻧ ﺐﻗﺍﺮﻣ</body>
   </string>
   <string>
     <id>1061084</id>
     <name>STR_DIC_W_IDCatacombs_SZ_A4</name>
-    <body>Oracular Chamber;A room located to the east of the Gate of Repose. Rumour has it the Altar of Soul Invocation located within can summon Faithful Respondent Utra.</body>
+    <body>ﺍﺮﺗﻮﻳ ﻦﻴﻨﻣﺆﻤﻟﺍ ﺀﺎﻋﺪﺘﺳﺍ ﻦﻜﻤﻳ ﻞﺧﺍﺩ ﺓﺩﻮﺟﻮﻤﻟﺍ ﺔﺒﺿﺎﻐﻟﺍ ﺡﻭﺮﻠﻟ ﺢﺑﺬﻣ ﻪﻳﺪﻟ ﻥﺍ ﺔﻌﺋﺎﺷ ﻙﺎﻨﻫ .ﺔﺣﺍﺮﻟﺍ ﺔﺑﺍﻮﺑ ﻦﻣ ﻕﺮﺸﻟﺍ ﻰﻟﺇ ﻊﻘﺗ ﺔﻓﺮﻏ;ﻦﻴﻌﻟﺍ ﺔﻓﺮﻏ</body>
   </string>
   <string>
     <id>1061085</id>
     <name>STR_DIC_W_IDCatacombs_SZ_A5</name>
-    <body>Hidden Space;A hidden space.</body>
+    <body>.ﺔﻴﻔﺧ ﺔﺣﺎﺴﻣ ؛ ﺔﻴﻔﺧ ﺔﺣﺎﺴﻣ</body>
   </string>
   <string>
     <id>1061086</id>
     <name>STR_DIC_W_IDCatacombs_SZ_B1</name>
-    <body>Crypt of the Vanquished;The site where Stormwing's men were massacred. The undead now roam the area.</body>
+    <body>.ﺔﻘﻄﻨﻤﻟﺍ ﻲﻓ ﻝﻮﺠﺘﺗ ﻥﻵﺍ ﺩﺪﻧﻭﻻﺍ .ﺞﻨﻳﻮﻣﺭﻮﺘﺳ ﻝﺎﺟﺭ ﺢﺑﺫ ﻪﻴﻓ ﻢﺗ ﻱﺬﻟﺍ ﻊﻗﻮﻤﻟﺍ;ﻦﻴﻣﻭﺰﻬﻤﻟﺍ ﺏﺍﺩﺮﺳ</body>
   </string>
   <string>
     <id>1061087</id>
     <name>STR_DIC_W_IDCatacombs_SZ_B2</name>
-    <body>Vault of the Conquerors;A crypt where wandering Drakan souls roam.</body>
+    <body>.ﻥﺎﻛﺍﺭﺩ ﺡﺍﻭﺭﺍ ﻝﻮﺠﺘﺗ ﺚﻴﺣ ﺏﺍﺩﺮﺳ;ﺓﺍﺰﻐﻟﺍ ﻮﺒﻗ</body>
   </string>
   <string>
     <id>1061088</id>
     <name>STR_DIC_W_IDCatacombs_SZ_B3</name>
-    <body>Acheron Mire;An infernal swamp where Macunbello tortures the souls of lost Daeva.</body>
+    <body>.ﺓﺩﻮﻘﻔﻤﻟﺍ ﺎﻔﻳﺍﺩ ﺡﺍﻭﺭﺃ ﻮﻠﻴﺒﻧﻮﻛﺎﻣ ﺏﺬﻌﻳ ﺚﻴﺣ ﻲﻤﻨﻬﺟ ﻊﻘﻨﺘﺴﻣ;ﻥﻭﺮﺸﺗﺍ ﻊﻘﻨﺘﺴﻣ</body>
   </string>
   <string>
     <id>1061089</id>
     <name>STR_DIC_W_IDCatacombs_SZ_B4</name>
-    <body>Macunbello's Refuge;A place beneath the Beshmundir Temple where Macunbello is hatching a wicked plot.</body>
+    <body>.ﺓﺮﻳﺮﺷ ﺓﺮﻣﺍﺆﻤﻟ ﻮﻠﻴﺒﻧﻮﻛﺎﻣ ﻂﻄﺨﻳ ﺚﻴﺣ ﺪﻧﻮﻤﺸﻴﺑ ﺪﺒﻌﻣ ﻞﻔﺳﺃ ﻥﺎﻜﻣ;ﻮﻠﻴﺒﻧﻮﻛﺎﻣ ﺄﺠﻠﻣ</body>
   </string>
   <string>
     <id>1061090</id>
     <name>STR_DIC_W_IDCatacombs_SZ_B5</name>
-    <body>Twisting Passage;A passage connecting the Gate of Repose to the Hero's Vault.</body>
+    <body>.ﻞﻄﺒﻟﺍ ﻮﺒﻗ ﻰﻟﺇ ﺔﺣﺍﺮﻟﺍ ﺔﺑﺍﻮﺑ ﻂﺑﺮﻳ ﺮﻤﻣ;ﻱﻮﺘﻠﻣ ﺮﻤﻣ</body>
   </string>
   <string>
     <id>1061091</id>
     <name>STR_DIC_W_IDCatacombs_SZ_B6</name>
-    <body>Hero's Vault;A room lined with catacombs and decorated with statues of heroic Drakan.</body>
+    <body>.ﺔﻴﻟﻮﻄﺒﻟﺍ ﻥﺎﻛﺍﺭﺩ ﻞﻴﺛﺎﻤﺘﺑ ﺔﻨﻳﺰﻣﻭ ﻰﺗﻮﻤﻟﺍ ﺐﻳﺩﺍﺮﺳ ﺎﻬﻴﻠﻋ ﻒﻄﺼﺗ ﺔﻓﺮﻏ ؛ ﻞﻄﺒﻟﺍ ﻮﺒﻗ</body>
   </string>
   <string>
     <id>1061092</id>
     <name>STR_DIC_W_IDCatacombs_SZ_C</name>
-    <body>Forgotten Storeroom;A deserted room that served as a warehouse when the Beshmundir Temple was first built.</body>
+    <body>.ﺓﺮﻣ ﻝﻭﻷ ﺮﻳﺪﻧﻮﻤﺸﻴﺑ ﺪﺒﻌﻣ ﺀﺎﻨﺑ ﻢﺗ ﺎﻣﺪﻨﻋ ﻉﺩﻮﺘﺴﻣ ﺔﺑﺎﺜﻤﺑ ﻥﺎﻛ ﺭﻮﺠﻬﻣ ﻥﺰﺨﻣ;ﻲﺴﻨﻤﻟﺍ ﻥﺰﺨﻤﻟﺍ</body>
   </string>
   <string>
     <id>1061093</id>
